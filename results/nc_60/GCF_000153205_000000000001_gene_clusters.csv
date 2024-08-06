@@ -1,0 +1,872 @@
+,Gene Start,Gene Size,Strand,Gene Product,Accession
+0,2525,584,+,Tyrosine recombinase XerD,4
+1,3640,479,+,hypothetical protein_531,5
+2,18239,722,-,Aspartate/glutamate leucyltransferase,17
+3,19872,1166,-,hypothetical protein_142,19
+4,21178,137,+,hypothetical protein_494,20
+5,23777,635,+,Outer-membrane lipoprotein carrier protein,22
+6,41244,1271,+,hypothetical protein_426,35
+7,42546,878,+,hypothetical protein_104,36
+8,43599,1451,+,Serine/threonine-protein kinase PknD,37
+9,45276,836,-,hypothetical protein_425,38
+10,46680,236,+,hypothetical protein_618,40
+11,46808,737,-,"Propane 2-monooxygenase, reductase component",41
+12,47636,2684,-,hypothetical protein_424,42
+13,50378,428,-,Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase,43
+14,50803,320,-,hypothetical protein_221,44
+15,52627,704,-,hypothetical protein_423,47
+16,53403,2525,-,hypothetical protein_103,48
+17,59495,956,-,hypothetical protein_114,51
+18,60515,800,-,Kynurenine formamidase_437,52
+19,61561,767,-,hypothetical protein_113,53
+20,62525,260,-,Spore protein SP21,54
+21,62837,1697,-,Glycine betaine transporter,55
+22,65035,314,-,hypothetical protein_436,57
+23,65794,1877,+,hypothetical protein_112,58
+24,67805,782,-,hypothetical protein_619,59
+25,68795,1319,-,putative nitrate/nitrite transporter NarK2,60
+26,70452,602,-,hypothetical protein_111,61
+27,71246,194,+,hypothetical protein_110,62
+28,72306,317,+,Chaperone modulatory protein CbpM,64
+29,72647,857,-,hypothetical protein_109,65
+30,76126,395,-,putative protein,67
+31,78094,920,-,Manganese efflux system protein MneP,70
+32,79094,1520,-,Histidine ammonia-lyase,71
+33,80856,521,+,hypothetical protein_435,72
+34,83057,827,+,Putative oxidoreductase SadH,76
+35,85149,560,+,hypothetical protein_433,78
+36,85734,494,+,putative N-acetyltransferase YafP,79
+37,86235,608,+,hypothetical protein_108,80
+38,93654,203,-,hypothetical protein_214,88
+39,94361,650,-,hypothetical protein_432,89
+40,104023,4607,-,hypothetical protein_530,96
+41,108627,584,-,hypothetical protein_239,97
+42,125645,1457,+,Membrane-bound lytic murein transglycosylase F,109
+43,131728,1184,+,Adaptive-response sensory-kinase SasA_36,112
+44,132950,1148,+,hypothetical protein_35,113
+45,135603,545,+,hypothetical protein_34,115
+46,136184,386,+,hypothetical protein_33,116
+47,137259,1355,+,Adaptive-response sensory-kinase SasA_308,118
+48,138665,836,+,Ribokinase,119
+49,139629,446,+,Inner membrane protein YbaN,120
+50,151063,620,-,hypothetical protein_605,129
+51,152701,1154,-,hypothetical protein_604,131
+52,164808,392,+,hypothetical protein_316,143
+53,167180,773,+,Photosystem I assembly protein Ycf3,147
+54,167940,1091,+,Cytoskeleton protein RodZ,148
+55,170516,641,+,hypothetical protein_47,150
+56,171154,1151,+,Outer membrane protein assembly factor BamB,151
+57,172322,761,+,hypothetical protein_46,152
+58,185834,1160,+,hypothetical protein_45,165
+59,187220,884,+,"3',5'-nucleoside bisphosphate phosphatase",166
+60,188283,257,-,hypothetical protein_315,167
+61,189864,722,+,hypothetical protein_44,169
+62,194659,992,-,hypothetical protein_43,172
+63,195651,416,-,hypothetical protein_314,173
+64,221439,713,+,N-(5'-phosphoribosyl)anthranilate isomerase,195
+65,225187,1280,+,Dihydrofolate synthase/folylpolyglutamate synthase,199
+66,252217,239,+,FAD assembly factor SdhE,225
+67,252404,449,+,hypothetical protein_366,226
+68,255304,641,+,hypothetical protein_78,229
+69,255929,1043,+,Sigma factor AlgU regulatory protein MucB,230
+70,260397,371,+,hypothetical protein_79,233
+71,262381,749,+,DNA repair protein RecO,236
+72,263879,383,+,Holo-[acyl-carrier-protein] synthase,238
+73,265053,2060,-,Signal transduction histidine-protein kinase BarA,240
+74,270311,416,+,hypothetical protein_367,244
+75,270788,446,-,hypothetical protein_80,245
+76,271564,281,-,hypothetical protein_81,246
+77,272674,2066,+,Transketolase 1,248
+78,276012,884,+,"Phosphoribulokinase, plasmid",251
+79,276934,1028,+,"Fructose-1,6-bisphosphatase class 1",252
+80,278177,971,+,Proline iminopeptidase,253
+81,282845,341,+,hypothetical protein_325,256
+82,283428,98,+,IS5 family transposase ISNGR9,258
+83,293411,833,+,Phosphatidate cytidylyltransferase,268
+84,299722,1064,+,UDP-3-O-acylglucosamine N-acyltransferase,273
+85,308827,1340,+,tRNA(Ile)-lysidine synthase,280
+86,314692,725,+,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,285
+87,327896,668,-,hypothetical protein_313,299
+88,328662,1481,-,hypothetical protein_39,300
+89,330415,2102,-,Tail-specific protease,301
+90,335426,860,+,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase",303
+91,336344,488,-,hypothetical protein_38,304
+92,338751,623,+,hypothetical protein_596,307
+93,346556,440,-,Acetyltransferase,314
+94,349948,818,-,hypothetical protein_144,317
+95,364753,1997,+,putative TonB-dependent receptor,339
+96,366929,902,+,hypothetical protein_603,340
+97,368025,335,+,hypothetical protein_242,341
+98,368659,242,+,hypothetical protein_203,342
+99,369323,524,+,putative peptidyl-prolyl cis-trans isomerase,343
+100,370601,602,+,hypothetical protein_168,345
+101,373004,1988,+,UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase,348
+102,375152,2327,+,Protein YdeP,349
+103,379591,545,+,Methylated-DNA--protein-cysteine methyltransferase,352
+104,387042,734,+,hypothetical protein_429,359
+105,388962,722,+,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB,362
+106,394305,806,+,hypothetical protein_430,366
+107,416385,2855,-,RecBCD enzyme subunit RecB,389
+108,419657,608,-,hypothetical protein_292,390
+109,420522,3137,+,hypothetical protein_532,391
+110,423656,248,+,hypothetical protein_533,392
+111,423904,335,+,hypothetical protein_240,393
+112,425882,230,-,hypothetical protein_615,398
+113,426623,419,-,hypothetical protein_616,401
+114,452651,1166,-,hypothetical protein_134,431
+115,453851,596,-,hypothetical protein_483,432
+116,457397,467,+,hypothetical protein_133,436
+117,458067,419,-,hypothetical protein_482,437
+118,458807,1388,-,hypothetical protein_481,438
+119,460333,1595,-,hypothetical protein_480,439
+120,463003,362,+,hypothetical protein_132,441
+121,468163,896,+,RCS-specific HTH-type transcriptional activator RclR,448
+122,470527,1076,+,Beta-barrel assembly-enhancing protease_620,450
+123,471731,338,+,hypothetical protein_190,451
+124,473051,1301,+,hypothetical protein_597,453
+125,476541,968,+,Ferrous-iron efflux pump FieF,457
+126,512148,1280,-,hypothetical protein_536,496
+127,513464,779,-,hypothetical protein_376,497
+128,514443,2084,-,hypothetical protein_375,498
+129,516540,1391,-,hypothetical protein_374,499
+130,517991,935,+,hypothetical protein_373,500
+131,518912,743,-,hypothetical protein_372,501
+132,519804,731,+,hypothetical protein_371,502
+133,520528,767,+,Exopolysaccharide glucosyl ketal-pyruvate-transferase,503
+134,521292,791,+,hypothetical protein_370,504
+135,522321,1334,+,Intermembrane transport protein PqiA,505
+136,523648,1643,+,Intermembrane transport protein PqiB,506
+137,525288,626,+,Intermembrane transport lipoprotein PqiC,507
+138,527309,1370,+,Proline/betaine transporter,509
+139,533830,578,+,hypothetical protein_88,517
+140,537274,569,+,hypothetical protein_87,521
+141,550563,830,-,hypothetical protein_84,532
+142,551571,581,-,hypothetical protein_83,533
+143,558447,1205,-,Cobalt-zinc-cadmium resistance protein CzcB,540
+144,559652,1313,-,Cobalt-zinc-cadmium resistance protein CzcC,541
+145,561049,269,-,hypothetical protein_368,542
+146,601400,755,+,hypothetical protein_231,579
+147,602157,923,+,Vitamin B12-binding protein,580
+148,603123,557,+,hypothetical protein_143,581
+149,606465,2528,+,Maltodextrin phosphorylase,586
+150,609054,1265,+,Glucose-1-phosphate adenylyltransferase,587
+151,612045,1562,+,Glycogen synthase,589
+152,618837,1472,-,hypothetical protein_516,595
+153,622211,1004,-,Glutathionyl-hydroquinone reductase YqjG,599
+154,625800,1325,-,putative protein_528,602
+155,628389,437,-,hypothetical protein_529,604
+156,631818,665,-,"Propane 2-monooxygenase, reductase component_157",607
+157,662999,683,+,Intermembrane phospholipid transport system binding protein MlaC_621,634
+158,663633,1169,-,hypothetical protein_622,635
+159,664804,2513,-,hypothetical protein_26,636
+160,668277,794,+,hypothetical protein_291,638
+161,669068,1172,+,Beta-barrel assembly-enhancing protease_290,639
+162,670237,599,+,hypothetical protein_289,640
+163,670865,896,-,hypothetical protein_2,641
+164,672339,980,-,hypothetical protein_25,643
+165,673842,395,+,hypothetical protein_288,645
+166,674277,1073,+,hypothetical protein_287,646
+167,677913,1070,-,hypothetical protein_286,649
+168,679200,665,-,Intermembrane phospholipid transport system binding protein MlaC,650
+169,679989,437,-,hypothetical protein_285,652
+170,681084,569,+,hypothetical protein_284,653
+171,682004,1553,+,Glucans biosynthesis protein G,654
+172,683529,1985,+,Glucans biosynthesis glucosyltransferase H,655
+173,685705,356,+,hypothetical protein_192,656
+174,686139,323,+,Thioredoxin 1,657
+175,686486,581,-,hypothetical protein_283,658
+176,687117,1634,-,hypothetical protein_282,659
+177,689358,359,+,hypothetical protein_281,660
+178,697056,1685,+,Cell division protein DamX,669
+179,698826,1139,+,hypothetical protein_623,670
+180,718558,677,-,hypothetical protein_612,691
+181,719243,482,-,hypothetical protein_611,692
+182,719722,968,-,hypothetical protein_610,693
+183,720746,536,-,hypothetical protein_609,694
+184,721263,2579,-,hypothetical protein_608,695
+185,723857,479,-,hypothetical protein_256,696
+186,724333,344,-,hypothetical protein_255,697
+187,724680,1508,-,hypothetical protein_254,698
+188,726185,734,-,hypothetical protein_253,699
+189,726919,1151,-,hypothetical protein_252,700
+190,728076,497,-,hypothetical protein_251,701
+191,728655,1226,-,hypothetical protein_250,702
+192,729909,716,-,hypothetical protein_249,703
+193,734382,329,+,hypothetical protein_248,709
+194,734760,947,+,hypothetical protein_247,710
+195,735756,659,+,hypothetical protein_9,711
+196,736620,1103,+,hypothetical protein_4,712
+197,746891,1889,-,ATP-dependent DNA helicase RecQ,722
+198,749335,989,-,hypothetical protein_522,724
+199,750439,1001,-,Tyrosine recombinase XerC,725
+200,752707,2420,-,Flavohemoprotein_524,727
+201,755156,2198,-,Fe(3+)-pyochelin receptor,728
+202,757502,1685,-,ABC transporter ATP-binding/permease protein YojI,729
+203,759184,173,-,hypothetical protein_216,730
+204,776550,3230,-,Tyrocidine synthase 3,736
+205,779785,9224,-,D-alanine--D-alanyl carrier protein ligase,737
+206,789182,215,+,Protein MbtH,738
+207,789407,2498,+,Aculeacin-A acylase,739
+208,791891,998,-,hypothetical protein_471,740
+209,793510,704,+,hypothetical protein_472,741
+210,794709,1055,+,DNA polymerase IV,743
+211,795836,1025,-,Arginine N-succinyltransferase,744
+212,796858,1334,-,Succinyl-diaminopimelate desuccinylase,745
+213,799805,359,+,hypothetical protein_127,747
+214,800291,1745,+,hypothetical protein_128,748
+215,847166,503,+,hypothetical protein_129,792
+216,848188,1037,+,hypothetical protein_130,794
+217,849281,548,+,hypothetical protein_475,795
+218,849892,3572,+,Type IV pilus biogenesis factor PilY1,796
+219,853602,320,+,hypothetical protein_131,797
+220,854159,440,+,hypothetical protein_476,798
+221,854849,557,+,hypothetical protein_477,799
+222,867472,689,-,Phosphoserine phosphatase 1,814
+223,870378,179,-,hypothetical protein_538,818
+224,870826,482,+,hypothetical protein_539,819
+225,874050,782,+,hypothetical protein_540,823
+226,874866,458,+,hypothetical protein_541,824
+227,875482,1982,+,Putative asparagine synthetase [glutamine-hydrolyzing],825
+228,878959,1010,-,hypothetical protein_159,827
+229,879959,722,-,hypothetical protein_160,828
+230,880762,1166,-,hypothetical protein_542,829
+231,881925,2555,-,hypothetical protein_543,830
+232,884705,953,+,hypothetical protein_544,831
+233,885749,413,-,Ribonuclease VapC11,833
+234,886149,221,-,hypothetical protein_545,834
+235,886496,1298,+,D-inositol-3-phosphate glycosyltransferase_217,835
+236,889106,1046,-,hypothetical protein_547,837
+237,890429,890,+,hypothetical protein_548,838
+238,892102,341,-,hypothetical protein_549,840
+239,898634,503,+,Isopentenyl-diphosphate Delta-isomerase,845
+240,899335,1904,+,hypothetical protein_550,846
+241,934129,266,-,hypothetical protein_359,877
+242,934385,110,-,hypothetical protein_360,878
+243,934530,1706,-,Peptide transporter CstA,879
+244,938512,698,-,Phosphoenolpyruvate guanylyltransferase,882
+245,942511,1058,-,Trans-aconitate 2-methyltransferase,888
+246,944963,431,-,hypothetical protein_303,891
+247,945548,449,-,HTH-type transcriptional regulator CueR,892
+248,947307,878,-,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase_564",894
+249,948922,809,-,Protein MtfA,896
+250,951484,1367,-,Glutamate--cysteine ligase EgtA,899
+251,953050,1544,-,putative protein_450,900
+252,967478,239,-,hypothetical protein_56,914
+253,969517,314,-,hypothetical protein_329,917
+254,969873,374,-,Putative fluoride ion transporter CrcB,918
+255,986511,839,-,Hydrogenase maturation factor HypB,931
+256,987350,332,-,Hydrogenase maturation factor HybF,932
+257,987695,1094,-,Carbamoyl dehydratase HypE,933
+258,988786,1172,-,Hydrogenase maturation factor HypD,934
+259,990023,278,-,Hydrogenase maturation factor HybG,935
+260,990306,2345,-,Carbamoyltransferase HypF,936
+261,996432,461,-,hypothetical protein_504,941
+262,998342,1019,+,putative protein_505,943
+263,999639,1547,+,Adaptive-response sensory-kinase SasA_506,944
+264,1001206,446,+,Response regulator rcp1,945
+265,1001659,2456,+,hypothetical protein_507,946
+266,1004788,905,-,hypothetical protein_508,948
+267,1006046,671,+,hypothetical protein_509,949
+268,1006736,1049,+,hypothetical protein_510,950
+269,1008035,1649,-,Acetolactate synthase,951
+270,1009718,1439,-,hypothetical protein_511,952
+271,1012550,1016,-,Zinc-type alcohol dehydrogenase-like protein,954
+272,1020683,3353,-,RecBCD enzyme subunit RecB_512,960
+273,1024033,2669,-,hypothetical protein_151,961
+274,1030341,524,-,hypothetical protein_487,964
+275,1030954,812,-,hypothetical protein_486,965
+276,1033405,1061,-,hypothetical protein_135,968
+277,1035082,680,-,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,970
+278,1073877,845,-,hypothetical protein_187,1002
+279,1076019,521,-,Ribosome maturation factor RimM,1005
+280,1082119,1409,-,Glutamate--tRNA ligase,1011
+281,1084832,1421,-,hypothetical protein_186,1014
+282,1086846,818,-,Trehalose-phosphate phosphatase,1016
+283,1125285,479,-,hypothetical protein_624,1064
+284,1125769,293,-,hypothetical protein_19,1065
+285,1126192,734,-,hypothetical protein_625,1066
+286,1142278,1202,-,hypothetical protein_626,1084
+287,1143486,1958,-,hypothetical protein_627,1085
+288,1145497,947,-,Peptidoglycan hydrolase FlgJ,1086
+289,1149058,1112,-,putative multidrug ABC transporter permease YbhR,1089
+290,1150173,1145,-,putative multidrug ABC transporter permease YbhS,1090
+291,1151315,1754,-,putative multidrug ABC transporter ATP-binding protein YbhF,1091
+292,1153066,1037,-,hypothetical protein_264,1092
+293,1155684,383,-,hypothetical protein_16,1094
+294,1156574,1325,+,CAI-1 autoinducer sensor kinase/phosphatase CqsS,1095
+295,1157892,1028,+,hypothetical protein_15,1096
+296,1160715,1844,-,Protease 4,1098
+297,1166532,1469,-,N-succinylglutamate 5-semialdehyde dehydrogenase,1101
+298,1168104,680,-,hypothetical protein_298,1102
+299,1173244,602,+,Dephospho-CoA kinase,1106
+300,1173864,839,+,Cell division protein ZapD,1107
+301,1180073,509,+,hypothetical protein_27,1112
+302,1193034,1361,-,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,1125
+303,1194395,1508,-,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",1126
+304,1200955,2159,+,Penicillin-binding protein activator LpoA,1132
+305,1203107,359,+,hypothetical protein_299,1133
+306,1218705,569,+,Lipopolysaccharide export system protein LptC,1153
+307,1219255,569,+,Lipopolysaccharide export system protein LptA,1154
+308,1223304,845,+,HPr kinase/phosphorylase,1159
+309,1229710,3794,-,hypothetical protein_29,1166
+310,1236206,371,-,Ribosomal silencing factor RsfS,1170
+311,1238610,1022,-,hypothetical protein_30,1173
+312,1239651,494,-,LPS-assembly lipoprotein LptE,1174
+313,1242974,524,+,hypothetical protein_31,1176
+314,1243851,737,+,Oxygen regulatory protein NreC,1177
+315,1245438,476,-,hypothetical protein_6,1179
+316,1246245,776,-,hypothetical protein_228,1181
+317,1247316,1160,-,hypothetical protein_207,1182
+318,1261971,536,-,hypothetical protein_328,1194
+319,1263752,272,-,hypothetical protein_327,1196
+320,1269883,731,-,hypothetical protein_55,1204
+321,1271895,128,-,hypothetical protein_326,1207
+322,1274874,560,-,hypothetical protein_54,1210
+323,1279190,566,-,Chorismate pyruvate-lyase,1215
+324,1290166,251,+,hypothetical protein_52,1226
+325,1290571,353,+,hypothetical protein_628,1227
+326,1315587,239,+,hypothetical protein_577,1255
+327,1315792,404,+,hypothetical protein_576,1256
+328,1320168,653,+,hypothetical protein_175,1262
+329,1320977,758,+,hypothetical protein_174,1263
+330,1321910,632,+,Molybdenum cofactor guanylyltransferase,1264
+331,1323962,1250,+,hypothetical protein_173,1266
+332,1325377,425,+,hypothetical protein_172,1267
+333,1339660,227,-,hypothetical protein_617,1284
+334,1341387,674,-,hypothetical protein_428,1286
+335,1376498,386,-,tRNA(fMet)-specific endonuclease VapC,1312
+336,1376881,230,-,hypothetical protein_492,1313
+337,1381434,1154,+,hypothetical protein_136,1318
+338,1382861,353,+,hypothetical protein_490,1319
+339,1383336,515,-,Heme oxygenase HutZ,1320
+340,1384102,317,-,hypothetical protein_489,1321
+341,1384616,1223,+,Cyclic di-GMP phosphodiesterase CdgJ_488,1322
+342,1408795,251,-,hypothetical protein_397,1359
+343,1412041,1082,-,hypothetical protein_629,1363
+344,1413120,1364,-,hypothetical protein_630,1364
+345,1418171,1649,+,Protein-glutamate methylesterase/protein-glutamine glutaminase,1370
+346,1419817,2147,-,Signal transduction histidine-protein kinase BarA_304,1371
+347,1421969,551,-,hypothetical protein_305,1372
+348,1422625,422,-,hypothetical protein_306,1373
+349,1423858,1391,-,Sodium-dependent dicarboxylate transporter SdcS,1374
+350,1425627,2045,+,Elongation factor G-like protein,1375
+351,1427725,947,+,hypothetical protein_361,1376
+352,1428876,209,+,hypothetical protein_211,1377
+353,1429057,770,+,hypothetical protein_212,1378
+354,1429950,815,+,hypothetical protein_76,1379
+355,1430902,539,+,hypothetical protein_75,1380
+356,1432256,332,+,hypothetical protein_8,1383
+357,1434625,224,-,hypothetical protein_64,1385
+358,1435508,677,-,hypothetical protein_393,1386
+359,1436169,1169,-,8-amino-7-oxononanoate synthase 2,1387
+360,1438874,842,-,Aminodeoxychorismate lyase,1390
+361,1439709,1406,-,Isochorismate synthase MenF,1391
+362,1444941,659,-,Peroxiredoxin,1397
+363,1445868,821,-,hypothetical protein_394,1398
+364,1446641,482,-,hypothetical protein_395,1399
+365,1462453,1109,+,Putative transport protein YhhT,1412
+366,1465885,578,+,hypothetical protein_396,1416
+367,1466942,1235,+,Na(+)/H(+) antiporter NhaP,1417
+368,1474284,194,+,hypothetical protein_584,1425
+369,1477476,311,+,(S)-ureidoglycine--glyoxylate transaminase,1430
+370,1478294,920,+,lipid kinase YegS,1431
+371,1479503,539,-,hypothetical protein_585,1432
+372,1480911,746,+,hypothetical protein_181,1434
+373,1481801,371,-,putative alcohol dehydrogenase AdhA,1435
+374,1482374,395,-,hypothetical protein_182,1436
+375,1484915,125,-,Ktr system potassium uptake protein A,1439
+376,1487199,1124,-,hypothetical protein_184,1443
+377,1488573,605,-,hypothetical protein_185,1444
+378,1493504,1223,-,hypothetical protein_152,1449
+379,1494724,503,-,Cytochrome c-type biogenesis protein CcmH,1450
+380,1499131,974,-,hypothetical protein_153,1456
+381,1501382,1688,-,hypothetical protein_154,1458
+382,1503183,2213,-,GTP pyrophosphokinase,1459
+383,1505638,539,+,hypothetical protein_18,1460
+384,1507869,281,+,Foldase protein PrsA_213,1463
+385,1518165,1031,-,Beta-hexosaminidase,1473
+386,1519490,758,-,hypothetical protein_107,1474
+387,1521657,662,+,Kynurenine formamidase,1477
+388,1523321,101,+,hypothetical protein_427,1479
+389,1532480,392,-,hypothetical protein_263,1491
+390,1535481,1091,+,"Ubiquinone biosynthesis O-methyltransferase, mitochondrial",1495
+391,1536641,269,-,hypothetical protein_262,1496
+392,1538111,860,+,hypothetical protein_82,1497
+393,1539061,1811,-,Lipid A export ATP-binding/permease protein MsbA,1498
+394,1541815,938,+,2-dehydropantoate 2-reductase,1500
+395,1542758,2201,+,tRNA(Met) cytidine acetyltransferase TmcA,1501
+396,1545773,314,-,putative signaling protein,1503
+397,1546171,1058,-,Histidine N-alpha-methyltransferase,1504
+398,1547269,776,+,Gamma-glutamyl-hercynylcysteine sulfoxide hydrolase,1505
+399,1548050,1166,+,Hercynine oxygenase,1506
+400,1553122,1592,+,Na(+)/H(+) antiporter NhaB,1509
+401,1555671,380,-,hypothetical protein_570,1511
+402,1556139,1250,-,Imidazolonepropionase,1512
+403,1557405,1706,-,Urocanate hydratase,1513
+404,1559291,1364,+,8-oxoguanine deaminase,1514
+405,1563756,605,+,hypothetical protein_571,1520
+406,1565522,740,+,hypothetical protein_573,1522
+407,1566264,746,+,CTP:phosphoglutamine cytidylyltransferase,1523
+408,1567000,1652,+,2-methylisocitrate lyase,1524
+409,1568664,1148,+,hypothetical protein_574,1525
+410,1569826,1037,+,2-aminoethylphosphonate--pyruvate transaminase,1526
+411,1571662,1520,+,Hopanoid C-3 methylase,1528
+412,1573295,632,-,hypothetical protein_575,1529
+413,1573974,1397,-,Methanethiol oxidase,1530
+414,1575569,1148,-,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1531
+415,1576714,980,-,Pyruvate dehydrogenase E1 component subunit beta,1532
+416,1577787,1181,-,Pyruvate dehydrogenase E1 component subunit alpha,1533
+417,1584384,326,-,hypothetical protein_454,1537
+418,1584898,287,-,3-oxoacyl-[acyl-carrier-protein] reductase FabG,1538
+419,1585693,173,-,hypothetical protein,1540
+420,1597107,977,-,hypothetical protein_632,1550
+421,1601187,215,-,hypothetical protein_121,1555
+422,1601590,266,+,hypothetical protein_120,1556
+423,1601947,497,-,hypothetical protein_119,1557
+424,1605113,1913,+,Translocation and assembly module subunit TamA,1559
+425,1607029,3965,+,Translocation and assembly module subunit TamB,1560
+426,1611622,1265,-,Proton/glutamate-aspartate symporter,1562
+427,1613115,1331,+,hypothetical protein_452,1563
+428,1623738,938,-,hypothetical protein_117,1572
+429,1624700,1112,-,Cysteine protease StiP,1573
+430,1625809,728,-,hypothetical protein_116,1574
+431,1626534,1136,-,hypothetical protein_115,1575
+432,1627807,575,-,General stress protein 16U,1576
+433,1629686,452,-,hypothetical protein_377,1578
+434,1630169,1193,-,hypothetical protein_378,1579
+435,1631399,584,-,Stress response protein SCP2,1580
+436,1635507,470,-,Guanine deaminase,1584
+437,1682953,1841,-,Asparagine synthetase [glutamine-hydrolyzing] 1,1640
+438,1687138,731,-,"2-phytyl-1,4-beta-naphthoquinone methyltransferase, chloroplastic",1643
+439,1726861,959,-,hypothetical protein_355,1678
+440,1727828,1385,-,hypothetical protein_354,1679
+441,1729210,1169,-,D-inositol-3-phosphate glycosyltransferase_353,1680
+442,1733592,1175,-,D-inositol-3-phosphate glycosyltransferase_352,1683
+443,1734808,1622,-,hypothetical protein_351,1684
+444,1736427,1334,-,hypothetical protein_350,1685
+445,1742494,899,-,hypothetical protein_470,1690
+446,1743415,1556,-,hypothetical protein_469,1691
+447,1745964,2807,-,Beta-barrel assembly-enhancing protease_126,1693
+448,1750190,2108,-,Adaptive-response sensory-kinase SasA_339,1695
+449,1762002,2003,+,hypothetical protein_222,1706
+450,1768053,233,+,hypothetical protein_556,1710
+451,1772026,572,+,FKBP-type peptidyl-prolyl cis-trans isomerase SlyD,1715
+452,1772728,347,-,hypothetical protein_164,1716
+453,1775068,734,-,DnaA regulatory inactivator Hda,1721
+454,1776006,1136,-,hypothetical protein_557,1722
+455,1782295,3326,+,hypothetical protein_558,1729
+456,1785637,1076,+,Tol-Pal system protein TolB,1730
+457,1799592,1163,-,Homoserine O-succinyltransferase,1744
+458,1801396,1046,+,hypothetical protein_276,1746
+459,1803330,998,-,Cytochrome c551 peroxidase,1748
+460,1804665,356,+,FK506-binding protein,1749
+461,1818623,1115,-,Anhydro-N-acetylmuramic acid kinase,1762
+462,1819735,1556,-,hypothetical protein_323,1763
+463,1822335,146,-,hypothetical protein_515,1765
+464,1838596,383,+,hypothetical protein_344,1777
+465,1839745,956,+,hypothetical protein_345,1779
+466,1840774,1178,-,hypothetical protein_66,1780
+467,1842260,398,-,hypothetical protein_346,1781
+468,1845965,821,+,hypothetical protein_67,1785
+469,1848270,539,+,hypothetical protein_347,1788
+470,1852444,980,-,hypothetical protein_68,1793
+471,1853448,1004,-,hypothetical protein_69,1794
+472,1854515,1103,-,Lipopolysaccharide export system permease protein LptG,1795
+473,1855594,1133,-,hypothetical protein_70,1796
+474,1856794,863,-,hypothetical protein_71,1797
+475,1857684,1178,-,Protein YghO,1798
+476,1859600,1775,+,4-hydroxyphenylalkanoate adenylyltransferase,1799
+477,1861384,920,+,hypothetical protein_72,1800
+478,1862358,251,+,hypothetical protein_348,1801
+479,1863884,593,-,hypothetical protein_73,1803
+480,1866971,353,+,hypothetical protein_349,1805
+481,1867327,671,+,Cell division protein FtsN,1806
+482,1867982,1037,-,hypothetical protein_74,1807
+483,1874150,602,-,Tungstate uptake system ATP-binding protein TupC,1812
+484,1882342,260,+,hypothetical protein_416,1820
+485,1882719,176,+,hypothetical protein_417,1821
+486,1886658,932,+,Recombination-associated protein RdgC,1826
+487,1887643,1532,-,hypothetical protein_62,1827
+488,1889172,1238,-,hypothetical protein_63,1828
+489,1890602,500,+,hypothetical protein_65,1829
+490,1891679,1037,-,hypothetical protein_343,1831
+491,1892754,1118,-,Aldose sugar dehydrogenase YliI,1832
+492,1896346,1433,+,hypothetical protein_563,1836
+493,1897801,1466,+,hypothetical protein_562,1837
+494,1899303,1676,+,hypothetical protein_561,1838
+495,1928979,362,+,Dihydroneopterin aldolase,1874
+496,1929338,491,+,hypothetical protein_517,1875
+497,1932207,791,+,Undecaprenyl-diphosphatase,1878
+498,1936460,800,+,hypothetical protein_246,1882
+499,1939393,1718,+,RNA polymerase-associated protein RapA_236,1885
+500,1941468,287,+,hypothetical protein_219,1886
+501,1946067,461,+,hypothetical protein_518,1890
+502,1952117,254,-,hypothetical protein_237,1898
+503,1952539,1298,-,hypothetical protein_206,1899
+504,1959750,464,-,hypothetical protein_199,1906
+505,1960385,464,-,Mercuric resistance operon regulatory protein,1908
+506,1960996,1385,-,Glucose-6-phosphate 1-dehydrogenase 1,1909
+507,1962383,338,-,hypothetical protein_58,1910
+508,1962744,2627,-,Transaldolase,1911
+509,1995493,239,+,Trehalase_244,1944
+510,1996201,1238,-,Adaptive-response sensory-kinase SasA,1947
+511,1998007,371,+,hypothetical protein_7,1948
+512,1999031,212,-,hypothetical protein_57,1950
+513,1999562,704,+,Transcriptional regulatory protein TdiR,1951
+514,2000444,1226,+,Na(+)/H(+) antiporter NhaA,1952
+515,2007456,1019,-,hypothetical protein_338,1958
+516,2008479,674,-,hypothetical protein_337,1959
+517,2009165,1100,-,"dTDP-4-amino-4,6-dideoxy-D-glucose transaminase",1960
+518,2010634,398,-,hypothetical protein_336,1961
+519,2011716,1394,+,Lipopolysaccharide biosynthesis protein WzxC,1963
+520,2013107,932,+,hypothetical protein_335,1964
+521,2017232,1256,+,hypothetical protein_334,1967
+522,2018485,209,+,hypothetical protein_333,1968
+523,2018691,1049,+,hypothetical protein_332,1969
+524,2019813,1142,+,Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase,1970
+525,2020967,2228,+,hypothetical protein_331,1971
+526,2024260,2252,+,hypothetical protein_145,1973
+527,2026509,1298,+,hypothetical protein_146,1974
+528,2027863,836,+,Rhamnosyltransferase WbbL,1975
+529,2028684,1253,+,hypothetical protein_495,1976
+530,2030427,782,+,hypothetical protein_496,1978
+531,2031448,860,+,hypothetical protein_497,1979
+532,2032462,1238,+,hypothetical protein_147,1980
+533,2033687,869,+,hypothetical protein_148,1981
+534,2039415,311,+,hypothetical protein_498,1986
+535,2040374,521,+,hypothetical protein_499,1987
+536,2040981,935,+,hypothetical protein_149,1988
+537,2047048,755,+,Outer membrane protein assembly factor BamD,1992
+538,2058714,239,+,hypothetical protein_198,2001
+539,2061898,1964,+,hypothetical protein_93,2006
+540,2063972,626,+,putative Ni/Fe-hydrogenase B-type cytochrome subunit,2007
+541,2064540,347,+,hypothetical protein_633,2008
+542,2065581,1343,+,hypothetical protein_634,2010
+543,2081877,974,+,Thiamine-monophosphate kinase,2027
+544,2082967,281,-,hypothetical protein_401,2028
+545,2088116,167,+,hypothetical protein_402,2031
+546,2088476,437,+,hypothetical protein_403,2032
+547,2088932,1406,-,hypothetical protein_229,2033
+548,2090547,356,-,hypothetical protein_404,2034
+549,2091014,1553,+,hypothetical protein_405,2035
+550,2093704,1283,-,Anaerobic nitric oxide reductase transcription regulator NorR,2037
+551,2094984,3050,-,Vitamin B12 import ATP-binding protein BtuD_406,2038
+552,2098142,752,-,Foldase protein PrsA_407,2039
+553,2098936,1385,-,"Hemolysin secretion protein D, chromosomal",2040
+554,2100311,2411,-,hypothetical protein_408,2041
+555,2102759,1478,-,putative efflux pump outer membrane protein TtgC,2042
+556,2104381,302,-,hypothetical protein_409,2043
+557,2104764,251,-,hypothetical protein_410,2044
+558,2105432,773,+,Iron-sulfur cluster carrier protein,2045
+559,2106199,1046,+,hypothetical protein_411,2046
+560,2107242,524,-,hypothetical protein_412,2047
+561,2107945,593,-,hypothetical protein_413,2048
+562,2108963,263,-,hypothetical protein_414,2049
+563,2109502,263,+,hypothetical protein_415,2050
+564,2109956,704,+,Demethylmenaquinone methyltransferase,2051
+565,2110681,986,-,hypothetical protein_95,2052
+566,2111687,737,-,hypothetical protein_96,2053
+567,2112741,686,+,Phosphate regulon transcriptional regulatory protein PhoB,2054
+568,2113489,560,-,hypothetical protein_232,2055
+569,2127083,905,-,hypothetical protein_398,2064
+570,2128359,713,-,hypothetical protein_399,2065
+571,2129069,791,-,DNA-3-methyladenine glycosylase 2,2066
+572,2147042,275,+,hypothetical protein_37,2083
+573,2150095,2126,+,hypothetical protein_310,2087
+574,2153596,1025,+,Hydroxyacylglutathione hydrolase_311,2090
+575,2203615,1076,+,"1,2-phenylacetyl-CoA epoxidase, subunit E",2137
+576,2204892,767,+,hypothetical protein_51,2138
+577,2206329,224,-,hypothetical protein_50,2140
+578,2206805,725,+,hypothetical protein_319,2141
+579,2207527,713,+,hypothetical protein_318,2142
+580,2209499,878,+,hypothetical protein_49,2144
+581,2210427,215,-,Molybdenum-pterin-binding protein 2,2145
+582,2210680,821,-,Molybdate-binding protein ModA,2146
+583,2218853,1994,-,hypothetical protein_601,2153
+584,2224753,632,-,Thiol:disulfide interchange protein DsbA,2157
+585,2225584,635,-,Cytochrome c4,2158
+586,2231006,383,+,hypothetical protein_599,2162
+587,2235346,977,+,Lipid A biosynthesis lauroyltransferase,2165
+588,2245462,530,-,ATP synthase subunit delta,2173
+589,2246003,464,-,ATP synthase subunit b,2174
+590,2246544,299,-,"ATP synthase subunit c, sodium ion specific",2175
+591,2246908,785,-,ATP synthase subunit a,2176
+592,2247690,401,-,hypothetical protein_48,2177
+593,2250000,677,-,Ribosomal RNA small subunit methyltransferase G,2180
+594,2277435,425,-,putative protein YibN,2205
+595,2283055,638,-,Ubiquinone biosynthesis accessory factor UbiJ,2210
+596,2287955,689,-,hypothetical protein_98,2216
+597,2290952,146,-,hypothetical protein_635,2219
+598,2295399,548,-,Virginiamycin B lyase,2224
+599,2297814,1052,+,hypothetical protein_97,2226
+600,2298863,1262,+,Protein HemY,2227
+601,2325667,1403,+,putative zinc protease,2253
+602,2327067,1331,+,hypothetical protein_188,2254
+603,2328407,584,+,Ribosomal RNA small subunit methyltransferase D,2255
+604,2407576,635,-,hypothetical protein_274,2328
+605,2409231,1415,-,hypothetical protein_22,2330
+606,2410732,719,-,hypothetical protein_195,2331
+607,2412181,1046,+,hypothetical protein_21,2333
+608,2413288,1967,+,Squalene--hopene cyclase,2334
+609,2415252,746,+,hypothetical protein_20,2335
+610,2418503,920,+,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,2337
+611,2419486,1157,+,"GTP 3',8-cyclase",2338
+612,2420666,1121,+,hypothetical protein_273,2339
+613,2427595,1319,+,Chromosome partition protein Smc,2344
+614,2440811,893,-,hypothetical protein_271,2364
+615,2441890,1247,+,Sensor histidine kinase RegB,2365
+616,2443156,539,+,Photosynthetic apparatus regulatory protein RegA,2366
+617,2443855,1244,-,hypothetical protein_270,2367
+618,2445307,599,+,Hydroxyacylglutathione hydrolase,2368
+619,2445914,1769,+,putative sulfate transporter,2369
+620,2449788,551,-,hypothetical protein_269,2371
+621,2450402,1457,-,Sensor histidine kinase GlrK,2372
+622,2462139,1307,-,hypothetical protein_268,2383
+623,2463430,665,-,Acyl carrier protein phosphodiesterase,2384
+624,2464123,422,-,hypothetical protein_267,2385
+625,2466577,614,-,hypothetical protein_636,2388
+626,2470866,464,-,hypothetical protein_324,2393
+627,2488011,494,+,hypothetical protein_223,2411
+628,2488586,2363,-,Polyphosphate kinase,2412
+629,2491159,1520,-,hypothetical protein_358,2413
+630,2494638,284,+,hypothetical protein_439,2416
+631,2495674,536,+,putative protein_440,2418
+632,2496578,785,-,"4,5-DOPA dioxygenase extradiol",2419
+633,2497461,1832,-,Trehalase,2420
+634,2499427,1994,-,hypothetical protein_441,2421
+635,2502346,2189,+,Actin cross-linking toxin VgrG1,2423
+636,2504563,476,+,hypothetical protein_442,2424
+637,2505050,1115,+,hypothetical protein_443,2425
+638,2506162,1046,+,hypothetical protein_444,2426
+639,2509180,1250,+,hypothetical protein_445,2429
+640,2510565,1037,+,hypothetical protein_446,2430
+641,2514304,791,+,hypothetical protein_447,2434
+642,2521596,1430,+,hypothetical protein_380,2440
+643,2529765,1508,+,hypothetical protein_381,2445
+644,2535925,614,+,putative MFS-type transporter YcaD,2449
+645,2536687,389,+,hypothetical protein_383,2450
+646,2543983,1103,-,Efflux pump periplasmic linker BepF,2453
+647,2545414,1259,-,Putative serine protease HtrA,2454
+648,2561359,695,-,hypothetical protein_90,2465
+649,2562761,1052,-,Poly(3-hydroxyalkanoate) polymerase subunit PhaC,2466
+650,2563810,854,-,hypothetical protein_384,2467
+651,2564749,1643,-,Beta-barrel assembly-enhancing protease,2468
+652,2604644,593,+,"RNA 2',3'-cyclic phosphodiesterase",2504
+653,2606349,488,+,Regulatory protein RecX,2506
+654,2612055,731,-,6-phosphogluconolactonase,2512
+655,2612911,995,-,Glucokinase,2513
+656,2613975,1016,-,"6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating",2514
+657,2615301,353,-,hypothetical protein_122,2515
+658,2616863,536,-,hypothetical protein_124,2517
+659,2617447,479,-,hypothetical protein_125,2518
+660,2637946,875,+,hypothetical protein_180,2542
+661,2638931,563,+,hypothetical protein_220,2543
+662,2639557,317,-,hypothetical protein_583,2544
+663,2640596,1286,+,D-inositol-3-phosphate glycosyltransferase_179,2546
+664,2641894,737,+,Trans-aconitate 2-methyltransferase_178,2547
+665,2642628,1124,-,D-inositol-3-phosphate glycosyltransferase,2548
+666,2644769,581,+,hypothetical protein_582,2551
+667,2645441,713,-,hypothetical protein_580,2552
+668,2648890,170,-,hypothetical protein_581,2556
+669,2656914,1301,-,lipid II flippase MurJ,2569
+670,2659533,350,-,hypothetical protein_588,2573
+671,2659921,251,-,hypothetical protein_194,2574
+672,2661359,401,-,Ribonuclease VapC15,2576
+673,2662735,566,-,hypothetical protein_587,2580
+674,2663861,1799,-,putative ABC transporter ATP-binding protein,2581
+675,2667452,131,-,hypothetical protein_364,2583
+676,2668560,191,-,hypothetical protein_365,2585
+677,2694736,320,+,hypothetical protein_341,2611
+678,2696081,1136,-,hypothetical protein_340,2614
+679,2697419,1478,-,hypothetical protein_61,2615
+680,2699169,446,+,hypothetical protein_60,2616
+681,2700824,848,-,Ribosomal RNA small subunit methyltransferase J,2618
+682,2715787,578,+,hypothetical protein_449,2631
+683,2716959,548,+,hypothetical protein_448,2633
+684,2722855,950,-,hypothetical protein_296,2638
+685,2724296,632,-,5-formyltetrahydrofolate cyclo-ligase,2640
+686,2725284,290,-,hypothetical protein_295,2641
+687,2725636,803,-,Uroporphyrinogen-III synthase,2642
+688,2729089,1253,+,2-octaprenyl-6-methoxyphenol hydroxylase,2647
+689,2730339,1190,+,2-octaprenylphenol hydroxylase,2648
+690,2748169,431,-,Putative pre-16S rRNA nuclease,2667
+691,2749240,857,-,hypothetical protein_171,2669
+692,2751151,989,-,hypothetical protein_569,2671
+693,2753263,554,+,hypothetical protein_568,2674
+694,2761620,473,+,hypothetical protein_137,2677
+695,2775105,620,+,Acyl-homoserine-lactone synthase,2687
+696,2775999,2132,+,hypothetical protein_138,2688
+697,2778999,689,+,Phosphoglycolate phosphatase,2690
+698,2785286,506,+,hypothetical protein_139,2696
+699,2787449,659,+,Thiopurine S-methyltransferase,2698
+700,2789049,566,+,hypothetical protein_493,2700
+701,2791435,1052,+,hypothetical protein_140,2703
+702,2818558,515,+,Peptide methionine sulfoxide reductase MsrA,2730
+703,2819362,773,+,hypothetical protein_464,2731
+704,2820219,1595,-,hypothetical protein_465,2732
+705,2822387,743,+,Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA,2734
+706,2823127,1532,+,hypothetical protein_578,2735
+707,2824678,647,-,hypothetical protein_579,2736
+708,2825984,1616,+,Fatty acid resistance protein FarB,2737
+709,2827597,1547,+,Outer membrane protein OprM,2738
+710,2829206,1115,+,Multidrug export protein EmrA,2739
+711,2841380,1418,+,hypothetical protein_302,2748
+712,2842795,542,+,Thiol-disulfide oxidoreductase ResA,2749
+713,2854879,629,+,hypothetical protein_196,2762
+714,2855533,860,+,hypothetical protein_280,2763
+715,2858074,308,+,hypothetical protein_279,2766
+716,2859403,1061,+,Vitamin B12 import ATP-binding protein BtuD,2768
+717,2860740,167,-,hypothetical protein_201,2769
+718,2861016,248,-,hypothetical protein_278,2770
+719,2862045,809,-,Molybdenum-pterin-binding protein MopA,2771
+720,2863905,995,-,Cyclic di-GMP phosphodiesterase CdgJ,2773
+721,2868915,263,+,hypothetical protein_24,2779
+722,2869184,440,+,hypothetical protein_23,2780
+723,2869590,323,+,hypothetical protein_277,2781
+724,2872891,1397,+,Outer membrane protein TolC,2784
+725,2883151,257,+,hypothetical protein_312,2796
+726,2884191,2081,+,Vitamin B12 transporter BtuB_514,2797
+727,2894133,491,+,hypothetical protein_208,2807
+728,2895727,239,+,hypothetical protein_102,2809
+729,2898127,194,-,hypothetical protein_420,2812
+730,2898494,419,+,hypothetical protein_421,2813
+731,2899025,635,+,hypothetical protein_101,2814
+732,2899694,1241,-,Kynureninase,2815
+733,2901038,911,+,Isoaspartyl peptidase,2816
+734,2901971,902,-,"Tryptophan 2,3-dioxygenase",2817
+735,2906687,785,+,hypothetical protein_422,2821
+736,2907482,761,+,Tol-Pal system protein TolQ,2822
+737,2908247,503,+,Tol-Pal system protein TolR,2823
+738,2909255,539,-,hypothetical protein_233,2824
+739,2911304,419,-,hypothetical protein_193,2827
+740,2917772,791,-,Peptidoglycan-associated lipoprotein,2829
+741,2918560,386,-,hypothetical protein_258,2830
+742,2919125,854,-,Glutamate racemase,2831
+743,2920023,653,-,hypothetical protein_10,2832
+744,2920743,575,-,hypothetical protein_259,2833
+745,2922416,2897,+,hypothetical protein_11,2835
+746,2925316,986,+,hypothetical protein_12,2836
+747,2926302,1184,+,Putative phospholipase A1,2837
+748,2927556,323,-,Ferredoxin 1,2838
+749,2927983,569,-,hypothetical protein_13,2839
+750,2928965,608,+,hypothetical protein_14,2840
+751,2931106,224,+,hypothetical protein_567,2843
+752,2931782,191,+,hypothetical protein_566,2845
+753,2934376,659,+,putative lipoprotein YiaD,2848
+754,2938566,554,+,hypothetical protein_301,2852
+755,2943511,539,+,hypothetical protein_456,2856
+756,2966772,1373,+,hypothetical protein_637,2874
+757,2968343,266,+,Antitoxin HigA,2875
+758,2973937,1400,-,hypothetical protein_260,2886
+759,2979521,629,-,hypothetical protein_166,2890
+760,2980175,914,-,hypothetical protein_167,2891
+761,2985129,464,+,Bacterioferritin,2895
+762,2985748,1307,+,putative M18 family aminopeptidase 2,2896
+763,2987066,998,+,Bifunctional ligase/repressor BirA,2897
+764,2988061,752,+,Type III pantothenate kinase,2898
+765,3008323,1160,-,hypothetical protein_218,2917
+766,3009664,314,+,hypothetical protein_170,2918
+767,3010106,1736,-,hypothetical protein_565,2919
+768,3012053,419,+,hypothetical protein_527,2920
+769,3012552,899,-,hypothetical protein_526,2921
+770,3014367,1217,-,Putative acyl-CoA dehydrogenase YdbM,2923
+771,3015700,1055,-,hypothetical protein_525,2924
+772,3016752,440,-,hypothetical protein_238,2925
+773,3017207,1244,-,Putrescine aminotransferase,2926
+774,3018852,1634,-,Protein adenylyltransferase SelO,2927
+775,3024268,1199,-,hypothetical protein_177,2931
+776,3025706,965,-,Cobalt/magnesium transport protein CorA,2932
+777,3029236,2915,-,Fatty acid oxidation complex subunit alpha,2935
+778,3040961,296,-,hypothetical protein_521,2945
+779,3044451,395,-,hypothetical protein_419,2950
+780,3045542,848,+,hypothetical protein_100,2952
+781,3046433,806,+,hypothetical protein_99,2953
+782,3067979,320,+,"Toluene 1,2-dioxygenase system ferredoxin subunit",2973
+783,3068317,245,+,hypothetical protein_418,2974
+784,3084929,596,-,hypothetical protein_485,2988
+785,3086702,1445,-,putative type I restriction enzymeP M protein,2991
+786,3088160,155,-,hypothetical protein_209,2992
+787,3088306,518,-,REP-associated tyrosine transposase,2993
+788,3090675,2765,-,hypothetical protein_484,2996
+789,3128118,317,+,hypothetical protein_204,3036
+790,3129064,566,+,hypothetical protein_639,3039
+791,3129575,263,+,hypothetical protein_640,3040
+792,3129853,266,+,hypothetical protein_641,3041
+793,3130645,1676,+,"NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic",3043
+794,3132324,749,+,hypothetical protein_642,3044
+795,3133070,3116,+,hypothetical protein_643,3045
+796,3136183,326,+,hypothetical protein_644,3046
+797,3157361,1616,-,Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase,3075
+798,3163025,434,-,DNA polymerase III subunit chi,3079
+799,3167301,476,-,hypothetical protein_293,3083
+800,3188380,1073,+,hypothetical protein_560,3104
+801,3189719,1025,+,hypothetical protein_241,3105
+802,3191454,686,+,hypothetical protein_645,3107
+803,3257225,2306,+,LPS-assembly protein LptD,3161
+804,3259709,1292,+,Chaperone SurA,3162
+805,3262036,815,+,Ribosomal RNA small subunit methyltransferase A,3164
+806,3264455,1022,+,N-acetylmuramate/N-acetylglucosamine kinase,3167
+807,3310973,353,+,Primosomal replication protein N,3205
+808,3311600,881,+,hypothetical protein_191,3207
+809,3324929,1937,+,Peptidyl-prolyl cis-trans isomerase D,3224
+810,3329911,878,+,hypothetical protein_606,3227
+811,3330859,3656,+,Respiratory nitrate reductase 1 alpha chain,3228
+812,3334596,1538,+,Respiratory nitrate reductase 1 beta chain,3229
+813,3336136,794,+,hypothetical protein_163,3230
+814,3336943,689,+,Nitrate reductase-like protein NarX,3231
+815,3337962,584,+,DNA polymerase III subunit epsilon,3232
+816,3359023,854,-,15-cis-phytoene synthase,3251
+817,3360020,740,-,N-acetylmuramic acid 6-phosphate phosphatase,3252
+818,3378305,296,+,Lipopolysaccharide assembly protein A,3268
+819,3379631,260,+,hypothetical protein_593,3270
+820,3381442,323,+,hypothetical protein_243,3272
+821,3381825,497,-,hypothetical protein_592,3273
+822,3383109,230,+,hypothetical protein_591,3274
+823,3383563,524,-,Superoxide dismutase [Cu-Zn] 1,3275
+824,3400945,1529,-,GTPase Der,3295
+825,3402474,1550,-,hypothetical protein_92,3296
+826,3405406,344,-,hypothetical protein_387,3299
+827,3408154,278,+,Antitoxin VapB33,3303
+828,3408429,434,+,Ribonuclease VapC33,3304
+829,3408934,131,-,hypothetical protein_646,3305
+830,3409150,5135,-,hypothetical protein_385,3306
+831,3426039,632,+,Trans-aconitate 2-methyltransferase_386,3312
+832,3426960,650,+,ATP-dependent dethiobiotin synthetase BioD,3313
+833,3427631,1298,+,Adenosylmethionine-8-amino-7-oxononanoate aminotransferase,3314
+834,3433387,1385,-,Cardiolipin synthase,3321
+835,3434736,752,-,hypothetical protein_202,3322
+836,3435645,1520,-,Phenylacetaldehyde dehydrogenase,3323
+837,3440776,3236,+,Cation efflux system protein CusA,3327
+838,3444771,398,+,hypothetical protein_602,3329
+839,3457973,1052,-,hypothetical protein_500,3345
+840,3459450,542,+,hypothetical protein_235,3346
+841,3460086,1055,-,Arsenite methyltransferase,3347
+842,3461280,653,-,Response regulator protein TodT,3348
+843,3461940,2024,-,Adaptive-response sensory-kinase SasA_501,3349
+844,3464158,2177,+,hypothetical protein_150,3350
+845,3466332,977,+,Dipeptide transport system permease protein DppB,3351
+846,3467420,1388,+,hypothetical protein_502,3352
+847,3468805,2090,+,putative ABC transporter ATP-binding protein_503,3353
+848,3472723,287,+,hypothetical protein_613,3355
+849,3473050,416,+,hypothetical protein_614,3356
+850,3508916,584,-,hypothetical protein_392,3400
+851,3511218,407,-,hypothetical protein_391,3402
+852,3520150,1001,+,Acetylpolyamine amidohydrolase 2,3412
+853,3524325,2270,+,ComE operon protein 3,3417
+854,3529537,995,+,Tetraacyldisaccharide 4'-kinase,3421
+855,3535226,959,+,Ribosomal large subunit pseudouridine synthase C,3425
+856,3537091,530,+,Large ribosomal RNA subunit accumulation protein YceD,3428
+857,3545570,1073,+,DNA polymerase III subunit delta',3438
+858,3550084,596,+,Cytochrome c oxidase subunit 3,3442
+859,3550683,257,+,hypothetical protein_519,3443
+860,3550959,1325,-,hypothetical protein_520,3444
+861,3552291,1157,-,hypothetical protein_155,3445
+862,3553468,740,-,putative ABC transporter ATP-binding protein YknY,3446
+863,3554171,1235,-,Multidrug resistance protein MdtA,3447
+864,3555572,704,-,hypothetical protein_156,3448
+865,3568280,1259,+,ATP-dependent Clp protease ATP-binding subunit ClpX,3460
+866,3574400,1694,+,Beta-barrel assembly-enhancing protease_169,3465
+867,3576094,605,+,Outer-membrane lipoprotein LolB,3466
+868,3588560,1238,+,hypothetical protein_468,3486
+869,3589771,2645,+,hypothetical protein_467,3487
+870,3593073,368,+,Sensor histidine kinase RcsC_466,3488

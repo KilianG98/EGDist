@@ -1,0 +1,73 @@
+,Gene Start,Gene Size,Strand,Gene Product,Accession
+0,77344,347,-,hypothetical protein_21,66
+1,80741,935,-,hypothetical protein_73,71
+2,709160,419,+,hypothetical protein_6,686
+3,710606,1181,+,hypothetical protein_5,688
+4,1045274,887,+,putative metallo-hydrolase,999
+5,1046204,1664,+,hypothetical protein_77,1000
+6,1056891,1031,-,hypothetical protein_94,1007
+7,1060692,1085,-,Alkanesulfonate monooxygenase,1009
+8,1062152,632,-,Isovaleryl-homoserine lactone synthase,1010
+9,1112649,4463,-,hypothetical protein_92,1051
+10,1117801,1343,-,Outer membrane protein assembly factor BamA,1053
+11,1134581,2150,+,hypothetical protein_123,1068
+12,1141406,416,+,hypothetical protein_122,1071
+13,1144020,497,-,hypothetical protein_103,1075
+14,1144514,1208,-,hypothetical protein_102,1076
+15,1145739,2375,-,Vitamin B12 transporter BtuB_101,1077
+16,1155228,212,-,hypothetical protein_49,1085
+17,1155643,242,-,hypothetical protein_99,1086
+18,1203366,818,-,hypothetical protein_88,1122
+19,1204455,3263,-,hypothetical protein_50,1123
+20,1349018,1001,+,"UDP-N-acetylglucosamine 4,6-dehydratase (inverting)",1258
+21,1350016,1157,+,"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase",1259
+22,1351245,1589,+,hypothetical protein_47,1260
+23,1354091,785,-,hypothetical protein_46,1262
+24,1354870,662,-,Phosphorylated carbohydrates phosphatase,1263
+25,1355532,833,-,"Ubiquinone biosynthesis O-methyltransferase, mitochondrial",1264
+26,1356843,620,+,hypothetical protein_64,1265
+27,1357962,689,+,hypothetical protein_43,1266
+28,1726244,941,-,hypothetical protein_116,1604
+29,1727182,1223,-,hypothetical protein_117,1605
+30,1729077,287,+,hypothetical protein_23,1606
+31,1730402,458,+,hypothetical protein_97,1609
+32,2009177,281,-,hypothetical protein_26,1902
+33,2013585,1004,-,hypothetical protein_52,1906
+34,2471291,194,+,hypothetical protein_37,2336
+35,2473718,320,+,hypothetical protein_24,2340
+36,2475334,218,+,hypothetical protein_20,2342
+37,2628833,95,-,hypothetical protein_110,2484
+38,2630407,230,-,hypothetical protein_114,2487
+39,3039888,851,-,Cytochrome c551 peroxidase,2915
+40,3040823,305,-,hypothetical protein_83,2916
+41,3227436,230,+,hypothetical protein_33,3105
+42,3229167,1547,+,hypothetical protein_120,3106
+43,3231287,749,-,hypothetical protein_89,3108
+44,3232557,533,-,hypothetical protein_90,3109
+45,3233253,551,+,hypothetical protein_91,3110
+46,3239128,1343,+,Type I secretion system membrane fusion protein PrsE,3114
+47,3576515,638,-,hypothetical protein_35,3425
+48,3579671,263,-,hypothetical protein_11,3428
+49,3753487,383,+,hypothetical protein_72,3612
+50,3754057,560,+,hypothetical protein_13,3613
+51,3790107,1031,-,hypothetical protein_57,3646
+52,3791298,1253,-,putative nitrate transporter NarT,3647
+53,3792816,677,-,Nitrate reductase-like protein NarX,3648
+54,3793528,1028,-,hypothetical protein_56,3649
+55,3794687,1541,-,Respiratory nitrate reductase 2 beta chain,3650
+56,3796295,683,-,hypothetical protein_96,3651
+57,3796972,3644,-,Respiratory nitrate reductase 1 alpha chain,3652
+58,3800616,980,-,hypothetical protein_41,3653
+59,3809012,854,-,Cytochrome c oxidase subunit 3,3661
+60,3809969,650,-,Cytochrome c oxidase assembly protein CtaG,3662
+61,3810625,164,-,hypothetical protein_118,3663
+62,3810806,986,-,Protoheme IX farnesyltransferase,3664
+63,3811856,1613,-,Cytochrome c oxidase subunit 1,3665
+64,3813552,857,-,Cytochrome c oxidase subunit 2,3666
+65,3815225,461,+,tRNA (adenine(37)-N6)-methyltransferase,3667
+66,3817427,224,+,hypothetical protein_63,3669
+67,3820727,197,-,hypothetical protein_69,3672
+68,3821837,749,-,hypothetical protein_42,3673
+69,3824641,560,-,hypothetical protein_14,3676
+70,4094809,1583,-,Vitamin B12 transporter BtuB_108,3933
+71,4096484,371,-,hypothetical protein_104,3934

@@ -1,0 +1,1017 @@
+,Accession,Egg Description,Egg Name,Gene Size,Gene Start,Strand,Egg GOs,Egg EC,KEGG KO,KEGG Pathway,KEGG Module,KEGG Reaction,KEGG Reaction Class,Egg BRITE,KEGG TC,CAZy,BiGG Reaction,PFAMs
+Tyrosine recombinase XerD,4,Belongs to the 'phage' integrase family,-,584,2525,+,-,-,-,-,-,-,-,-,-,-,-,"Phage_int_SAM_4,Phage_integrase"
+hypothetical protein_531,5,Uncharacterised protein family (UPF0158),-,479,3640,+,-,-,-,-,-,-,-,-,-,-,-,UPF0158
+hypothetical protein_158,7,-,-,155,6580,-,-,-,-,-,-,-,-,-,-,-,-,-
+Aspartate/glutamate leucyltransferase,17,May conjugate Arg from its aminoacyl-tRNA to the N- termini of proteins containing an N-terminal aspartate or glutamate,ate,722,18239,-,-,2.3.2.29,ko:K21420,-,-,"R11547,R11548",RC00064,"ko00000,ko01000",-,-,-,"ATE_C,ATE_N"
+hypothetical protein_142,19,Peptidogalycan biosysnthesis/recognition,-,1166,19872,-,-,-,ko:K09919,-,-,-,-,ko00000,-,-,-,FemAB_like
+hypothetical protein_494,20,-,-,137,21178,+,-,-,-,-,-,-,-,-,-,-,-,-
+Outer-membrane lipoprotein carrier protein,22,Participates in the translocation of lipoproteins from the inner membrane to the outer membrane. Only forms a complex with a lipoprotein if the residue after the N-terminal Cys is not an aspartate (The Asp acts as a targeting signal to indicate that the lipoprotein should stay in the inner membrane),lolA,635,23777,+,-,-,ko:K03634,-,-,-,-,ko00000,-,-,-,LolA
+hypothetical protein_426,35,-,-,1271,41244,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_104,36,Protein of unknown function (DUF3365),-,878,42546,+,-,-,-,-,-,-,-,-,-,-,-,"DUF3365,HAMP"
+Serine/threonine-protein kinase PknD,37,serine threonine protein kinase,-,1451,43599,+,-,2.7.11.1,ko:K12132,-,-,-,-,"ko00000,ko01000,ko01001",-,-,-,"CHASE2,HAMP,HEAT_2,Pkinase,sCache_3_2"
+hypothetical protein_425,38,Sugar-specific transcriptional regulator TrmB,-,836,45276,-,-,-,-,-,-,-,-,-,-,-,-,"Regulator_TrmB,TrmB"
+hypothetical protein_618,40,-,-,236,46680,+,-,-,-,-,-,-,-,-,-,-,-,-
+"Propane 2-monooxygenase, reductase component",41,phenol hydroxylase,poxF,737,46808,-,-,-,-,-,-,-,-,-,-,-,-,"FAD_binding_6,NAD_binding_1"
+hypothetical protein_424,42,Exporters of the RND superfamily,-,2684,47636,-,-,-,-,-,-,-,-,-,-,-,-,MMPL
+Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase,43,radical SAM domain protein,hpnJ,428,50378,-,-,-,-,-,-,-,-,-,-,-,-,"B12-binding,Radical_SAM"
+hypothetical protein_221,44,"COG1215 Glycosyltransferases, probably involved in cell wall biogenesis",-,320,50803,-,-,2.4.1.80,ko:K00720,"ko00600,ko01100,map00600,map01100",M00066,R01497,"RC00005,RC00059","ko00000,ko00001,ko00002,ko01000,ko01003,ko02000",4.D.1.4,GT21,-,Glyco_transf_21
+2-alkyl-3-oxoalkanoate reductase,46,NmrA-like family,-,992,51618,+,-,1.1.1.219,ko:K00091,-,-,-,-,"ko00000,ko01000",-,-,-,Epimerase
+hypothetical protein_423,47,Protein of unknown function (DUF1614),-,704,52627,-,-,-,-,-,-,-,-,-,-,-,-,DUF1614
+hypothetical protein_103,48,Mechanosensitive ion channel,-,2525,53403,-,-,-,-,-,-,-,-,-,-,-,-,MS_channel
+hypothetical protein_114,51,ubiquitin protein ligase binding,-,956,59495,-,-,-,-,-,-,-,-,-,-,-,-,-
+Kynurenine formamidase_437,52,Putative cyclase,-,800,60515,-,-,-,-,-,-,-,-,-,-,-,-,Cyclase
+hypothetical protein_113,53,Protein involved in outer membrane biogenesis,-,767,61561,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spore protein SP21,54,Belongs to the small heat shock protein (HSP20) family,-,260,62525,-,-,-,-,-,-,-,-,-,-,-,-,HSP20
+Glycine betaine transporter,55,Belongs to the BCCT transporter (TC 2.A.15) family,-,1697,62837,-,-,-,"ko:K02168,ko:K03451",-,-,-,-,"ko00000,ko02000","2.A.15,2.A.15.1.3,2.A.15.1.4",-,-,BCCT
+hypothetical protein_436,57,Glycine zipper 2TM domain,-,314,65035,-,-,-,-,-,-,-,-,-,-,-,-,Rick_17kDa_Anti
+hypothetical protein_112,58,Subtilase family,-,1877,65794,+,-,-,ko:K14645,"ko02024,map02024",-,-,-,"ko00000,ko00001,ko01000,ko01002,ko03110",-,-,-,"Big_3_3,Peptidase_S8"
+hypothetical protein_619,59,PEP-CTERM motif,-,782,67805,-,-,-,-,-,-,-,-,-,-,-,-,VPEP
+putative nitrate/nitrite transporter NarK2,60,nitrate nitrite transporter,narK,1319,68795,-,"GO:0003674,GO:0005215,GO:0005452,GO:0005575,GO:0005623,GO:0005886,GO:0005887,GO:0006810,GO:0006811,GO:0006820,GO:0008150,GO:0008509,GO:0015075,GO:0015103,GO:0015291,GO:0015318,GO:0015698,GO:0016020,GO:0016021,GO:0022804,GO:0022857,GO:0031224,GO:0031226,GO:0034220,GO:0044425,GO:0044459,GO:0044464,GO:0051179,GO:0051234,GO:0055085,GO:0071944,GO:0098656",-,ko:K02575,"ko00910,map00910",M00615,-,-,"ko00000,ko00001,ko00002,ko02000",2.A.1.8,-,"iEcolC_1368.EcolC_2187,iUTI89_1310.UTI89_C1420",MFS_1
+hypothetical protein_111,61,-,-,602,70452,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_110,62,"NfeD-like C-terminal, partner-binding",-,194,71246,+,-,-,-,-,-,-,-,-,-,-,-,NfeD
+Chaperone modulatory protein CbpM,64,MerR HTH family regulatory protein,cbpM,317,72306,+,-,-,ko:K18997,-,-,-,-,"ko00000,ko03036",-,-,-,MerR_2
+hypothetical protein_109,65,Universal stress protein family,-,857,72647,-,-,-,-,-,-,-,-,-,-,-,-,-
+putative protein,67,-,-,395,76126,-,-,-,-,-,-,-,-,-,-,-,-,-
+Manganese efflux system protein MneP,70,PFAM Cation efflux,-,920,78094,-,-,-,-,-,-,-,-,-,-,-,-,"Cation_efflux,ZT_dimer"
+Histidine ammonia-lyase,71,Aromatic amino acid lyase,-,1520,79094,-,-,-,-,-,-,-,-,-,-,-,-,Lyase_aromatic
+hypothetical protein_435,72,-,-,521,80856,+,-,-,-,-,-,-,-,-,-,-,-,-
+Putative oxidoreductase SadH,76,Belongs to the short-chain dehydrogenases reductases (SDR) family,-,827,83057,+,-,-,-,-,-,-,-,-,-,-,-,adh_short
+hypothetical protein_434,77,Protein of unknown function (DUF3617),-,449,84028,-,-,-,-,-,-,-,-,-,-,-,-,DUF3617
+hypothetical protein_433,78,pyridoxamine 5-phosphate,-,560,85149,+,-,-,-,-,-,-,-,-,-,-,-,Putative_PNPOx
+putative N-acetyltransferase YafP,79,Acetyltransferase (GNAT) domain,-,494,85734,+,-,-,ko:K03830,-,-,-,-,"ko00000,ko01000",-,-,-,Acetyltransf_10
+hypothetical protein_108,80,COG0589 Universal stress protein UspA and related nucleotide-binding proteins,-,608,86235,+,-,-,-,-,-,-,-,-,-,-,-,Usp
+hypothetical protein_214,88,CsbD-like,yjbJ,203,93654,-,"GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0044424,GO:0044444,GO:0044464",-,-,-,-,-,-,-,-,-,-,CsbD
+hypothetical protein_432,89,OmpA-like transmembrane domain,-,650,94361,-,-,-,ko:K16079,-,-,-,-,"ko00000,ko02000",1.B.4.2.1,-,-,OMP_b-brl
+hypothetical protein_431,92,pfam ammecr1,-,602,97420,+,-,-,ko:K09141,-,-,-,-,ko00000,-,-,-,AMMECR1
+hypothetical protein_530,96,COG2931 RTX toxins and related Ca2 -binding proteins,-,4607,104023,-,-,-,-,-,-,-,-,-,-,-,-,"HCBP_related,He_PIG,HemolysinCabind"
+hypothetical protein_239,97,-,-,584,108627,-,-,-,-,-,-,-,-,-,-,-,-,-
+C4-dicarboxylic acid transporter DauA,107,sulphate transporter,-,1712,123121,-,-,-,ko:K03321,-,-,-,-,"ko00000,ko02000",2.A.53.3,-,-,"STAS,Sulfate_transp"
+Membrane-bound lytic murein transglycosylase F,109,"Murein-degrading enzyme that degrades murein glycan strands and insoluble, high-molecular weight murein sacculi, with the concomitant formation of a 1,6-anhydromuramoyl product. Lytic transglycosylases (LTs) play an integral role in the metabolism of the peptidoglycan (PG) sacculus. Their lytic action creates space within the PG sacculus to allow for its expansion as well as for the insertion of various structures such as secretion systems and flagella",mltF,1457,125645,+,"GO:0005575,GO:0005623,GO:0009279,GO:0016020,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0044462,GO:0044464,GO:0071944",-,ko:K18691,-,-,-,-,"ko00000,ko01000,ko01011",-,-,-,"SBP_bac_3,SLT"
+Adaptive-response sensory-kinase SasA_36,112,response regulator,-,1184,131728,+,-,-,-,-,-,-,-,-,-,-,-,"HD_5,Response_reg"
+hypothetical protein_35,113,response regulator,-,1148,132950,+,-,-,-,-,-,-,-,-,-,-,-,"HD_5,Response_reg"
+hypothetical protein_309,114,-,-,398,134945,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_34,115,17 kDa surface antigen,-,545,135603,+,-,-,-,-,-,-,-,-,-,-,-,Rick_17kDa_Anti
+hypothetical protein_33,116,-,-,386,136184,+,-,-,-,-,-,-,-,-,-,-,-,-
+Adaptive-response sensory-kinase SasA_308,118,GHKL domain,-,1355,137259,+,-,-,-,-,-,-,-,-,-,-,-,HATPase_c
+Ribokinase,119,PFAM PfkB domain protein,-,836,138665,+,-,2.1.1.72,ko:K00571,-,-,-,-,"ko00000,ko01000,ko02048",-,-,-,PfkB
+Inner membrane protein YbaN,120,Membrane,-,446,139629,+,-,-,ko:K09790,-,-,-,-,ko00000,-,-,-,DUF454
+hypothetical protein_605,129,Hemerythrin HHE cation binding domain,-,620,151063,-,-,-,-,-,-,-,-,-,-,-,-,Hemerythrin
+hypothetical protein_604,131,PFAM NnrS family protein,-,1154,152701,-,-,-,ko:K07234,-,-,-,-,ko00000,-,-,-,NnrS
+hypothetical protein_317,132,Domain of unknown function (DUF427),-,815,154198,+,-,-,-,-,-,-,-,-,-,-,-,NTP_transf_9
+hypothetical protein_316,143,Suf system fes assembly protein,iscU,392,164808,+,-,-,ko:K04488,-,-,-,-,ko00000,-,-,-,NifU_N
+Photosystem I assembly protein Ycf3,147,TIGRFAM type IV pilus biogenesis stability protein PilW,-,773,167180,+,-,-,ko:K02656,-,-,-,-,"ko00000,ko02035,ko02044",-,-,-,"LysM,TPR_10,TPR_14,TPR_16,TPR_17,TPR_19,TPR_2,TPR_6,TPR_7,TPR_8"
+Cytoskeleton protein RodZ,148,Cytoskeletal protein that is involved in cell-shape control through regulation of the length of the long axis,rodZ,1091,167940,+,"GO:0005575,GO:0005623,GO:0005886,GO:0005887,GO:0008150,GO:0008360,GO:0016020,GO:0016021,GO:0022603,GO:0022604,GO:0031224,GO:0031226,GO:0044425,GO:0044459,GO:0044464,GO:0050789,GO:0050793,GO:0050794,GO:0051128,GO:0065007,GO:0065008,GO:0071944",-,ko:K15539,-,-,-,-,ko00000,-,-,-,"DUF4115,HTH_25"
+hypothetical protein_47,150,protein conserved in bacteria,-,641,170516,+,-,-,-,-,-,-,-,-,-,-,-,TPR_21
+Outer membrane protein assembly factor BamB,151,"Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane",bamB,1151,171154,+,-,-,ko:K17713,-,-,-,-,"ko00000,ko02000",1.B.33.1,-,-,"PQQ_2,PQQ_3"
+hypothetical protein_46,152,Transport and Golgi organisation 2,-,761,172322,+,-,-,-,-,-,-,-,-,-,-,-,TANGO2
+hypothetical protein_45,165,Diguanylate cyclase,yeaP,1160,185834,+,"GO:0003674,GO:0003824,GO:0016740,GO:0016772,GO:0016779,GO:0052621",2.7.7.65,"ko:K13069,ko:K21021","ko02025,map02025",-,R08057,-,"ko00000,ko00001,ko01000",-,-,-,"GAF,GAF_2,GAF_3,GGDEF"
+"3',5'-nucleoside bisphosphate phosphatase",166,pfam php,-,884,187220,+,-,3.1.3.97,ko:K07053,-,-,"R00188,R11188",RC00078,"ko00000,ko01000",-,-,-,PHP
+hypothetical protein_315,167,-,-,257,188283,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_44,169,WLM domain,-,722,189864,+,-,-,ko:K07043,-,-,-,-,ko00000,-,-,-,DUF45
+hypothetical protein_43,172,Peptidase_C39 like family,-,992,194659,-,-,-,-,-,-,-,-,-,-,-,-,"Peptidase_C39_2,TPR_16,TPR_19,TPR_8"
+hypothetical protein_314,173,-,-,416,195651,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cyclic-di-GMP receptor FimW,181,-,-,1754,205121,-,-,-,-,-,-,-,-,-,-,-,-,-
+N-(5'-phosphoribosyl)anthranilate isomerase,195,Belongs to the TrpF family,trpF,713,221439,+,-,5.3.1.24,ko:K01817,"ko00400,ko01100,ko01110,ko01130,ko01230,map00400,map01100,map01110,map01130,map01230",M00023,R03509,RC00945,"ko00000,ko00001,ko00002,ko01000",-,-,-,PRAI
+Dihydrofolate synthase/folylpolyglutamate synthase,199,Belongs to the folylpolyglutamate synthase family,-,1280,225187,+,-,"6.3.2.12,6.3.2.17",ko:K11754,"ko00790,ko01100,map00790,map01100","M00126,M00841","R00942,R02237,R04241","RC00064,RC00090,RC00162","ko00000,ko00001,ko00002,ko01000",-,-,-,Mur_ligase_M
+hypothetical protein_42,207,Domain of Unknown Function (DUF349),-,2750,233047,+,-,-,-,-,-,-,-,-,-,-,-,DUF349
+Outer membrane protein assembly factor BamE,209,"Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane",bamE,401,236214,-,"GO:0003674,GO:0005488,GO:0005515,GO:0005575,GO:0005623,GO:0008104,GO:0008150,GO:0009279,GO:0009987,GO:0016020,GO:0016021,GO:0016043,GO:0019867,GO:0022607,GO:0030312,GO:0030313,GO:0030674,GO:0031224,GO:0031230,GO:0031241,GO:0031246,GO:0031975,GO:0032991,GO:0033036,GO:0034613,GO:0042221,GO:0042802,GO:0043163,GO:0043165,GO:0044085,GO:0044091,GO:0044425,GO:0044462,GO:0044464,GO:0045184,GO:0045203,GO:0045229,GO:0046677,GO:0050896,GO:0051179,GO:0051205,GO:0051234,GO:0051641,GO:0060090,GO:0061024,GO:0070727,GO:0071709,GO:0071840,GO:0071944,GO:0072657,GO:0090150,GO:0098552,GO:0098796,GO:1990063",-,ko:K06186,-,-,-,-,"ko00000,ko02000",1.B.33.1,-,-,SmpA_OmlA
+tRNA-modifying protein YgfZ,220,Belongs to the GcvT family,-,1019,247565,-,-,-,ko:K06980,-,-,-,-,"ko00000,ko03016",-,-,-,"GCV_T,GCV_T_C"
+FAD assembly factor SdhE,225,"An FAD assembly protein, which accelerates covalent attachment of the cofactor into other proteins. Plays an essential role in the assembly of succinate dehydrogenase (SDH, respiratory complex II), an enzyme complex that is a component of both the tricarboxylic acid cycle and the electron transport chain, and which couples the oxidation of succinate to fumarate with the reduction of ubiquinone (coenzyme Q) to ubiquinol. Required for flavinylation (covalent attachment of FAD) of the flavoprotein subunit SdhA of SDH",sdhE,239,252217,+,"GO:0006082,GO:0006091,GO:0006099,GO:0006101,GO:0006105,GO:0006464,GO:0006807,GO:0008150,GO:0008152,GO:0009060,GO:0009987,GO:0015980,GO:0016043,GO:0016999,GO:0017013,GO:0017144,GO:0018065,GO:0018293,GO:0019538,GO:0019752,GO:0022607,GO:0034552,GO:0034622,GO:0036211,GO:0043170,GO:0043412,GO:0043436,GO:0043648,GO:0043933,GO:0044085,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044281,GO:0045333,GO:0055114,GO:0065003,GO:0071704,GO:0071840,GO:0072350,GO:1901564","1.3.5.1,1.3.5.4","ko:K00240,ko:K09159","ko00020,ko00190,ko00650,ko00720,ko01100,ko01110,ko01120,ko01130,ko01200,map00020,map00190,map00650,map00720,map01100,map01110,map01120,map01130,map01200","M00009,M00011,M00149,M00173,M00374,M00376",R02164,RC00045,"ko00000,ko00001,ko00002,ko01000,ko02048",-,-,-,Sdh5
+hypothetical protein_366,226,-,-,449,252404,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_78,229,PFAM Anti sigma-E protein RseA,-,641,255304,+,-,-,ko:K03597,-,-,-,-,"ko00000,ko03021",-,-,-,RseA_N
+Sigma factor AlgU regulatory protein MucB,230,PFAM MucB RseB,-,1043,255929,+,-,-,ko:K03598,-,-,-,-,"ko00000,ko03021",-,-,-,"MucB_RseB,MucB_RseB_C"
+hypothetical protein_79,233,Domain of unknown function (DUF4845),-,371,260397,+,-,-,-,-,-,-,-,-,-,-,-,DUF4845
+DNA repair protein RecO,236,Involved in DNA repair and RecF pathway recombination,recO,749,262381,+,-,-,ko:K03584,"ko03440,map03440",-,-,-,"ko00000,ko00001,ko03400",-,-,-,"RecO_C,RecO_N"
+Holo-[acyl-carrier-protein] synthase,238,Transfers the 4'-phosphopantetheine moiety from coenzyme A to a Ser of acyl-carrier-protein,acpS,383,263879,+,"GO:0003674,GO:0003824,GO:0006082,GO:0006464,GO:0006629,GO:0006631,GO:0006633,GO:0006807,GO:0008150,GO:0008152,GO:0008610,GO:0008897,GO:0009058,GO:0009987,GO:0016053,GO:0016740,GO:0016772,GO:0016780,GO:0018070,GO:0018193,GO:0018209,GO:0018215,GO:0019538,GO:0019752,GO:0032787,GO:0036211,GO:0043170,GO:0043412,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044267,GO:0044281,GO:0044283,GO:0046394,GO:0071704,GO:0072330,GO:1901564,GO:1901576",2.7.8.7,ko:K00997,"ko00770,map00770",-,R01625,RC00002,"ko00000,ko00001,ko01000",-,-,-,ACPS
+Signal transduction histidine-protein kinase BarA,240,Histidine kinase,barA,2060,265053,-,"GO:0000155,GO:0000160,GO:0000302,GO:0003674,GO:0003824,GO:0004672,GO:0004673,GO:0005575,GO:0005623,GO:0005886,GO:0006464,GO:0006468,GO:0006793,GO:0006796,GO:0006807,GO:0006950,GO:0006979,GO:0007154,GO:0007165,GO:0008150,GO:0008152,GO:0009636,GO:0009927,GO:0009987,GO:0010033,GO:0010035,GO:0016020,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016773,GO:0016775,GO:0018106,GO:0018193,GO:0018202,GO:0019538,GO:0023014,GO:0023052,GO:0035556,GO:0036211,GO:0042221,GO:0042493,GO:0042542,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044464,GO:0046677,GO:0046777,GO:0050789,GO:0050794,GO:0050896,GO:0051716,GO:0060089,GO:0065007,GO:0070887,GO:0071310,GO:0071704,GO:0071944,GO:0140096,GO:1901564,GO:1901700",2.7.13.3,ko:K07678,"ko02020,ko02025,ko02026,ko05111,map02020,map02025,map02026,map05111",M00475,-,-,"ko00000,ko00001,ko00002,ko01000,ko01001,ko02022",-,-,-,"DUF2222,HAMP,HATPase_c,HisKA,Hpt,Response_reg"
+hypothetical protein_367,244,-,-,416,270311,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_80,245,Uncharacterized protein conserved in bacteria (DUF2325),-,446,270788,-,-,-,-,-,-,-,-,-,-,-,-,DUF2325
+hypothetical protein_81,246,-,-,281,271564,-,-,-,-,-,-,-,-,-,-,-,-,-
+Transketolase 1,248,"Catalyzes the transfer of a two-carbon ketol group from a ketose donor to an aldose acceptor, via a covalent intermediate with the cofactor thiamine pyrophosphate",-,2066,272674,+,-,2.2.1.1,ko:K00615,"ko00030,ko00710,ko01051,ko01100,ko01110,ko01120,ko01130,ko01200,ko01230,map00030,map00710,map01051,map01100,map01110,map01120,map01130,map01200,map01230","M00004,M00007,M00165,M00167","R01067,R01641,R01830,R06590","RC00032,RC00226,RC00571,RC01560","ko00000,ko00001,ko00002,ko01000",-,-,-,"Transket_pyr,Transketolase_C,Transketolase_N"
+"Phosphoribulokinase, plasmid",251,PFAM Phosphoribulokinase uridine kinase,-,884,276012,+,-,2.7.1.19,ko:K00855,"ko00710,ko01100,ko01120,ko01200,map00710,map01100,map01120,map01200","M00165,M00166",R01523,"RC00002,RC00017","ko00000,ko00001,ko00002,ko01000",-,-,-,PRK
+"Fructose-1,6-bisphosphatase class 1",252,"D-fructose-1,6-bisphosphate 1-phosphohydrolase class 1",fbp,1028,276934,+,-,3.1.3.11,ko:K03841,"ko00010,ko00030,ko00051,ko00680,ko00710,ko01100,ko01110,ko01120,ko01130,ko01200,ko04152,ko04910,map00010,map00030,map00051,map00680,map00710,map01100,map01110,map01120,map01130,map01200,map04152,map04910","M00003,M00165,M00167,M00344","R00762,R04780",RC00017,"ko00000,ko00001,ko00002,ko01000,ko04147",-,-,-,FBPase
+Proline iminopeptidase,253,Belongs to the peptidase S33 family,-,971,278177,+,-,3.4.11.5,ko:K01259,"ko00330,map00330",-,R00135,-,"ko00000,ko00001,ko01000,ko01002",-,-,-,Abhydrolase_1
+hypothetical protein_325,256,Putative transposase of IS4/5 family (DUF4096),-,341,282845,+,-,-,-,-,-,-,-,-,-,-,-,DUF4096
+IS5 family transposase ISNGR9,258,Transposase DDE domain,-,98,283428,+,-,-,-,-,-,-,-,-,-,-,-,"DDE_Tnp_1,DDE_Tnp_1_2"
+Phosphatidate cytidylyltransferase,268,Belongs to the CDS family,-,833,293411,+,-,2.7.7.41,ko:K00981,"ko00564,ko01100,ko01110,ko04070,map00564,map01100,map01110,map04070",M00093,R01799,RC00002,"ko00000,ko00001,ko00002,ko01000",-,-,-,CTP_transf_1
+UDP-3-O-acylglucosamine N-acyltransferase,273,"Catalyzes the N-acylation of UDP-3-O-acylglucosamine using 3-hydroxyacyl-ACP as the acyl donor. Is involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell",lpxD,1064,299722,+,-,2.3.1.191,ko:K02536,"ko00540,ko01100,map00540,map01100",M00060,R04550,"RC00039,RC00166","ko00000,ko00001,ko00002,ko01000,ko01005",-,-,-,"Hexapep,Hexapep_2,LpxD"
+tRNA(Ile)-lysidine synthase,280,"Ligates lysine onto the cytidine present at position 34 of the AUA codon-specific tRNA(Ile) that contains the anticodon CAU, in an ATP-dependent manner. Cytidine is converted to lysidine, thus changing the amino acid specificity of the tRNA from methionine to isoleucine",tilS,1340,308827,+,-,6.3.4.19,ko:K04075,-,-,R09597,"RC02633,RC02634","ko00000,ko01000,ko03016",-,-,-,"ATP_bind_3,TilS,TilS_C"
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,285,Catalyzes the formation of 4-diphosphocytidyl-2-C- methyl-D-erythritol from CTP and 2-C-methyl-D-erythritol 4- phosphate (MEP),ispD,725,314692,+,-,2.7.7.60,ko:K00991,"ko00900,ko01100,ko01110,ko01130,map00900,map01100,map01110,map01130",M00096,R05633,RC00002,"ko00000,ko00001,ko00002,ko01000",-,-,-,IspD
+Murein hydrolase activator NlpD,291,peptidase,-,767,318863,+,-,-,ko:K06194,-,-,-,-,ko00000,1.A.34.1.2,-,-,"LysM,Peptidase_M23"
+hypothetical protein_41,293,Protein of unknown function (DUF498/DUF598),-,374,320881,-,-,-,-,-,-,-,-,-,-,-,-,DUF498
+hypothetical protein_40,297,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity",-,1040,325138,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_313,299,-,-,668,327896,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_39,300,-,-,1481,328662,-,-,-,-,-,-,-,-,-,-,-,-,-
+Tail-specific protease,301,Belongs to the peptidase S41A family,-,2102,330415,-,-,3.4.21.102,ko:K03797,-,-,-,-,"ko00000,ko01000,ko01002",-,-,-,"DUF3340,PDZ,Peptidase_S41"
+"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase",303,"Serine aminopeptidase, S33",-,860,335426,+,-,-,-,-,-,-,-,-,-,-,-,Abhydrolase_6
+hypothetical protein_38,304,-,-,488,336344,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_596,307,PilZ domain,-,623,338751,+,-,-,-,-,-,-,-,-,-,-,-,PilZ
+Acetyltransferase,314,COG0454 Histone acetyltransferase HPA2 and related acetyltransferases,yjcF,440,346556,-,-,-,-,-,-,-,-,-,-,-,-,Acetyltransf_10
+hypothetical protein_144,317,RibD C-terminal domain,-,818,349948,-,-,-,-,-,-,-,-,-,-,-,-,RibD_C
+Bicyclomycin resistance protein,333,Drug resistance transporter Bcr CflA subfamily,-,1217,359285,-,-,-,ko:K07552,-,-,-,-,"ko00000,ko02000",2.A.1.2,-,-,MFS_1
+putative TonB-dependent receptor,339,TonB-dependent Receptor Plug,-,1997,364753,+,-,-,ko:K02014,-,-,-,-,"ko00000,ko02000",1.B.14,-,-,"Plug,TonB_dep_Rec"
+hypothetical protein_603,340,-,-,902,366929,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_242,341,Evidence 5 No homology to any previously reported sequences,-,335,368025,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_203,342,-,-,242,368659,+,-,-,-,-,-,-,-,-,-,-,-,-
+putative peptidyl-prolyl cis-trans isomerase,343,PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides,ppiB,524,369323,+,-,5.2.1.8,"ko:K01802,ko:K03767,ko:K03768","ko01503,ko04217,map01503,map04217",-,-,-,"ko00000,ko00001,ko01000,ko03110,ko04147",-,-,-,Pro_isomerase
+Thiosulfate sulfurtransferase GlpE,344,"Catalyzes, although with low efficiency, the sulfur transfer reaction from thiosulfate to cyanide",glpE,323,369987,-,-,-,-,-,-,-,-,-,-,-,-,Rhodanese
+hypothetical protein_168,345,Hemerythrin HHE cation binding domain,-,602,370601,+,-,-,-,-,-,-,-,-,-,-,-,Hemerythrin
+UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase,348,Polysaccharide biosynthesis protein,-,1988,373004,+,-,-,-,-,-,-,-,-,-,-,-,"CoA_binding_3,Polysacc_synt_2"
+Protein YdeP,349,Belongs to the prokaryotic molybdopterin-containing oxidoreductase family,-,2327,375152,+,-,-,ko:K00372,"ko00910,ko01120,map00910,map01120",M00531,"R00798,R01106",RC02812,"ko00000,ko00001,ko00002,ko01000",-,-,-,"Fer2_BFD,Molybdop_Fe4S4,Molybdopterin,Molydop_binding"
+Methylated-DNA--protein-cysteine methyltransferase,352,Involved in the cellular defense against the biological effects of O6-methylguanine (O6-MeG) and O4-methylthymine (O4-MeT) in DNA. Repairs the methylated nucleobase in DNA by stoichiometrically transferring the methyl group to a cysteine residue in the enzyme. This is a suicide reaction the enzyme is irreversibly inactivated,-,545,379591,+,-,2.1.1.63,ko:K00567,-,-,-,-,"ko00000,ko01000,ko03400",-,-,-,"DNA_binding_1,Methyltransf_1N"
+Membrane-bound lytic murein transglycosylase D,357,lytic transglycosylase,-,1619,384296,-,-,-,ko:K08307,-,-,-,-,"ko00000,ko01000,ko01011",-,-,-,"LysM,SLT"
+hypothetical protein_429,359,PFAM methyltransferase,-,734,387042,+,-,-,-,-,-,-,-,-,-,-,-,Methyltransf_11
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB,362,"subfamily IA, variant 1",-,722,388962,+,-,"3.1.3.102,3.1.3.104",ko:K20862,"ko00740,ko01100,ko01110,map00740,map01100,map01110",M00125,"R00548,R07280",RC00017,"ko00000,ko00001,ko00002,ko01000",-,-,-,HAD_2
+hypothetical protein_430,366,Domain of unknown function (DUF4410),-,806,394305,+,-,-,-,-,-,-,-,-,-,-,-,DUF4410
+RecBCD enzyme subunit RecB,389,UvrD-like helicase C-terminal domain,-,2855,416385,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_292,390,-,-,608,419657,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_532,391,Dicarboxylate transport,-,3137,420522,+,-,-,-,-,-,-,-,-,-,-,-,DctA-YdbH
+hypothetical protein_533,392,YnbE-like lipoprotein,ynbE,248,423656,+,-,-,-,-,-,-,-,-,-,-,-,Lipoprotein_19
+hypothetical protein_240,393,Protein of unknown function (DUF1318),-,335,423904,+,-,-,-,-,-,-,-,-,-,-,-,DUF1318
+hypothetical protein_615,398,-,-,230,425882,-,-,-,-,-,-,-,-,-,-,-,-,RHH_1
+hypothetical protein_616,401,"TIGRFAM nucleotidyltransferase substrate binding protein, HI0074",-,419,426623,-,-,-,-,-,-,-,-,-,-,-,-,NTase_sub_bind
+hypothetical protein_134,431,smart pdz dhr glgf,-,1166,452651,-,-,-,-,-,-,-,-,-,-,-,-,"Cofac_haem_bdg,PDZ_2"
+hypothetical protein_483,432,-,-,596,453851,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_133,436,PFAM CreA,-,467,457397,+,-,-,ko:K05805,-,-,-,-,ko00000,-,-,-,CreA
+hypothetical protein_482,437,signal-transduction protein containing cAMP-binding and CBS domains,kdsD,419,458067,-,-,5.3.1.13,ko:K06041,"ko00540,ko01100,map00540,map01100",M00063,R01530,RC00541,"ko00000,ko00001,ko00002,ko01000,ko01005",-,-,-,"CBS,SIS"
+hypothetical protein_481,438,alpha beta,-,1388,458807,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_480,439,Belongs to the glutamate synthase family,-,1595,460333,-,-,-,-,-,-,-,-,-,-,-,-,Glu_synthase
+hypothetical protein_132,441,SpoIIAA-like,-,362,463003,+,-,-,-,-,-,-,-,-,-,-,-,SpoIIAA-like
+hypothetical protein_478,447,Cytochrome P460,-,557,467482,-,-,-,-,-,-,-,-,-,-,-,-,Cytochrome_P460
+RCS-specific HTH-type transcriptional activator RclR,448,Cupin,-,896,468163,+,-,-,-,-,-,-,-,-,-,-,-,"Cupin_6,HTH_18"
+Beta-barrel assembly-enhancing protease_620,450,chaperone-mediated protein folding,-,1076,470527,+,-,-,-,-,-,-,-,-,-,-,-,Peptidase_M48
+hypothetical protein_190,451,-,-,338,471731,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_597,453,Belongs to the sodium neurotransmitter symporter (SNF) (TC 2.A.22) family,-,1301,473051,+,-,-,-,-,-,-,-,-,-,-,-,SNF
+hypothetical protein_598,454,Domain of unknown function (DUF4202),-,590,474405,-,-,-,-,-,-,-,-,-,-,-,-,DUF4202
+Ferrous-iron efflux pump FieF,457,cation diffusion facilitator family transporter,-,968,476541,+,-,-,-,-,-,-,-,-,-,-,-,Cation_efflux
+hypothetical protein_307,475,-,-,1217,491301,+,-,-,-,-,-,-,-,-,-,-,-,-
+Chromate transport protein,480,Chromate transporter,-,1229,497110,-,-,-,-,-,-,-,-,-,-,-,-,Chromate_transp
+hypothetical protein_534,484,Type I restriction modification DNA specificity domain,-,1733,502653,+,-,3.1.21.3,ko:K01154,-,-,-,-,"ko00000,ko01000,ko02048",-,-,-,Methylase_S
+hypothetical protein_535,489,Putative restriction endonuclease,-,569,506620,-,-,-,-,-,-,-,-,-,-,-,-,Uma2
+hypothetical protein_536,496,-,-,1280,512148,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_376,497,-,-,779,513464,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_375,498,Sulfotransferase family,-,2084,514443,-,-,-,-,-,-,-,-,-,-,-,-,Sulfotransfer_3
+hypothetical protein_374,499,Prolyl 4-hydroxylase alpha subunit homologues.,-,1391,516540,-,-,-,-,-,-,-,-,-,-,-,-,2OG-FeII_Oxy_3
+hypothetical protein_373,500,GDP-fucose protein O-fucosyltransferase,-,935,517991,+,-,-,-,-,-,-,-,-,-,-,-,O-FucT
+hypothetical protein_372,501,Protein of unknown function (DUF1826),-,743,518912,-,-,-,-,-,-,-,-,-,-,-,-,DUF1826
+hypothetical protein_371,502,-,-,731,519804,+,-,-,-,-,-,-,-,-,-,-,-,-
+Exopolysaccharide glucosyl ketal-pyruvate-transferase,503,Polysaccharide pyruvyl transferase,-,767,520528,+,-,-,-,-,-,-,-,-,-,-,-,PS_pyruv_trans
+hypothetical protein_370,504,Aspartyl/Asparaginyl beta-hydroxylase,-,791,521292,+,-,-,-,-,-,-,-,-,-,-,-,Asp_Arg_Hydrox
+Intermembrane transport protein PqiA,505,PFAM Paraquat-inducible protein A,-,1334,522321,+,-,-,ko:K03808,-,-,-,-,ko00000,-,-,-,PqiA
+Intermembrane transport protein PqiB,506,PFAM Mammalian cell entry related,-,1643,523648,+,-,-,ko:K06192,-,-,-,-,ko00000,-,-,-,MlaD
+Intermembrane transport lipoprotein PqiC,507,ABC-type transport auxiliary lipoprotein component,-,626,525288,+,-,-,ko:K09857,-,-,-,-,ko00000,-,-,-,ABC_trans_aux
+Proline/betaine transporter,509,Sugar (and other) transporter,-,1370,527309,+,-,-,ko:K03762,-,-,-,-,"ko00000,ko02000",2.A.1.6.4,-,-,Sugar_tr
+Arylamine N-acetyltransferase,510,Belongs to the arylamine N-acetyltransferase family,-,842,528664,-,-,-,-,-,-,-,-,-,-,-,-,Acetyltransf_2
+hypothetical protein_88,517,-,-,578,533830,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_87,521,-,-,569,537274,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_86,524,Ribonucleotide reductase subunit alpha,-,389,544073,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_85,527,-,-,218,546149,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_84,532,-,-,830,550563,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_83,533,"DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. The epsilon subunit contain the editing function and is a proofreading 3'-5' exonuclease",-,581,551571,-,-,-,-,-,-,-,-,-,-,-,-,RNase_T
+hypothetical protein_369,535,-,-,320,553080,+,-,-,-,-,-,-,-,-,-,-,-,-
+Cobalt-zinc-cadmium resistance protein CzcB,540,Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family,-,1205,558447,-,-,-,ko:K15727,-,-,-,-,"ko00000,ko02000",8.A.1.2.1,-,-,HlyD_D23
+Cobalt-zinc-cadmium resistance protein CzcC,541,COG1538 Outer membrane protein,czcC,1313,559652,-,-,-,ko:K15725,-,-,-,-,"ko00000,ko02000",1.B.17.2.2,-,-,OEP
+hypothetical protein_368,542,-,-,269,561049,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_231,579,ATPases of PP-loop superfamily,-,755,601400,+,-,-,-,-,-,-,-,-,-,-,-,Diphthami_syn_2
+Vitamin B12-binding protein,580,"COG0614 ABC-type Fe3 -hydroxamate transport system, periplasmic component",-,923,602157,+,-,-,-,-,-,-,-,-,-,-,-,Peripla_BP_2
+hypothetical protein_143,581,-,-,557,603123,+,-,-,-,-,-,-,-,-,-,-,-,-
+Maltodextrin phosphorylase,586,"Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties",-,2528,606465,+,-,2.4.1.1,ko:K00688,"ko00500,ko01100,ko01110,ko02026,ko04217,ko04910,ko04922,ko04931,map00500,map01100,map01110,map02026,map04217,map04910,map04922,map04931",-,R02111,-,"ko00000,ko00001,ko01000",-,GT35,-,Phosphorylase
+Glucose-1-phosphate adenylyltransferase,587,"Catalyzes the synthesis of ADP-glucose, a sugar donor used in elongation reactions on alpha-glucans",glgC,1265,609054,+,-,2.7.7.27,ko:K00975,"ko00500,ko00520,ko01100,ko01110,ko02026,map00500,map00520,map01100,map01110,map02026",M00565,R00948,RC00002,"ko00000,ko00001,ko00002,ko01000",-,-,-,NTP_transferase
+Glycogen synthase,589,"Synthesizes alpha-1,4-glucan chains using ADP-glucose",glgA,1562,612045,+,-,2.4.1.21,ko:K00703,"ko00500,ko01100,ko01110,ko02026,map00500,map01100,map01110,map02026",M00565,R02421,RC00005,"ko00000,ko00001,ko00002,ko01000,ko01003",-,GT5,-,"Glyco_transf_5,Glycos_transf_1"
+hypothetical protein_516,595,-,-,1472,618837,-,-,-,-,-,-,-,-,-,-,-,-,-
+Glutathionyl-hydroquinone reductase YqjG,599,Glutathione S-transferase,-,1004,622211,-,-,1.8.5.7,ko:K07393,-,-,-,-,"ko00000,ko01000",-,-,-,"GST_C_2,GST_N_2"
+putative protein_528,602,Membrane,-,1325,625800,-,-,-,-,-,-,-,-,-,-,-,-,DUF2254
+hypothetical protein_529,604,SseB protein N-terminal domain,-,437,628389,-,-,-,-,-,-,-,-,-,-,-,-,SseB
+"Glycerophosphodiester phosphodiesterase, cytoplasmic",606,PFAM Glycerophosphoryl diester phosphodiesterase,-,770,630964,+,-,3.1.4.46,ko:K01126,"ko00564,map00564",-,"R01030,R01470","RC00017,RC00425","ko00000,ko00001,ko01000",-,-,-,GDPD
+"Propane 2-monooxygenase, reductase component_157",607,PFAM Oxidoreductase FAD NAD(P)-binding,-,665,631818,-,-,1.6.2.2,ko:K00326,"ko00520,map00520",-,R00100,-,"ko00000,ko00001,ko01000",-,-,-,"FAD_binding_6,NAD_binding_1"
+putative FAD-linked oxidoreductase,616,PFAM FAD linked oxidase domain protein,glcE,1073,642187,-,-,-,ko:K11472,"ko00630,ko01100,ko01110,ko01120,ko01130,map00630,map01100,map01110,map01120,map01130",-,R00475,RC00042,"ko00000,ko00001",-,-,-,"FAD-oxidase_C,FAD_binding_4"
+Intermembrane phospholipid transport system binding protein MlaC_621,634,intermembrane phospholipid transfer,-,683,662999,+,-,-,ko:K07323,"ko02010,map02010",M00210,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.27.3,-,-,MlaC
+hypothetical protein_622,635,Lipocalin-like domain,-,1169,663633,-,-,-,-,-,-,-,-,-,-,-,-,"CrtC,Lipocalin_9"
+hypothetical protein_26,636,"ABC-type transport system, involved in lipoprotein release, permease component",-,2513,664804,-,-,-,ko:K02004,-,M00258,-,-,"ko00000,ko00002,ko02000",3.A.1,-,-,"FtsX,MacB_PCD"
+hypothetical protein_291,638,-,-,794,668277,+,-,-,-,-,-,-,-,-,-,-,-,-
+Beta-barrel assembly-enhancing protease_290,639,Peptidase family M48,-,1172,669068,+,-,-,-,-,-,-,-,-,-,-,-,Peptidase_M48
+hypothetical protein_289,640,-,-,599,670237,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_2,641,Protein of unknown function (DUF1722),-,896,670865,-,-,-,-,-,-,-,-,-,-,-,-,"DUF1722,DUF523"
+hypothetical protein_25,643,ribonuclease BN,-,980,672339,-,-,-,ko:K07058,-,-,-,-,ko00000,-,-,-,Virul_fac_BrkB
+hypothetical protein_288,645,Domain of unknown function (DUF4112),-,395,673842,+,-,-,-,-,-,-,-,-,-,-,-,DUF4112
+hypothetical protein_287,646,Endonuclease/Exonuclease/phosphatase family,-,1073,674277,+,-,-,-,-,-,-,-,-,-,-,-,Exo_endo_phos
+hypothetical protein_286,649,Chain length determinant protein,-,1070,677913,-,-,-,-,-,-,-,-,-,-,-,-,Wzz
+Intermembrane phospholipid transport system binding protein MlaC,650,PFAM toluene tolerance,-,665,679200,-,-,-,ko:K07323,"ko02010,map02010",M00210,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.27.3,-,-,MlaC
+hypothetical protein_285,652,PRC-barrel domain,-,437,679989,-,-,-,-,-,-,-,-,-,-,-,-,PRC
+hypothetical protein_284,653,PFAM PRC-barrel domain,-,569,681084,+,-,-,-,-,-,-,-,-,-,-,-,PRC
+Glucans biosynthesis protein G,654,Involved in the biosynthesis of osmoregulated periplasmic glucans (OPGs),-,1553,682004,+,-,-,ko:K03670,-,-,-,-,ko00000,-,-,-,MdoG
+Glucans biosynthesis glucosyltransferase H,655,PFAM Glycosyl transferase family 2,-,1985,683529,+,-,-,ko:K03669,-,-,-,-,"ko00000,ko01000,ko01003,ko02000",4.D.3.1.1,GT2,-,"Glyco_trans_2_3,Glycos_transf_2"
+hypothetical protein_192,656,DsrE/DsrF-like family,-,356,685705,+,-,-,-,-,-,-,-,-,-,-,-,DrsE
+Thioredoxin 1,657,Belongs to the thioredoxin family,trxA,323,686139,+,"GO:0003674,GO:0003824,GO:0004791,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006950,GO:0006979,GO:0008150,GO:0008152,GO:0009636,GO:0009987,GO:0015035,GO:0015036,GO:0016209,GO:0016491,GO:0016651,GO:0016667,GO:0016668,GO:0016671,GO:0019725,GO:0033554,GO:0034599,GO:0042221,GO:0042592,GO:0044424,GO:0044444,GO:0044464,GO:0045454,GO:0047134,GO:0050789,GO:0050794,GO:0050896,GO:0051716,GO:0055114,GO:0065007,GO:0065008,GO:0070887,GO:0097237,GO:0098754,GO:0098869,GO:1990748",-,ko:K03671,"ko04621,ko05418,map04621,map05418",-,-,-,"ko00000,ko00001,ko03110",-,-,"iECW_1372.ECW_m4079,iECs_1301.ECs4714,iEKO11_1354.EKO11_4576,iG2583_1286.G2583_4574,iSBO_1134.SBO_3791,iSDY_1059.SDY_3968,iSF_1195.SF3854,iSSON_1240.SSON_3952,iS_1188.S3905,iWFL_1372.ECW_m4079,iZ_1308.Z5291",Thioredoxin
+hypothetical protein_283,658,Lipid A 3-O-deacylase (PagL),-,581,686486,-,-,-,-,-,-,-,-,-,-,-,-,PagL
+hypothetical protein_282,659,-,-,1634,687117,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_281,660,-,-,359,689358,+,-,-,-,-,-,-,-,-,-,-,-,-
+Cell division protein DamX,669,AAA domain,-,1685,697056,+,-,-,ko:K03112,-,-,-,-,ko00000,-,-,-,"AAA_22,SPOR"
+hypothetical protein_623,670,Flagellar hook-length control protein FliK,-,1139,698826,+,-,-,-,-,-,-,-,-,-,-,-,Flg_hook
+hypothetical protein_612,691,-,-,677,718558,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_611,692,-,-,482,719243,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_610,693,serine threonine protein kinase,-,968,719722,-,-,"2.7.11.1,3.4.16.4","ko:K03587,ko:K08884,ko:K12132","ko00550,ko01501,map00550,map01501",-,-,-,"ko00000,ko00001,ko01000,ko01001,ko01011,ko03036",-,-,-,"PASTA,Transpeptidase"
+hypothetical protein_609,694,amine dehydrogenase activity,-,536,720746,-,-,-,-,-,-,-,-,-,-,-,-,Tail_P2_I
+hypothetical protein_608,695,Baseplate J-like protein,-,2579,721263,-,-,-,-,-,-,-,-,-,-,-,-,Baseplate_J
+hypothetical protein_256,696,GPW gp25 family protein,-,479,723857,-,-,-,ko:K06903,-,-,-,-,ko00000,-,-,-,GPW_gp25
+hypothetical protein_255,697,-,-,344,724333,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_254,698,PFAM Rhs element Vgr protein,-,1508,724680,-,-,-,-,-,-,-,-,-,-,-,-,Phage_GPD
+hypothetical protein_253,699,LysM domain,-,734,726185,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_252,700,-,-,1151,726919,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_251,701,T4-like virus tail tube protein gp19,-,497,728076,-,-,-,-,-,-,-,-,-,-,-,-,Phage_T4_gp19
+hypothetical protein_250,702,Phage tail sheath protein,-,1226,728655,-,-,-,ko:K06907,-,-,-,-,ko00000,-,-,-,"Phage_sheath_1,Phage_sheath_1C"
+hypothetical protein_249,703,-,-,716,729909,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_248,709,-,-,329,734382,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_247,710,COG0189 Glutathione synthase Ribosomal protein S6 modification enzyme (glutaminyl transferase),-,947,734760,+,-,-,-,-,-,-,-,-,-,-,-,RimK
+hypothetical protein_9,711,"Peptidase C39, bacteriocin processing",-,659,735756,+,-,-,ko:K06992,-,-,-,-,ko00000,-,-,-,Peptidase_C39
+hypothetical protein_4,712,chlorophyll binding,-,1103,736620,+,-,-,-,-,-,-,-,-,-,-,-,DUF4157
+Transcriptional regulatory protein DegU,713,Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain,-,809,737685,-,-,-,-,-,-,-,-,-,-,-,-,GerE
+ATP-dependent DNA helicase RecQ,722,"TIGRFAM ATP-dependent DNA helicase, RecQ",-,1889,746891,-,-,3.6.4.12,ko:K03654,"ko03018,map03018",-,-,-,"ko00000,ko00001,ko01000,ko03400",-,-,-,"DEAD,HRDC,HTH_40,Helicase_C,RQC,RecQ_Zn_bind"
+hypothetical protein_522,724,TIGRFAM Diguanylate cyclase,-,989,749335,-,-,-,-,-,-,-,-,-,-,-,-,"GGDEF,PAS_3,PAS_4,PAS_9"
+Tyrosine recombinase XerC,725,Belongs to the 'phage' integrase family,-,1001,750439,-,-,-,-,-,-,-,-,-,-,-,-,"Phage_int_SAM_1,Phage_integrase"
+Chromosome partition protein Smc_523,726,Plasmid replication region DNA-binding N-term,-,1043,751629,+,-,-,-,-,-,-,-,-,-,-,-,KfrA_N
+Flavohemoprotein_524,727,Flavodoxin,-,2420,752707,-,-,1.8.1.2,ko:K00380,"ko00920,ko01100,ko01120,map00920,map01100,map01120",M00176,R00858,RC00065,"ko00000,ko00001,ko00002,ko01000",-,-,-,"Flavodoxin_1,NAD_binding_1,PepSY_TM"
+Fe(3+)-pyochelin receptor,728,TonB dependent receptor,-,2198,755156,-,-,-,-,-,-,-,-,-,-,-,-,"Plug,TonB_dep_Rec"
+ABC transporter ATP-binding/permease protein YojI,729,pfam abc,-,1685,757502,-,-,-,ko:K06159,"ko02010,map02010",-,-,-,"ko00000,ko00001,ko02000",3.A.1.113.3,-,-,"ABC_membrane,ABC_tran"
+hypothetical protein_216,730,TIGRFAM Amino acid adenylation,-,173,759184,-,-,-,-,-,-,-,-,-,-,-,-,"AMP-binding,AMP-binding_C,Condensation,PP-binding,Thioesterase"
+Tyrocidine synthase 3,736,TIGRFAM Amino acid adenylation,-,3230,776550,-,-,-,-,-,-,-,-,-,-,-,-,"AMP-binding,AMP-binding_C,Condensation,PP-binding,Thioesterase"
+D-alanine--D-alanyl carrier protein ligase,737,TIGRFAM Amino acid adenylation,-,9224,779785,-,-,-,-,-,-,-,-,-,-,-,-,"AMP-binding,AMP-binding_C,Condensation,PP-binding,Thioesterase"
+Protein MbtH,738,MbtH-like protein,-,215,789182,+,-,-,ko:K05375,"ko00261,ko01130,map00261,map01130",M00736,R10880,"RC00064,RC00141,RC03296,RC03297,RC03298","ko00000,ko00001,ko00002",-,-,-,MbtH
+Aculeacin-A acylase,739,penicillin amidase,-,2498,789407,+,-,3.5.1.11,ko:K01434,"ko00311,ko01130,map00311,map01130",-,R02170,"RC00166,RC00328","ko00000,ko00001,ko01000,ko01002",-,-,-,Penicil_amidase
+hypothetical protein_471,740,Taurine catabolism dioxygenase TauD TfdA,-,998,791891,-,-,-,-,-,-,-,-,-,-,-,-,TauD
+hypothetical protein_472,741,Belongs to the P-Pant transferase superfamily,-,704,793510,+,-,-,-,-,-,-,-,-,-,-,-,ACPS
+DNA polymerase IV,743,"Poorly processive, error-prone DNA polymerase involved in untargeted mutagenesis. Copies undamaged DNA at stalled replication forks, which arise in vivo from mismatched or misaligned primer ends. These misaligned primers can be extended by PolIV. Exhibits no 3'-5' exonuclease (proofreading) activity. May be involved in translesional synthesis, in conjunction with the beta clamp from PolIII",dinB,1055,794709,+,-,2.7.7.7,ko:K02346,-,-,-,-,"ko00000,ko01000,ko03400",-,-,-,"IMS,IMS_C,IMS_HHH"
+Arginine N-succinyltransferase,744,Arginine N-succinyltransferase beta subunit,-,1025,795836,-,-,-,-,-,-,-,-,-,-,-,-,AstA
+Succinyl-diaminopimelate desuccinylase,745,COG0624 Acetylornithine deacetylase Succinyl-diaminopimelate desuccinylase and related deacylases,cpg2,1334,796858,-,-,3.4.17.11,ko:K01295,-,-,-,-,"ko00000,ko01000,ko01002",-,-,-,"M20_dimer,Peptidase_M20,Peptidase_M28"
+hypothetical protein_127,747,RESPONSE REGULATOR receiver,-,359,799805,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_128,748,Putative diguanylate phosphodiesterase,-,1745,800291,+,-,-,-,-,-,-,-,-,-,-,-,"EAL,GGDEF"
+NADH-quinone oxidoreductase chain 3,765,"TIGRFAM NADH-quinone oxidoreductase, chain G",-,2396,819411,-,-,1.6.5.3,ko:K00336,"ko00190,ko01100,map00190,map01100",M00144,R11945,RC00061,"ko00000,ko00001,ko00002,ko01000",3.D.1,-,-,"Fer2_4,Molybdopterin,Molydop_binding,NADH-G_4Fe-4S_3"
+hypothetical protein_473,779,-,-,272,832943,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_474,790,-,-,452,845885,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_129,792,Type II transport protein GspH,-,503,847166,+,-,-,ko:K08084,-,-,-,-,"ko00000,ko02044",3.A.15.2,-,-,"GspH,N_methyl"
+hypothetical protein_130,794,Type IV Pilus-assembly protein W,-,1037,848188,+,-,-,ko:K02672,-,-,-,-,"ko00000,ko02035,ko02044",-,-,-,"N_methyl,PilW"
+hypothetical protein_475,795,Type IV pilus assembly protein PilX C-term,-,548,849281,+,-,-,ko:K02673,-,-,-,-,"ko00000,ko02035,ko02044",-,-,-,"PilX,PilX_N"
+Type IV pilus biogenesis factor PilY1,796,"Tfp pilus assembly protein, tip-associated adhesin PilY1",-,3572,849892,+,-,-,ko:K02674,-,-,-,-,"ko00000,ko02035,ko02044",-,-,-,Neisseria_PilC
+hypothetical protein_131,797,-,-,320,853602,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_476,798,TIGRFAM prepilin-type N-terminal cleavage methylation domain,-,440,854159,+,-,-,ko:K02655,-,-,-,-,"ko00000,ko02035,ko02044",3.A.15.2,-,-,"ComP_DUS,N_methyl"
+hypothetical protein_477,799,protein transport across the cell outer membrane,fimT,557,854849,+,-,-,ko:K08084,-,-,-,-,"ko00000,ko02044",3.A.15.2,-,-,"GspH,N_methyl"
+Phosphoserine phosphatase 1,814,phosphoglycerate mutase,-,689,867472,-,-,5.4.2.12,ko:K15634,"ko00010,ko00260,ko00680,ko01100,ko01110,ko01120,ko01130,ko01200,ko01230,map00010,map00260,map00680,map01100,map01110,map01120,map01130,map01200,map01230","M00001,M00002,M00003",R01518,RC00536,"ko00000,ko00001,ko00002,ko01000",-,-,-,His_Phos_1
+hypothetical protein_538,818,-,-,179,870378,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_539,819,-,-,482,870826,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_540,823,-,-,782,874050,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_541,824,Domain of unknown function DUF302,-,458,874866,+,-,-,-,-,-,-,-,-,-,-,-,DUF302
+Putative asparagine synthetase [glutamine-hydrolyzing],825,"Asparagine synthase, glutamine-hydrolyzing",-,1982,875482,+,-,6.3.5.4,ko:K01953,"ko00250,ko01100,ko01110,map00250,map01100,map01110",-,R00578,RC00010,"ko00000,ko00001,ko01000,ko01002",-,-,-,"Asn_synthase,GATase_7"
+hypothetical protein_159,827,Sulfotransferase family,-,1010,878959,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_160,828,2OG-Fe(II) oxygenase superfamily,-,722,879959,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_542,829,Nucleoside-diphosphate-sugar epimerase,-,1166,880762,-,-,-,ko:K07276,-,-,-,-,ko00000,-,-,-,Mito_fiss_Elm1
+hypothetical protein_543,830,Mitochondrial fission ELM1,-,2555,881925,-,-,-,ko:K07276,-,-,-,-,ko00000,-,-,-,Mito_fiss_Elm1
+hypothetical protein_544,831,Sulfotransferase domain,-,953,884705,+,-,-,-,-,-,-,-,-,-,-,-,Sulfotransfer_1
+Ribonuclease VapC11,833,Toxic component of a toxin-antitoxin (TA) module. An RNase,-,413,885749,-,-,-,-,-,-,-,-,-,-,-,-,PIN
+hypothetical protein_545,834,"Bacterial antitoxin of type II TA system, VapB",-,221,886149,-,-,-,-,-,-,-,-,-,-,-,-,VapB_antitoxin
+D-inositol-3-phosphate glycosyltransferase_217,835,glycosyl transferase group 1,-,1298,886496,+,-,-,-,-,-,-,-,-,-,-,-,"Glyco_transf_4,Glycos_transf_1"
+hypothetical protein_547,837,glycosyl transferase family 2,-,1046,889106,-,-,-,-,-,-,-,-,-,-,-,-,Glycos_transf_2
+hypothetical protein_548,838,-,-,890,890429,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_549,840,-,-,341,892102,-,-,-,-,-,-,-,-,-,-,-,-,-
+Isopentenyl-diphosphate Delta-isomerase,845,NUDIX domain,-,503,898634,+,-,-,-,-,-,-,-,-,-,-,-,NUDIX
+hypothetical protein_550,846,Iron permease FTR1,-,1904,899335,+,-,-,ko:K07243,-,-,-,-,"ko00000,ko02000","2.A.108.1,2.A.108.2",-,-,"Cytochrome_CBB3,FTR1"
+Aspartate-proton symporter,847,PFAM amino acid permease-associated region,-,1700,901357,-,-,-,ko:K03294,-,-,-,-,ko00000,2.A.3.2,-,-,AA_permease_2
+hypothetical protein_359,877,-,-,266,934129,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_360,878,-,-,110,934385,-,-,-,-,-,-,-,-,-,-,-,-,-
+Peptide transporter CstA,879,5TM C-terminal transporter carbon starvation CstA,-,1706,934530,-,-,-,-,-,-,-,-,-,-,-,-,"CstA,CstA_5TM"
+Phosphoenolpyruvate guanylyltransferase,882,Uncharacterized protein conserved in bacteria (DUF2064),-,698,938512,-,-,-,ko:K09931,-,-,-,-,ko00000,-,-,-,DUF2064
+hypothetical protein_3,886,Bacterial-like globin,-,407,940936,+,-,-,ko:K06886,-,-,-,-,ko00000,-,-,-,Bac_globin
+Trans-aconitate 2-methyltransferase,888,Methyltransferase domain,-,1058,942511,-,-,-,-,-,-,-,-,-,-,-,-,Methyltransf_31
+hypothetical protein_303,891,-,-,431,944963,-,-,-,-,-,-,-,-,-,-,-,-,-
+HTH-type transcriptional regulator CueR,892,Transcriptional regulator,-,449,945548,-,-,-,-,-,-,-,-,-,-,-,-,"MerR,MerR-DNA-bind"
+"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase_564",894,"Serine aminopeptidase, S33",-,878,947307,-,-,-,-,-,-,-,-,-,-,-,-,Abhydrolase_1
+Protein MtfA,896,Belongs to the MtfA family,-,809,948922,-,-,-,ko:K09933,-,-,-,-,"ko00000,ko01002",-,-,-,Peptidase_M90
+hypothetical protein_451,898,Aminoacyl-tRNA editing domain,-,455,951022,+,-,-,ko:K19055,-,-,-,-,"ko00000,ko01000,ko03016",-,-,-,tRNA_edit
+Glutamate--cysteine ligase EgtA,899,glutamate--cysteine ligase,gsh1,1367,951484,-,-,6.3.2.2,ko:K01919,"ko00270,ko00480,ko01100,map00270,map00480,map01100",M00118,"R00894,R10993","RC00064,RC00090","ko00000,ko00001,ko00002,ko01000",-,-,-,GCS2
+putative protein_450,900,AAA domain,-,1544,953050,-,-,-,ko:K07028,-,-,-,-,ko00000,-,-,-,"AAA_33,APH"
+hypothetical protein_330,905,Protein of unknown function (DUF3422),-,1346,958269,+,-,-,-,-,-,-,-,-,-,-,-,DUF3422
+Ribonuclease BN,906,Beta-lactamase superfamily domain,-,1964,959887,-,-,3.1.26.11,ko:K00784,"ko03013,map03013",-,-,-,"ko00000,ko00001,ko01000,ko03016",-,-,-,"Lactamase_B,Lactamase_B_2"
+hypothetical protein_56,914,Mo-molybdopterin cofactor metabolic process,moaD,239,967478,-,"GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006732,GO:0006777,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009108,GO:0009987,GO:0018130,GO:0019538,GO:0019637,GO:0019720,GO:0043170,GO:0043545,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044444,GO:0044464,GO:0046483,GO:0051186,GO:0051188,GO:0051189,GO:0071704,GO:0090407,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",2.8.1.12,"ko:K03636,ko:K21142","ko00790,ko01100,ko04122,map00790,map01100,map04122",-,R09395,RC02507,"ko00000,ko00001,ko01000",-,-,-,"MoaE,ThiS"
+hypothetical protein_329,917,"Uncharacterized ACR, COG1993",-,314,969517,-,-,-,ko:K09137,-,-,-,-,ko00000,-,-,-,DUF190
+Putative fluoride ion transporter CrcB,918,"Important for reducing fluoride concentration in the cell, thus reducing its toxicity",crcB,374,969873,-,-,-,ko:K06199,-,-,-,-,"ko00000,ko02000","1.A.43.1,1.A.43.2,1.A.43.3",-,-,CRCB
+Hydrogenase maturation factor HypB,931,TIGRFAM Hydrogenase accessory protein HypB,-,839,986511,-,-,-,ko:K04652,-,-,-,-,"ko00000,ko03110",-,-,-,cobW
+Hydrogenase maturation factor HybF,932,nickel cation binding,hypA,332,987350,-,-,-,ko:K04651,-,-,-,-,"ko00000,ko03110",-,-,-,HypA
+Carbamoyl dehydratase HypE,933,TIGRFAM hydrogenase expression formation protein HypE,-,1094,987695,-,-,-,ko:K04655,-,-,-,-,ko00000,-,-,-,"AIRS,AIRS_C"
+Hydrogenase maturation factor HypD,934,Belongs to the HypD family,-,1172,988786,-,-,-,ko:K04654,-,-,-,-,ko00000,-,-,-,HypD
+Hydrogenase maturation factor HybG,935,hydrogenase expression formation protein,-,278,990023,-,-,-,ko:K04653,-,-,-,-,ko00000,-,-,-,HupF_HypC
+Carbamoyltransferase HypF,936,"Along with HypE, it catalyzes the synthesis of the CN ligands of the active site iron of NiFe -hydrogenases using carbamoylphosphate as a substrate. It functions as a carbamoyl transferase using carbamoylphosphate as a substrate and transferring the carboxamido moiety in an ATP-dependent reaction to the thiolate of the C-terminal cysteine of HypE yielding a protein-S-carboxamide",-,2345,990306,-,-,-,ko:K04656,-,-,-,-,ko00000,-,-,-,"Acylphosphatase,Sua5_yciO_yrdC,zf-HYPF"
+hypothetical protein_504,941,COG0664 cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases,-,461,996432,-,-,-,-,-,-,-,-,-,-,-,-,cNMP_binding
+putative protein_505,943,AAA domain,-,1019,998342,+,-,-,-,-,-,-,-,-,-,-,-,-
+Adaptive-response sensory-kinase SasA_506,944,signal transduction histidine kinase,-,1547,999639,+,-,-,-,-,-,-,-,-,-,-,-,"HATPase_c,HisKA,PAS_4"
+Response regulator rcp1,945,response regulator receiver,-,446,1001206,+,-,-,-,-,-,-,-,-,-,-,-,Response_reg
+hypothetical protein_507,946,Diguanylate cyclase,-,2456,1001659,+,-,-,-,-,-,-,-,-,-,-,-,"EAL,GGDEF,PAS,PAS_4,Response_reg"
+hypothetical protein_508,948,Belongs to the pirin family,-,905,1004788,-,-,-,ko:K06911,-,-,-,-,ko00000,-,-,-,"Pirin,Pirin_C"
+hypothetical protein_509,949,PFAM regulatory protein TetR,-,671,1006046,+,-,-,-,-,-,-,-,-,-,-,-,TetR_N
+hypothetical protein_510,950,membrane-bound metal-dependent,-,1049,1006736,+,-,-,ko:K07038,-,-,-,-,ko00000,-,-,-,YdjM
+Acetolactate synthase,951,"COG0028 Thiamine pyrophosphate-requiring enzymes acetolactate synthase, pyruvate dehydrogenase (cytochrome), glyoxylate carboligase, phosphonopyruvate decarboxylase",-,1649,1008035,-,-,-,-,-,-,-,-,-,-,-,-,"TPP_enzyme_C,TPP_enzyme_M,TPP_enzyme_N"
+hypothetical protein_511,952,DNA photolyase,-,1439,1009718,-,-,4.1.99.3,ko:K01669,-,-,-,-,"ko00000,ko01000,ko03400",-,-,-,"DNA_photolyase,FAD_binding_7"
+Zinc-type alcohol dehydrogenase-like protein,954,Belongs to the zinc-containing alcohol dehydrogenase family. Quinone oxidoreductase subfamily,-,1016,1012550,-,-,-,-,-,-,-,-,-,-,-,-,"ADH_N,ADH_zinc_N_2"
+RecBCD enzyme subunit RecB_512,960,"A helicase nuclease that prepares dsDNA breaks (DSB) for recombinational DNA repair. Binds to DSBs and unwinds DNA via a highly rapid and processive ATP-dependent bidirectional helicase activity. Unwinds dsDNA until it encounters a Chi (crossover hotspot instigator) sequence from the 3' direction. Cuts ssDNA a few nucleotides 3' to the Chi site. The properties and activities of the enzyme are changed at Chi. The Chi-altered holoenzyme produces a long 3'-ssDNA overhang and facilitates RecA-binding to the ssDNA for homologous DNA recombination and repair. Holoenzyme degrades any linearized DNA that is unable to undergo homologous recombination. In the holoenzyme this subunit contributes ATPase, 3'-5' helicase, exonuclease activity and loads RecA onto ssDNA",recB,3353,1020683,-,-,"3.1.11.5,3.6.4.12","ko:K03582,ko:K16898","ko03440,map03440",-,-,-,"ko00000,ko00001,ko01000,ko03400",-,-,-,"PDDEXK_1,UvrD-helicase,UvrD_C"
+hypothetical protein_151,961,PD-(D/E)XK nuclease superfamily,-,2669,1024033,-,-,-,-,-,-,-,-,-,-,-,-,PDDEXK_1
+hypothetical protein_487,964,-,-,524,1030341,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_486,965,Peptidase family M23,-,812,1030954,-,-,-,-,-,-,-,-,-,-,-,-,Peptidase_M23
+hypothetical protein_135,968,PFAM periplasmic solute binding protein,-,1061,1033405,-,-,-,ko:K09815,"ko02010,map02010",M00242,-,-,"ko00000,ko00001,ko00002,ko02000","3.A.1.15.3,3.A.1.15.5",-,-,ZnuA
+tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,970,"PFAM Peptidase M22, glycoprotease",-,680,1035082,-,-,-,ko:K14742,-,-,-,-,"ko00000,ko03016",-,-,-,Peptidase_M22
+hypothetical protein_590,982,response regulator receiver,-,1610,1048561,-,-,-,-,-,-,-,-,-,-,-,-,"GGDEF,Hpt,Response_reg"
+Apolipoprotein N-acyltransferase,991,Transfers the fatty acyl group on membrane lipoproteins,lnt,1721,1058353,-,-,-,ko:K03820,-,-,-,-,"ko00000,ko01000",-,GT2,-,CN_hydrolase
+hypothetical protein_187,1002,carboxylic ester hydrolase activity,-,845,1073877,-,-,-,-,-,-,-,-,-,-,-,-,"Abhydrolase_6,Hydrolase_4"
+Ribosome maturation factor RimM,1005,"An accessory protein needed during the final step in the assembly of 30S ribosomal subunit, possibly for assembly of the head region. Probably interacts with S19. Essential for efficient processing of 16S rRNA. May be needed both before and after RbfA during the maturation of 16S rRNA. It has affinity for free ribosomal 30S subunits but not for 70S ribosomes",rimM,521,1076019,-,-,-,ko:K02860,-,-,-,-,"ko00000,ko03009",-,-,-,"PRC,RimM"
+Glutamate--tRNA ligase,1011,Catalyzes the attachment of glutamate to tRNA(Glu) in a two-step reaction glutamate is first activated by ATP to form Glu-AMP and then transferred to the acceptor end of tRNA(Glu),gltX2,1409,1082119,-,-,6.1.1.17,ko:K01885,"ko00860,ko00970,ko01100,ko01110,ko01120,map00860,map00970,map01100,map01110,map01120","M00121,M00359,M00360",R05578,"RC00055,RC00523","ko00000,ko00001,ko00002,ko01000,ko01007,ko02048,ko03016",-,-,-,tRNA-synt_1c
+hypothetical protein_186,1014,Belongs to the sodium neurotransmitter symporter (SNF) (TC 2.A.22) family,-,1421,1084832,-,-,-,ko:K03308,-,-,-,-,ko00000,"2.A.22.4,2.A.22.5",-,-,SNF
+Trehalose-phosphate phosphatase,1016,Removes the phosphate from trehalose 6-phosphate to produce free trehalose,-,818,1086846,-,-,-,-,-,-,-,-,-,-,-,-,Trehalose_PPase
+Trehalose-6-phosphate synthase,1017,Probably involved in the osmoprotection via the biosynthesis of trehalose. Catalyzes the transfer of glucose from UDP-glucose (UDP-Glc) to D-glucose 6-phosphate (Glc-6-P) to form trehalose-6-phosphate. Acts with retention of the anomeric configuration of the UDP-sugar donor,ggpS,1604,1087972,+,-,2.4.1.213,ko:K03692,-,-,-,-,"ko00000,ko01000",-,GT20,-,"Glyco_transf_20,S6PP"
+hypothetical protein_461,1036,Ribbon-helix-helix domain,-,227,1107107,-,-,-,-,-,-,-,-,-,-,-,-,RHH_6
+hypothetical protein_624,1064,-,-,479,1125285,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_19,1065,bacterial-type flagellum organization,flgM,293,1125769,-,-,-,ko:K02398,"ko02020,ko02025,ko02026,ko02040,map02020,map02025,map02026,map02040",-,-,-,"ko00000,ko00001,ko02035",-,-,-,FlgM
+hypothetical protein_625,1066,Involved in the assembly process of the P-ring formation. It may associate with FlgF on the rod constituting a structure essential for the P-ring assembly or may act as a modulator protein for the P-ring assembly,-,734,1126192,-,-,-,ko:K02386,"ko02040,map02040",-,-,-,"ko00000,ko00001,ko02035",-,-,-,ChapFlgA
+hypothetical protein_266,1074,Phosphatase,-,563,1133142,-,-,-,-,-,-,-,-,-,-,-,-,"CDKN3,DSPc"
+hypothetical protein_17,1080,Rhomboid family,-,713,1140212,+,-,-,-,-,-,-,-,-,-,-,-,Rhomboid
+hypothetical protein_626,1084,TIGRFAM Flagellar hook-associated protein 3,-,1202,1142278,-,-,-,ko:K02397,"ko02040,map02040",-,-,-,"ko00000,ko00001,ko02035",-,-,-,"Flagellin_C,Flagellin_N"
+hypothetical protein_627,1085,"TIGRFAM Flagellar hook-associated protein, FlgK",flgK,1958,1143486,-,-,-,ko:K02396,"ko02040,map02040",-,-,-,"ko00000,ko00001,ko02035",-,-,-,"Flg_bb_rod,Flg_bbr_C"
+Peptidoglycan hydrolase FlgJ,1086,Flagellar rod assembly protein muramidase FlgJ,-,947,1145497,-,-,-,ko:K02395,-,-,-,-,"ko00000,ko02035",-,-,-,"Glucosaminidase,Rod-binding"
+putative multidrug ABC transporter permease YbhR,1089,PFAM ABC-2 type transporter,-,1112,1149058,-,-,-,ko:K01992,-,M00254,-,-,"ko00000,ko00002,ko02000",3.A.1,-,-,ABC2_membrane_3
+putative multidrug ABC transporter permease YbhS,1090,PFAM ABC-2 type transporter,-,1145,1150173,-,-,-,ko:K01992,-,M00254,-,-,"ko00000,ko00002,ko02000",3.A.1,-,-,ABC2_membrane_3
+putative multidrug ABC transporter ATP-binding protein YbhF,1091,ABC transporter,-,1754,1151315,-,-,-,ko:K13926,-,-,-,-,ko00000,-,-,-,"ABC2_membrane_3,ABC_tran"
+hypothetical protein_264,1092,secretion protein,-,1037,1153066,-,-,-,ko:K01993,-,-,-,-,ko00000,-,-,-,"Biotin_lipoyl_2,HlyD_3,HlyD_D23"
+hypothetical protein_16,1094,small membrane protein,-,383,1155684,-,-,-,-,-,-,-,-,-,-,-,-,DUF423
+CAI-1 autoinducer sensor kinase/phosphatase CqsS,1095,Histidine kinase,-,1325,1156574,+,-,2.7.13.3,ko:K10916,"ko02020,ko02024,ko05111,map02020,map02024,map05111",M00513,-,-,"ko00000,ko00001,ko00002,ko01000,ko01001,ko02022",-,-,-,HATPase_c
+hypothetical protein_15,1096,Response regulator receiver domain,-,1028,1157892,+,-,-,-,-,-,-,-,-,-,-,-,Response_reg
+Protease 4,1098,PFAM peptidase S49,-,1844,1160715,-,-,-,ko:K04773,-,-,-,-,"ko00000,ko01000,ko01002",-,-,-,Peptidase_S49
+N-succinylglutamate 5-semialdehyde dehydrogenase,1101,Catalyzes the NAD-dependent reduction of succinylglutamate semialdehyde into succinylglutamate,-,1469,1166532,-,-,-,-,-,-,-,-,-,-,-,-,Aldedh
+hypothetical protein_298,1102,TIGRFAM hopanoid biosynthesis associated membrane protein HpnM,-,680,1168104,-,-,-,ko:K07323,"ko02010,map02010",M00210,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.27.3,-,-,MlaC
+Dephospho-CoA kinase,1106,Catalyzes the phosphorylation of the 3'-hydroxyl group of dephosphocoenzyme A to form coenzyme A,coaE,602,1173244,+,-,2.7.1.24,ko:K00859,"ko00770,ko01100,map00770,map01100",M00120,R00130,"RC00002,RC00078","ko00000,ko00001,ko00002,ko01000",-,-,-,CoaE
+Cell division protein ZapD,1107,"Cell division factor that enhances FtsZ-ring assembly. Directly interacts with FtsZ and promotes bundling of FtsZ protofilaments, with a reduction in FtsZ GTPase activity",zapD,839,1173864,+,-,-,ko:K18778,-,-,-,-,"ko00000,ko03036",-,-,-,ZapD
+Thiamine-phosphate synthase,1109,Thiamine monophosphate synthase,-,950,1174994,-,-,3.6.1.55,ko:K03574,-,-,-,-,"ko00000,ko01000,ko03400",-,-,-,"NUDIX,NUDIX_4,TMP-TENI"
+hypothetical protein_27,1112,Protein of unknown function (DUF721),Y3619,509,1180073,+,-,-,-,-,-,-,-,-,-,-,-,DUF721
+Cell division protein FtsQ,1117,"Essential cell division protein. May link together the upstream cell division proteins, which are predominantly cytoplasmic, with the downstream cell division proteins, which are predominantly periplasmic. May control correct divisome assembly",ftsQ,794,1184254,-,-,-,ko:K03589,"ko04112,map04112",-,-,-,"ko00000,ko00001,ko03036",-,-,-,"FtsQ,POTRA_1"
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,1125,"Involved in cell wall formation. Catalyzes the final step in the synthesis of UDP-N-acetylmuramoyl-pentapeptide, the precursor of murein",murF,1361,1193034,-,-,6.3.2.10,ko:K01929,"ko00300,ko00550,ko01100,ko01502,map00300,map00550,map01100,map01502",-,"R04573,R04617","RC00064,RC00141","ko00000,ko00001,ko01000,ko01011",-,-,-,"Mur_ligase,Mur_ligase_C,Mur_ligase_M"
+"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",1126,Catalyzes the addition of meso-diaminopimelic acid to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanyl-D-glutamate (UMAG) in the biosynthesis of bacterial cell-wall peptidoglycan,murE,1508,1194395,-,-,6.3.2.13,ko:K01928,"ko00300,ko00550,map00300,map00550",-,R02788,"RC00064,RC00090","ko00000,ko00001,ko01000,ko01011",-,-,-,"Mur_ligase,Mur_ligase_C,Mur_ligase_M"
+Penicillin-binding protein activator LpoA,1132,PFAM LppC,-,2159,1200955,+,-,-,ko:K07121,-,-,-,-,ko00000,-,-,-,LppC
+hypothetical protein_299,1133,Belongs to the UPF0102 family,-,359,1203107,+,-,-,ko:K07460,-,-,-,-,ko00000,-,-,-,UPF0102
+Ammonia monooxygenase gamma subunit,1137,PFAM Cytochrome C1,petC,767,1205304,-,-,-,ko:K00413,"ko00190,ko01100,ko02020,ko04260,ko04714,ko04932,ko05010,ko05012,ko05016,map00190,map01100,map02020,map04260,map04714,map04932,map05010,map05012,map05016","M00151,M00152",-,-,"ko00000,ko00001,ko00002",-,-,-,Cytochrom_C1
+hypothetical protein_28,1146,NTP binding protein (Contains STAS domain),-,311,1213745,-,-,-,ko:K07122,"ko02010,map02010",M00210,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.27.3,-,-,STAS_2
+Lipopolysaccharide export system protein LptC,1153,"Lipopolysaccharide-assembly, LptC-related",-,569,1218705,+,-,-,ko:K11719,-,-,-,-,"ko00000,ko02000",1.B.42.1,-,-,LptC
+Lipopolysaccharide export system protein LptA,1154,"Involved in the assembly of lipopolysaccharide (LPS). Required for the translocation of LPS from the inner membrane to the outer membrane. May form a bridge between the inner membrane and the outer membrane, via interactions with LptC and LptD, thereby facilitating LPS transfer across the periplasm",lptA,569,1219255,+,-,-,ko:K09774,-,-,-,-,"ko00000,ko02000",1.B.42.1,-,-,"OstA,SH3_3"
+HPr kinase/phosphorylase,1159,"Catalyzes the ATP- as well as the pyrophosphate- dependent phosphorylation of a specific serine residue in HPr, a phosphocarrier protein of the phosphoenolpyruvate-dependent sugar phosphotransferase system (PTS). HprK P also catalyzes the pyrophosphate-producing, inorganic phosphate-dependent dephosphorylation (phosphorolysis) of seryl-phosphorylated HPr (P- Ser-HPr). The two antagonistic activities of HprK P are regulated by several intracellular metabolites, which change their concentration in response to the absence or presence of rapidly metabolisable carbon sources (glucose, fructose, etc.) in the growth medium. Therefore, by controlling the phosphorylation state of HPr, HPrK P is a sensor enzyme that plays a major role in the regulation of carbon metabolism and sugar transport it mediates carbon catabolite repression (CCR), and regulates PTS-catalyzed carbohydrate uptake and inducer exclusion",hprK,845,1223304,+,"GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0044424,GO:0044444,GO:0044464",-,ko:K06023,-,-,-,-,"ko00000,ko01000",-,-,-,"Hpr_kinase_C,Hpr_kinase_N"
+hypothetical protein_29,1166,Protein of unknown function,-,3794,1229710,-,-,-,-,-,-,-,-,-,-,-,-,"AsmA_2,DUF3971"
+Ribosomal silencing factor RsfS,1170,"Functions as a ribosomal silencing factor. Interacts with ribosomal protein L14 (rplN), blocking formation of intersubunit bridge B8. Prevents association of the 30S and 50S ribosomal subunits and the formation of functional ribosomes, thus repressing translation",rsfS,371,1236206,-,"GO:0003674,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006417,GO:0008150,GO:0009889,GO:0009890,GO:0009892,GO:0010468,GO:0010556,GO:0010558,GO:0010605,GO:0010608,GO:0010629,GO:0017148,GO:0019222,GO:0031323,GO:0031324,GO:0031326,GO:0031327,GO:0032268,GO:0032269,GO:0034248,GO:0034249,GO:0043021,GO:0043023,GO:0044087,GO:0044424,GO:0044444,GO:0044464,GO:0044877,GO:0048519,GO:0048523,GO:0050789,GO:0050794,GO:0051171,GO:0051172,GO:0051246,GO:0051248,GO:0060255,GO:0065007,GO:0080090,GO:0090069,GO:0090071,GO:2000112,GO:2000113",-,ko:K09710,-,-,-,-,"ko00000,ko03009",-,-,-,RsfS
+hypothetical protein_30,1173,"DNA polymerase III, delta subunit",-,1022,1238610,-,-,2.7.7.7,ko:K02340,"ko00230,ko00240,ko01100,ko03030,ko03430,ko03440,map00230,map00240,map01100,map03030,map03430,map03440",M00260,"R00375,R00376,R00377,R00378",RC02795,"ko00000,ko00001,ko00002,ko01000,ko03032,ko03400",-,-,-,"DNA_pol3_delt_C,DNA_pol3_delta"
+LPS-assembly lipoprotein LptE,1174,"Together with LptD, is involved in the assembly of lipopolysaccharide (LPS) at the surface of the outer membrane. Required for the proper assembly of LptD. Binds LPS and may serve as the LPS recognition site at the outer membrane",lptE,494,1239651,-,"GO:0001530,GO:0003674,GO:0005488,GO:0005575,GO:0005623,GO:0006810,GO:0006869,GO:0008150,GO:0008289,GO:0009279,GO:0009987,GO:0010876,GO:0015920,GO:0016020,GO:0016043,GO:0019867,GO:0022607,GO:0030312,GO:0030313,GO:0031975,GO:0033036,GO:0043163,GO:0043165,GO:0044085,GO:0044091,GO:0044462,GO:0044464,GO:0045229,GO:0051179,GO:0051234,GO:0061024,GO:0071702,GO:0071709,GO:0071840,GO:0071944,GO:0097367,GO:1901264",-,ko:K03643,-,-,-,-,"ko00000,ko02000",1.B.42.1,-,"iECH74115_1262.ECH74115_0730,iECSP_1301.ECSP_0694,iECs_1301.ECs0679,iG2583_1286.G2583_0804,iZ_1308.Z0788",LptE
+hypothetical protein_31,1176,Zinc-ribbon containing domain,-,524,1242974,+,-,-,-,-,-,-,-,-,-,-,-,DUF1451
+Oxygen regulatory protein NreC,1177,response regulator,-,737,1243851,+,-,-,-,-,-,-,-,-,-,-,-,Response_reg
+hypothetical protein_6,1179,Protein of unknown function (DUF938),-,476,1245438,-,-,-,-,-,-,-,-,-,-,-,-,DUF938
+hypothetical protein_228,1181,Protein of unknown function (DUF541),-,776,1246245,-,-,-,-,-,-,-,-,-,-,-,-,SIMPL
+hypothetical protein_207,1182,Zinc-dependent metalloprotease,-,1160,1247316,-,-,-,-,-,-,-,-,-,-,-,-,"Astacin,Peptidase_M10"
+hypothetical protein_328,1194,-,-,536,1261971,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_327,1196,-,-,272,1263752,-,-,-,-,-,-,-,-,-,-,-,-,ORF6N
+hypothetical protein_55,1204,SURF1-like protein,-,731,1269883,-,-,-,-,-,-,-,-,-,-,-,-,SURF1
+hypothetical protein_326,1207,-,-,128,1271895,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_54,1210,Integral membrane protein (DUF2244),-,560,1274874,-,-,-,-,-,-,-,-,-,-,-,-,DUF2244
+hypothetical protein_53,1213,Competence protein,-,659,1277650,+,-,-,-,-,-,-,-,-,-,-,-,Pribosyltran
+Chorismate pyruvate-lyase,1215,"Removes the pyruvyl group from chorismate, with concomitant aromatization of the ring, to provide 4- hydroxybenzoate (4HB) for the ubiquinone pathway",ubiC,566,1279190,-,-,4.1.3.40,ko:K03181,"ko00130,ko01100,ko01110,map00130,map01100,map01110",M00117,R01302,"RC00491,RC02148","ko00000,ko00001,ko00002,ko01000",-,-,-,Chor_lyase
+Protein YchQ,1225,Invasion gene expression up-regulator SirB,-,380,1289728,-,-,-,-,-,-,-,-,-,-,-,-,SirB
+hypothetical protein_52,1226,rho-dependent transcription termination,rof,251,1290166,+,"GO:0006355,GO:0008150,GO:0009889,GO:0010468,GO:0010556,GO:0019219,GO:0019222,GO:0031323,GO:0031326,GO:0031554,GO:0031564,GO:0043244,GO:0050789,GO:0050794,GO:0051128,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0080090,GO:1903506,GO:2000112,GO:2001141",-,ko:K19000,-,-,-,-,"ko00000,ko03021",-,-,-,ROF
+hypothetical protein_628,1227,Protein of unknown function (DUF3135),-,353,1290571,+,-,-,-,-,-,-,-,-,-,-,-,DUF3135
+hypothetical protein_205,1249,Antitoxin component of a toxin-antitoxin (TA) module,-,248,1310032,+,-,-,-,-,-,-,-,-,-,-,-,PhdYeFM_antitox
+hypothetical protein_577,1255,-,-,239,1315587,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_576,1256,Glutaredoxin-like domain (DUF836),XAC3035,404,1315792,+,-,-,-,-,-,-,-,-,-,-,-,DUF836
+hypothetical protein_175,1262,Autotransporter beta-domain,-,653,1320168,+,-,-,-,-,-,-,-,-,-,-,-,Autotransporter
+hypothetical protein_174,1263,Mo-molybdopterin cofactor biosynthetic process,-,758,1320977,+,-,-,-,-,-,-,-,-,-,-,-,-
+Molybdenum cofactor guanylyltransferase,1264,Transfers a GMP moiety from GTP to Mo-molybdopterin (Mo- MPT) cofactor (Moco or molybdenum cofactor) to form Mo- molybdopterin guanine dinucleotide (Mo-MGD) cofactor,mobA,632,1321910,+,-,2.7.7.77,ko:K03752,"ko00790,ko01100,map00790,map01100",-,R11581,-,"ko00000,ko00001,ko01000",-,-,-,NTP_transf_3
+hypothetical protein_173,1266,Domain of unknown function (DUF4010),-,1250,1323962,+,-,-,-,-,-,-,-,-,-,-,-,"DUF4010,MgtC"
+hypothetical protein_172,1267,Putative transmembrane protein (PGPGW),-,425,1325377,+,-,-,-,-,-,-,-,-,-,-,-,PGPGW
+hypothetical protein_617,1284,Protein of unknown function (DUF433),-,227,1339660,-,-,-,-,-,-,-,-,-,-,-,-,DUF433
+hypothetical protein_428,1286,Transposase IS200 like,-,674,1341387,-,-,-,ko:K07491,-,-,-,-,ko00000,-,-,-,Y1_Tnp
+tRNA(fMet)-specific endonuclease VapC,1312,PIN domain,-,386,1376498,-,-,-,-,-,-,-,-,-,-,-,-,PIN
+hypothetical protein_492,1313,toxin-antitoxin pair type II binding,-,230,1376881,-,-,-,-,-,-,-,-,-,-,-,-,"MazE_antitoxin,PrlF_antitoxin"
+hypothetical protein_136,1318,(GGDEF) domain,-,1154,1381434,+,-,-,-,-,-,-,-,-,-,-,-,GGDEF
+hypothetical protein_490,1319,Phasin protein,-,353,1382861,+,-,-,-,-,-,-,-,-,-,-,-,Phasin_2
+Heme oxygenase HutZ,1320,Pfam:Pyridox_oxidase,-,515,1383336,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_489,1321,Sigma 54 modulation protein / S30EA ribosomal protein,-,317,1384102,-,-,-,-,-,-,-,-,-,-,-,-,Ribosomal_S30AE
+Cyclic di-GMP phosphodiesterase CdgJ_488,1322,EAL domain,-,1223,1384616,+,-,-,-,-,-,-,-,-,-,-,-,"EAL,HDOD"
+hypothetical protein_397,1359,Transposase (IS116 IS110 IS902 family),-,251,1408795,-,-,-,-,-,-,-,-,-,-,-,-,"DEDD_Tnp_IS110,Transposase_20"
+Pyridoxine/pyridoxamine 5'-phosphate oxidase,1362,Catalyzes the oxidation of either pyridoxine 5'- phosphate (PNP) or pyridoxamine 5'-phosphate (PMP) into pyridoxal 5'-phosphate (PLP),pdxH,587,1411292,+,-,1.4.3.5,ko:K00275,"ko00750,ko01100,ko01120,map00750,map01100,map01120",M00124,"R00277,R00278,R01710,R01711","RC00048,RC00116","ko00000,ko00001,ko00002,ko01000",-,-,-,"PNP_phzG_C,Putative_PNPOx"
+hypothetical protein_629,1363,Protein tyrosine kinase,-,1082,1412041,-,-,-,-,-,-,-,-,-,-,-,-,Pkinase
+hypothetical protein_630,1364,protein serine/threonine phosphatase activity,-,1364,1413120,-,-,-,-,-,-,-,-,-,-,-,-,"PP2C_2,SpoIIE"
+Protein-glutamate methylesterase/protein-glutamine glutaminase,1370,Belongs to the Glu Leu Phe Val dehydrogenases family,-,1649,1418171,+,-,1.4.1.3,ko:K00261,"ko00220,ko00250,ko00471,ko00910,ko01100,ko01200,ko04217,ko04964,map00220,map00250,map00471,map00910,map01100,map01200,map04217,map04964",M00740,"R00243,R00248","RC00006,RC02799","ko00000,ko00001,ko00002,ko01000,ko04147",-,-,-,"ELFV_dehydrog,ELFV_dehydrog_N"
+Signal transduction histidine-protein kinase BarA_304,1371,Histidine kinase,barA_3,2147,1419817,-,-,2.7.13.1,ko:K05962,-,-,-,-,"ko00000,ko01000",-,-,-,"GAF_2,HATPase_c,HisKA,Hpt,PAS_3,PAS_4,PAS_7,PAS_9,Response_reg"
+hypothetical protein_305,1372,Haem-NO-binding,-,551,1421969,-,-,-,-,-,-,-,-,-,-,-,-,HNOB
+hypothetical protein_306,1373,nitric oxide dioxygenase activity,VPA1107,422,1422625,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sodium-dependent dicarboxylate transporter SdcS,1374,PFAM Sodium sulphate symporter,-,1391,1423858,-,-,-,ko:K14445,-,-,-,-,"ko00000,ko02000",2.A.47.1,-,-,Na_sulph_symp
+Elongation factor G-like protein,1375,small GTP-binding protein,-,2045,1425627,+,-,-,ko:K02355,-,-,-,-,"ko00000,ko03012,ko03029",-,-,-,"EFG_C,EFG_II,EFG_IV,GTP_EFTU"
+hypothetical protein_361,1376,Peptidase family M28,-,947,1427725,+,-,-,-,-,-,-,-,-,-,-,-,Peptidase_M28
+hypothetical protein_211,1377,auxin-activated signaling pathway,-,209,1428876,+,-,1.1.2.3,"ko:K00101,ko:K07088","ko00620,ko01100,map00620,map01100",-,R00196,RC00044,"ko00000,ko00001,ko01000",-,-,-,Mem_trans
+hypothetical protein_212,1378,Membrane transport protein,-,770,1429057,+,-,-,ko:K07088,-,-,-,-,ko00000,-,-,-,Mem_trans
+hypothetical protein_76,1379,Protein of unknown function (DUF1499),-,815,1429950,+,-,-,-,-,-,-,-,-,-,-,-,DUF1499
+hypothetical protein_75,1380,Haem-degrading,-,539,1430902,+,-,-,-,-,-,-,-,-,-,-,-,Haem_degrading
+hypothetical protein_8,1383,-,-,332,1432256,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_64,1385,Belongs to the UPF0337 (CsbD) family,-,224,1434625,-,-,-,-,-,-,-,-,-,-,-,-,CsbD
+hypothetical protein_393,1386,palmitoyl-(protein) hydrolase activity,bioH,677,1435508,-,-,"2.1.1.197,3.1.1.85,6.3.3.3","ko:K01935,ko:K02169,ko:K02170","ko00780,ko01100,map00780,map01100","M00123,M00572,M00573,M00577","R03182,R09543,R09725","RC00003,RC00460,RC00461,RC00868","ko00000,ko00001,ko00002,ko01000",-,-,-,"Abhydrolase_6,LIP"
+8-amino-7-oxononanoate synthase 2,1387,"Catalyzes the decarboxylative condensation of pimeloyl- acyl-carrier protein and L-alanine to produce 8-amino-7- oxononanoate (AON), acyl-carrier protein , and carbon dioxide",bioF,1169,1436169,-,-,2.3.1.47,ko:K00652,"ko00780,ko01100,map00780,map01100","M00123,M00573,M00577","R03210,R10124","RC00004,RC00039,RC02725","ko00000,ko00001,ko00002,ko01000,ko01007",-,-,-,Aminotran_1_2
+Aminodeoxychorismate lyase,1390,"PFAM Aminotransferase, class IV",-,842,1438874,-,-,4.1.3.38,ko:K02619,"ko00790,map00790",-,R05553,"RC01843,RC02148","ko00000,ko00001,ko01000",-,-,-,Aminotran_4
+Isochorismate synthase MenF,1391,Anthranilate synthase component I,-,1406,1439709,-,-,"2.6.1.85,4.1.3.27","ko:K01657,ko:K01665","ko00400,ko00405,ko00790,ko01100,ko01110,ko01130,ko01230,ko02024,ko02025,map00400,map00405,map00790,map01100,map01110,map01130,map01230,map02024,map02025",M00023,"R00985,R00986,R01716","RC00010,RC01418,RC02148,RC02414","ko00000,ko00001,ko00002,ko01000",-,-,-,"Anth_synt_I_N,Chorismate_bind"
+Peroxiredoxin,1397,"Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides",-,659,1444941,-,-,1.11.1.15,ko:K03386,"ko04214,map04214",-,-,-,"ko00000,ko00001,ko01000,ko04147",-,-,-,"1-cysPrx_C,AhpC-TSA"
+hypothetical protein_394,1398,"Type II secretory pathway, component",-,821,1445868,-,-,-,-,-,-,-,-,-,-,-,-,"Secretin,Secretin_N"
+hypothetical protein_395,1399,protein acetylation,-,482,1446641,-,-,-,-,-,-,-,-,-,-,-,-,-
+putative amino acid permease YhdG,1400,Amino Acid,-,1442,1447517,+,-,-,ko:K03294,-,-,-,-,ko00000,2.A.3.2,-,-,AA_permease_2
+hypothetical protein_631,1407,-,-,203,1457427,-,-,-,-,-,-,-,-,-,-,-,-,-
+Putative transport protein YhhT,1412,Pfam:UPF0118,-,1109,1462453,+,-,-,-,-,-,-,-,-,-,-,-,AI-2E_transport
+hypothetical protein_396,1416,PRC-barrel domain,-,578,1465885,+,-,-,-,-,-,-,-,-,-,-,-,PRC
+Na(+)/H(+) antiporter NhaP,1417,PFAM sodium hydrogen exchanger,-,1235,1466942,+,-,-,ko:K03316,-,-,-,-,ko00000,2.A.36,-,-,Na_H_Exchanger
+hypothetical protein_584,1425,-,-,194,1474284,+,-,-,-,-,-,-,-,-,-,-,-,-
+(S)-ureidoglycine--glyoxylate transaminase,1430,2-aminoethylphosphonate-pyruvate transaminase activity,spt,311,1477476,+,-,"2.6.1.44,2.6.1.45,2.6.1.51",ko:K00830,"ko00250,ko00260,ko00630,ko00680,ko01100,ko01110,ko01120,ko01130,ko01200,ko04146,map00250,map00260,map00630,map00680,map01100,map01110,map01120,map01130,map01200,map04146","M00346,M00532","R00369,R00372,R00585,R00588","RC00006,RC00008,RC00018","ko00000,ko00001,ko00002,ko01000,ko01007",-,-,-,Aminotran_5
+lipid kinase YegS,1431,PFAM Diacylglycerol kinase catalytic,-,920,1478294,+,-,-,-,-,-,-,-,-,-,-,-,DAGK_cat
+hypothetical protein_585,1432,-,-,539,1479503,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_181,1434,-,-,746,1480911,+,-,-,-,-,-,-,-,-,-,-,-,-
+putative alcohol dehydrogenase AdhA,1435,alcohol dehydrogenase,adhA,371,1481801,-,-,1.1.1.1,ko:K13953,"ko00010,ko00071,ko00350,ko00625,ko00626,ko00830,ko00980,ko00982,ko01100,ko01110,ko01120,ko01130,ko01220,map00010,map00071,map00350,map00625,map00626,map00830,map00980,map00982,map01100,map01110,map01120,map01130,map01220",-,"R00623,R00754,R02124,R04880,R05233,R05234,R06917,R06927,R07105,R08281,R08306,R08310","RC00050,RC00087,RC00088,RC00099,RC00116,RC00649,RC01734,RC02273","ko00000,ko00001,ko01000",-,-,-,"ADH_N,ADH_zinc_N"
+hypothetical protein_182,1436,Phasin protein,-,395,1482374,-,-,-,-,-,-,-,-,-,-,-,-,Phasin_2
+Ktr system potassium uptake protein A,1439,-,-,125,1484915,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_183,1441,hemerythrin HHE cation binding domain,-,551,1485375,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_184,1443,COG2199 FOG GGDEF domain,-,1124,1487199,-,-,2.7.7.65,ko:K21019,"ko02025,map02025",-,-,-,"ko00000,ko00001,ko01000",-,-,-,GGDEF
+hypothetical protein_185,1444,-,-,605,1488573,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cytochrome c biogenesis ATP-binding export protein CcmA,1447,"once thought to export heme, this seems not to be the case, but its exact role is uncertain. Responsible for energy coupling to the transport system",ccmA,617,1492202,+,-,3.6.3.41,ko:K02193,"ko02010,map02010",M00259,-,-,"ko00000,ko00001,ko00002,ko01000,ko02000",3.A.1.107,-,-,ABC_tran
+hypothetical protein_152,1449,TIGRFAM Cytochrome c-type biogenesis protein CcmI,-,1223,1493504,-,-,-,ko:K02200,-,-,-,-,ko00000,-,-,-,"TPR_16,TPR_2"
+Cytochrome c-type biogenesis protein CcmH,1450,subunit of a heme lyase,-,503,1494724,-,-,-,ko:K02200,-,-,-,-,ko00000,-,-,-,CcmH
+hypothetical protein_153,1456,COG1651 Protein-disulfide isomerase,-,974,1499131,-,-,-,-,-,-,-,-,-,-,-,-,Thioredoxin_4
+hypothetical protein_154,1458,Endonuclease Exonuclease phosphatase,-,1688,1501382,-,-,-,ko:K07004,-,-,-,-,ko00000,-,-,-,"Exo_endo_phos,LTD"
+GTP pyrophosphokinase,1459,In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance,-,2213,1503183,-,-,2.7.6.5,ko:K00951,"ko00230,map00230",-,R00429,"RC00002,RC00078","ko00000,ko00001,ko01000",-,-,-,"ACT_4,HD_4,RelA_SpoT,TGS"
+hypothetical protein_18,1460,Methyltransferase domain,-,539,1505638,+,-,-,-,-,-,-,-,-,-,-,-,"Methyltransf_23,Methyltransf_25"
+Foldase protein PrsA_213,1463,peptidylprolyl isomerase,-,281,1507869,+,-,5.2.1.8,ko:K03769,-,-,-,-,"ko00000,ko01000,ko03110",-,-,-,Rotamase_3
+hypothetical protein_105,1467,Acetyltransferase (GNAT) domain,-,632,1510775,-,-,-,-,-,-,-,-,-,-,-,-,Acetyltransf_10
+hypothetical protein_106,1469,"Peptidoglycan-binding protein, CsiV",-,674,1515146,+,-,-,-,-,-,-,-,-,-,-,-,CsiV
+Beta-hexosaminidase,1473,"Plays a role in peptidoglycan recycling by cleaving the terminal beta-1,4-linked N-acetylglucosamine (GlcNAc) from peptide-linked peptidoglycan fragments, giving rise to free GlcNAc, anhydro-N-acetylmuramic acid and anhydro-N-acetylmuramic acid-linked peptides",nagZ,1031,1518165,-,-,3.2.1.52,ko:K01207,"ko00520,ko00531,ko01100,ko01501,map00520,map00531,map01100,map01501",M00628,"R00022,R05963,R07809,R07810,R10831",RC00049,"ko00000,ko00001,ko00002,ko01000",-,-,-,Glyco_hydro_3
+hypothetical protein_107,1474,-,-,758,1519490,-,-,-,-,-,-,-,-,-,-,-,-,-
+Kynurenine formamidase,1477,"Catalyzes the hydrolysis of N-formyl-L-kynurenine to L- kynurenine, the second step in the kynurenine pathway of tryptophan degradation",kynB,662,1521657,+,"GO:0003674,GO:0003824,GO:0004061,GO:0006082,GO:0006520,GO:0006568,GO:0006569,GO:0006576,GO:0006586,GO:0006725,GO:0006766,GO:0006767,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009063,GO:0009072,GO:0009074,GO:0009308,GO:0009310,GO:0009987,GO:0016054,GO:0016787,GO:0016810,GO:0016811,GO:0019439,GO:0019441,GO:0019752,GO:0032787,GO:0034641,GO:0042180,GO:0042402,GO:0042430,GO:0042436,GO:0042537,GO:0043420,GO:0043436,GO:0044106,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044282,GO:0046218,GO:0046395,GO:0046483,GO:0046700,GO:0070189,GO:0071704,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575,GO:1901605,GO:1901606",3.5.1.9,ko:K07130,"ko00380,ko00630,ko01100,map00380,map00630,map01100",M00038,"R00988,R01959,R04911","RC00263,RC00323","ko00000,ko00001,ko00002,ko01000",-,-,-,Cyclase
+hypothetical protein_427,1479,-,-,101,1523321,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_263,1491,Lactoylglutathione lyase and related lyases,-,392,1532480,-,-,-,-,-,-,-,-,-,-,-,-,Glyoxalase
+"Ubiquinone biosynthesis O-methyltransferase, mitochondrial",1495,Putative methyltransferase,-,1091,1535481,+,-,-,-,-,-,-,-,-,-,-,-,Methyltransf_31
+hypothetical protein_262,1496,Esterase of the alpha-beta hydrolase superfamily,-,269,1536641,-,-,-,ko:K07001,-,-,-,-,ko00000,-,-,-,Patatin
+hypothetical protein_82,1497,-,-,860,1538111,+,-,-,-,-,-,-,-,-,-,-,-,-
+Lipid A export ATP-binding/permease protein MsbA,1498,ABC transporter transmembrane region,-,1811,1539061,-,-,-,ko:K06147,-,-,-,-,"ko00000,ko02000","3.A.1.106,3.A.1.109,3.A.1.21",-,-,"ABC_membrane,ABC_tran"
+2-dehydropantoate 2-reductase,1500,Catalyzes the NADPH-dependent reduction of ketopantoate into pantoic acid,-,938,1541815,+,-,1.1.1.169,ko:K00077,"ko00770,ko01100,ko01110,map00770,map01100,map01110",M00119,R02472,RC00726,"ko00000,ko00001,ko00002,ko01000",-,-,-,"ApbA,ApbA_C"
+tRNA(Met) cytidine acetyltransferase TmcA,1501,"Catalyzes the formation of N(4)-acetylcytidine (ac(4)C) at the wobble position of tRNA(Met), by using acetyl-CoA as an acetyl donor and ATP (or GTP)",tmcA,2201,1542758,+,-,2.3.1.193,ko:K06957,-,-,-,-,"ko00000,ko01000,ko03016",-,-,-,"DUF1726,GNAT_acetyltr_2,Helicase_RecD,tRNA_bind_3"
+putative signaling protein,1503,cyclic-guanylate-specific phosphodiesterase activity,-,314,1545773,-,-,-,-,-,-,-,-,-,-,-,-,"EAL,GAF_2,GGDEF,PAS,PAS_3,PAS_9,Response_reg"
+Histidine N-alpha-methyltransferase,1504,Methyltransferase,-,1058,1546171,-,-,2.1.1.44,ko:K18911,"ko00340,map00340",-,R01169,"RC00003,RC02308","ko00000,ko00001,ko01000",-,-,-,Methyltransf_33
+Gamma-glutamyl-hercynylcysteine sulfoxide hydrolase,1505,Glutamine amidotransferase,egtC,776,1547269,+,-,-,-,-,-,-,-,-,-,-,-,GATase_4
+Hercynine oxygenase,1506,methyltransferase,egtB,1166,1548050,+,-,-,-,-,-,-,-,-,-,-,-,"DinB_2,FGE-sulfatase"
+Na(+)/H(+) antiporter NhaB,1509,Na( ) H( ) antiporter that extrudes sodium in exchange for external protons,nhaB,1592,1553122,+,"GO:0003674,GO:0005215,GO:0005451,GO:0005575,GO:0005623,GO:0005886,GO:0006810,GO:0006811,GO:0006812,GO:0006814,GO:0006873,GO:0006885,GO:0008150,GO:0008324,GO:0009987,GO:0010035,GO:0010038,GO:0010226,GO:0015075,GO:0015077,GO:0015078,GO:0015081,GO:0015291,GO:0015297,GO:0015298,GO:0015299,GO:0015318,GO:0015385,GO:0015491,GO:0015672,GO:0016020,GO:0019725,GO:0022804,GO:0022857,GO:0022890,GO:0030001,GO:0030003,GO:0030004,GO:0030641,GO:0034220,GO:0035725,GO:0042221,GO:0042592,GO:0044464,GO:0045851,GO:0046873,GO:0048878,GO:0050801,GO:0050896,GO:0051179,GO:0051234,GO:0051452,GO:0051453,GO:0055067,GO:0055080,GO:0055082,GO:0055085,GO:0065007,GO:0065008,GO:0071944,GO:0098655,GO:0098660,GO:0098662,GO:0098771,GO:0099516,GO:1902600",-,ko:K03314,-,-,-,-,"ko00000,ko02000",2.A.34.1,-,"iECP_1309.ECP_1229,iLF82_1304.LF82_1485,iNRG857_1313.NRG857_06055,iUTI89_1310.UTI89_C1372",NhaB
+hypothetical protein_570,1511,Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily,-,380,1555671,-,-,-,-,-,-,-,-,-,-,-,-,Glyoxalase
+Imidazolonepropionase,1512,Amidohydrolase family,hutI,1250,1556139,-,-,-,-,-,-,-,-,-,-,-,-,Amidohydro_3
+Urocanate hydratase,1513,Catalyzes the conversion of urocanate to 4-imidazolone- 5-propionate,hutU,1706,1557405,-,-,-,-,-,-,-,-,-,-,-,-,"Urocanase,Urocanase_C,Urocanase_N"
+8-oxoguanine deaminase,1514,Catalyzes the deimination of N-formimino-L-glutamate to ammonia and N-formyl-L-glutamate,hutF,1364,1559291,+,-,3.5.3.13,ko:K05603,"ko00340,map00340",-,R02286,RC00682,"ko00000,ko00001,ko01000",-,-,-,Amidohydro_1
+hypothetical protein_571,1520,Belongs to the CDP-alcohol phosphatidyltransferase class-I family,-,605,1563756,+,-,-,-,-,-,-,-,-,-,-,-,CDP-OH_P_transf
+hypothetical protein_572,1521,Lysylphosphatidylglycerol synthase TM region,-,1004,1564467,-,-,-,-,-,-,-,-,-,-,-,-,LPG_synthase_TM
+hypothetical protein_573,1522,2OG-Fe(II) oxygenase,-,740,1565522,+,-,-,-,-,-,-,-,-,-,-,-,-
+CTP:phosphoglutamine cytidylyltransferase,1523,MobA-like NTP transferase domain,-,746,1566264,+,-,-,-,-,-,-,-,-,-,-,-,NTP_transf_3
+2-methylisocitrate lyase,1524,Phosphoenolpyruvate phosphomutase,-,1652,1567000,+,-,5.4.2.9,ko:K01841,"ko00440,ko01100,ko01120,ko01130,map00440,map01100,map01120,map01130",-,R00661,RC02792,"ko00000,ko00001,ko01000",-,-,-,"NTP_transf_3,PEP_mutase"
+hypothetical protein_574,1525,PFAM thiamine pyrophosphate protein domain protein TPP-binding,-,1148,1568664,+,-,4.1.1.82,ko:K09459,"ko00440,ko01100,ko01120,ko01130,map00440,map01100,map01120,map01130",-,R04053,RC00506,"ko00000,ko00001,ko01000",-,-,-,"TPP_enzyme_C,TPP_enzyme_N"
+2-aminoethylphosphonate--pyruvate transaminase,1526,Belongs to the class-V pyridoxal-phosphate-dependent aminotransferase family. PhnW subfamily,phnW,1037,1569826,+,-,2.6.1.37,ko:K03430,"ko00440,ko01100,ko01120,map00440,map01100,map01120",-,R04152,"RC00008,RC00062","ko00000,ko00001,ko01000,ko01007",-,-,-,Aminotran_5
+Hopanoid C-3 methylase,1528,B12 binding domain,-,1520,1571662,+,-,-,-,-,-,-,-,-,-,-,-,"B12-binding,Radical_SAM"
+hypothetical protein_575,1529,-,-,632,1573295,-,-,-,-,-,-,-,-,-,-,-,-,-
+Methanethiol oxidase,1530,56kDa selenium binding protein (SBP56),-,1397,1573974,-,-,-,-,-,-,-,-,-,-,-,-,SBP56
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1531,2-oxoacid dehydrogenases acyltransferase (catalytic domain),-,1148,1575569,-,-,2.3.1.12,ko:K00627,"ko00010,ko00020,ko00620,ko01100,ko01110,ko01120,ko01130,ko01200,map00010,map00020,map00620,map01100,map01110,map01120,map01130,map01200",M00307,"R00209,R02569","RC00004,RC02742,RC02857","br01601,ko00000,ko00001,ko00002,ko01000",-,-,-,"2-oxoacid_dh,Biotin_lipoyl,E3_binding"
+Pyruvate dehydrogenase E1 component subunit beta,1532,"Pyruvate 2-oxoglutarate dehydrogenase complex, dehydrogenase",-,980,1576714,-,-,1.2.4.1,"ko:K00162,ko:K21417","ko00010,ko00020,ko00620,ko01100,ko01110,ko01120,ko01130,ko01200,ko04066,ko04922,ko05230,map00010,map00020,map00620,map01100,map01110,map01120,map01130,map01200,map04066,map04922,map05230",M00307,"R00014,R00209,R01699,R03270","RC00004,RC00027,RC00627,RC02742,RC02744,RC02882","br01601,ko00000,ko00001,ko00002,ko01000",-,-,-,"Transket_pyr,Transketolase_C"
+Pyruvate dehydrogenase E1 component subunit alpha,1533,1-deoxy-D-xylulose-5-phosphate synthase,-,1181,1577787,-,-,1.2.4.1,ko:K00161,"ko00010,ko00020,ko00620,ko01100,ko01110,ko01120,ko01130,ko01200,ko04066,ko04922,ko05230,map00010,map00020,map00620,map01100,map01110,map01120,map01130,map01200,map04066,map04922,map05230",M00307,"R00014,R00209,R01699,R03270","RC00004,RC00027,RC00627,RC02742,RC02744,RC02882","br01601,ko00000,ko00001,ko00002,ko01000",-,-,-,E1_dh
+Protease HtpX _455,1534,Belongs to the peptidase M48B family,-,860,1579146,+,-,-,ko:K03799,-,M00743,-,-,"ko00000,ko00002,ko01000,ko01002",-,-,-,Peptidase_M48
+hypothetical protein_454,1537,ribosome binding,MA20_18275,326,1584384,-,-,-,-,-,-,-,-,-,-,-,-,DUF883
+3-oxoacyl-[acyl-carrier-protein] reductase FabG,1538,Short-chain dehydrogenase reductase sdr,fabG2,287,1584898,-,-,1.1.1.100,ko:K00059,"ko00061,ko00333,ko00780,ko01040,ko01100,ko01130,ko01212,map00061,map00333,map00780,map01040,map01100,map01130,map01212","M00083,M00572","R04533,R04534,R04536,R04543,R04566,R04953,R04964,R07759,R07763,R10116,R10120,R11671","RC00029,RC00117","ko00000,ko00001,ko00002,ko01000,ko01004",-,-,-,adh_short_C2
+hypothetical protein,1540,poly(R)-hydroxyalkanoic acid synthase,-,173,1585693,-,-,-,ko:K03821,"ko00650,map00650",-,R04254,RC00004,"ko00000,ko00001,ko01000",-,-,-,"PHBC_N,PhaC_N"
+Sensor histidine kinase RcsC,1543,catalyzes the demethylation of specific methylglutamate residues introduced into the chemoreceptors (methyl-accepting chemotaxis proteins) by CheR,-,4970,1588627,+,-,-,-,-,-,-,-,-,-,-,-,"CheB_methylest,CheR,CheR_N,HATPase_c,HisKA,PAS_10,PAS_4,Response_reg"
+hypothetical protein_632,1550,Virulence factor BrkB,-,977,1597107,-,-,-,ko:K07058,-,-,-,-,ko00000,-,-,-,Virul_fac_BrkB
+hypothetical protein_121,1555,-,-,215,1601187,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_120,1556,-,-,266,1601590,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_119,1557,-,-,497,1601947,-,-,-,-,-,-,-,-,-,-,-,-,-
+Translocation and assembly module subunit TamA,1559,Surface antigen variable number,-,1913,1605113,+,-,-,ko:K07278,-,-,-,-,"ko00000,ko02000",1.B.33.2.4,-,-,"Bac_surface_Ag,POTRA,POTRA_TamA_1"
+Translocation and assembly module subunit TamB,1560,"TamB, inner membrane protein subunit of TAM complex",-,3965,1607029,+,-,-,ko:K09800,-,-,-,-,"ko00000,ko02000",-,-,-,TamB
+Proton/glutamate-aspartate symporter,1562,Belongs to the dicarboxylate amino acid cation symporter (DAACS) (TC 2.A.23) family,-,1265,1611622,-,-,-,-,-,-,-,-,-,-,-,-,SDF
+hypothetical protein_452,1563,AMP binding,-,1331,1613115,+,-,-,ko:K06149,-,-,-,-,ko00000,-,-,-,Usp
+hypothetical protein_118,1571,Diguanylate cyclase,-,2459,1620981,+,-,-,-,-,-,-,-,-,-,-,-,"EAL,GGDEF,MASE3,PAS,PAS_9"
+hypothetical protein_117,1572,C-C_Bond_Lyase of the TIM-Barrel fold,-,938,1623738,-,-,-,-,-,-,-,-,-,-,-,-,C-C_Bond_Lyase
+Cysteine protease StiP,1573,PELOTA RNA binding domain,-,1112,1624700,-,-,-,-,-,-,-,-,-,-,-,-,"PELOTA_1,PRTase_1"
+hypothetical protein_116,1574,phosphatase activity,-,728,1625809,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_115,1575,TRSP domain C terminus to PRTase_2,-,1136,1626534,-,-,-,-,-,-,-,-,-,-,-,-,"PRTase_2,TRSP"
+General stress protein 16U,1576,Stress protein,-,575,1627807,-,-,-,ko:K05795,-,-,-,-,ko00000,-,-,-,TerD
+hypothetical protein_377,1578,PFAM Tellurite resistance,-,452,1629686,-,-,-,ko:K05793,-,-,-,-,ko00000,-,-,-,TerB
+hypothetical protein_378,1579,stress protein,-,1193,1630169,-,-,-,ko:K05792,-,-,-,-,ko00000,-,-,-,TerD
+Stress response protein SCP2,1580,stress protein,-,584,1631399,-,-,-,ko:K05791,-,-,-,-,ko00000,-,-,-,TerD
+Guanine deaminase,1584,"CMP dCMP deaminase, zinc-binding",-,470,1635507,-,-,3.5.4.3,ko:K01487,"ko00230,ko01100,map00230,map01100",-,R01676,RC00204,"ko00000,ko00001,ko01000",-,-,-,dCMP_cyt_deam_1
+Adenosyl-chloride synthase,1590,S-adenosyl-l-methionine hydroxide adenosyltransferase,-,731,1645156,-,-,-,ko:K22205,-,-,-,-,"ko00000,ko01000",-,-,-,SAM_adeno_trans
+Protein translocase subunit SecE,1631,Essential subunit of the Sec protein translocation channel SecYEG. Clamps together the 2 halves of SecY. May contact the channel plug during translocation,secE,377,1676889,-,-,-,ko:K03073,"ko02024,ko03060,ko03070,map02024,map03060,map03070",M00335,-,-,"ko00000,ko00001,ko00002,ko02044","3.A.5.1,3.A.5.2",-,-,SecE
+hypothetical protein_357,1639,Acetyltransferase (GNAT) domain,-,1202,1681756,+,-,-,-,-,-,-,-,-,-,-,-,Acetyltransf_6
+Asparagine synthetase [glutamine-hydrolyzing] 1,1640,Asparagine synthase,-,1841,1682953,-,-,6.3.5.4,ko:K01953,"ko00250,ko01100,ko01110,map00250,map01100,map01110",-,R00578,RC00010,"ko00000,ko00001,ko01000,ko01002",-,-,-,"Asn_synthase,GATase_7"
+"2-phytyl-1,4-beta-naphthoquinone methyltransferase, chloroplastic",1643,3-demethylubiquinone-9 3-O-methyltransferase activity,-,731,1687138,-,-,-,-,-,-,-,-,-,-,-,-,"Methyltransf_11,Methyltransf_25,Methyltransf_31"
+hypothetical protein_355,1678,PFAM Polysaccharide deacetylase,-,959,1726861,-,-,-,-,-,-,-,-,-,-,-,-,Polysacc_deac_1
+hypothetical protein_354,1679,Catalyzes the activation of phenylacetic acid (PA) to phenylacetyl-CoA (PA-CoA),-,1385,1727828,-,-,6.2.1.30,ko:K01912,"ko00360,ko01120,ko05111,map00360,map01120,map05111",-,R02539,"RC00004,RC00014","ko00000,ko00001,ko01000",-,-,-,AMP-binding
+D-inositol-3-phosphate glycosyltransferase_353,1680,Glycosyl transferase,-,1169,1729210,-,-,-,-,-,-,-,-,-,-,-,-,"Glyco_trans_1_4,Glyco_transf_4,Glycos_transf_1"
+D-inositol-3-phosphate glycosyltransferase_352,1683,"PFAM Glycosyl transferase, group 1",-,1175,1733592,-,-,-,-,-,-,-,-,-,-,-,-,"Glyco_trans_1_4,Glyco_transf_4,Glycos_transf_1"
+hypothetical protein_351,1684,eight transmembrane protein EpsH,-,1622,1734808,-,-,-,-,-,-,-,-,-,-,-,-,"DUF3485,Exosortase_EpsH"
+hypothetical protein_350,1685,"Sugar transferase, PEP-CTERM EpsH1 system associated",-,1334,1736427,-,-,-,-,-,-,-,-,-,-,-,-,"Glyco_trans_1_4,Glyco_trans_4_4"
+hypothetical protein_470,1690,AAA domain,-,899,1742494,-,-,-,-,-,-,-,-,-,-,-,-,"AAA_31,CbiA"
+hypothetical protein_469,1691,Polysaccharide chain length determinant protein,-,1556,1743415,-,-,-,-,-,-,-,-,-,-,-,-,"GNVR,Wzz"
+Beta-barrel assembly-enhancing protease_126,1693,PEP-CTERM system TPR-repeat lipoprotein,-,2807,1745964,-,-,-,-,-,-,-,-,-,-,-,-,"TPR_16,TPR_19,TPR_4,TPR_8"
+Adaptive-response sensory-kinase SasA_339,1695,Histidine kinase,-,2108,1750190,-,-,-,-,-,-,-,-,-,-,-,-,"GAF_2,HATPase_c"
+hypothetical protein_554,1699,Acetyltransferase (GNAT) domain,-,713,1756111,+,-,-,-,-,-,-,-,-,-,-,-,Acetyltransf_5
+hypothetical protein_555,1702,Acetyltransferase (GNAT) domain,-,800,1758376,-,-,-,-,-,-,-,-,-,-,-,-,Acetyltransf_5
+hypothetical protein_222,1706,UBA THIF-type NAD FAD binding,-,2003,1762002,+,-,-,-,-,-,-,-,-,-,-,-,"Nitroreductase,ThiF"
+hypothetical protein_556,1710,-,-,233,1768053,+,-,-,-,-,-,-,-,-,-,-,-,-
+FKBP-type peptidyl-prolyl cis-trans isomerase SlyD,1715,Peptidyl-prolyl cis-trans,-,572,1772026,+,-,5.2.1.8,ko:K03775,-,-,-,-,"ko00000,ko01000,ko03110",-,-,-,FKBP_C
+hypothetical protein_164,1716,cytochrome,-,347,1772728,-,-,-,-,-,-,-,-,-,-,-,-,"Cytochrom_C,Cytochrome_CBB3"
+DnaA regulatory inactivator Hda,1721,Belongs to the DnaA family. HdA subfamily,-,734,1775068,-,-,-,ko:K10763,-,-,-,-,"ko00000,ko03032",-,-,-,Bac_DnaA
+hypothetical protein_557,1722,Uncharacterized protein conserved in bacteria (DUF2066),-,1136,1776006,-,-,-,ko:K09938,-,-,-,-,ko00000,-,-,-,DUF2066
+hypothetical protein_558,1729,Peptidase family M28,-,3326,1782295,+,-,-,-,-,-,-,-,-,-,-,-,"PDZ_2,Peptidase_M1,Peptidase_M28"
+Tol-Pal system protein TolB,1730,beta Propeller,-,1076,1785637,+,-,-,-,-,-,-,-,-,-,-,-,PD40
+hypothetical protein_165,1736,oligopeptide transporter,-,1967,1790130,+,-,-,-,-,-,-,-,-,-,-,-,OPT
+Flavohemoprotein,1738,"Is involved in NO detoxification in an aerobic process, termed nitric oxide dioxygenase (NOD) reaction that utilizes O(2) and NAD(P)H to convert NO to nitrate, which protects the bacterium from various noxious nitrogen compounds. Therefore, plays a central role in the inducible response to nitrosative stress",hmp,1172,1792549,-,-,1.14.12.17,ko:K05916,"ko05132,map05132",-,-,-,"ko00000,ko00001,ko01000",-,-,-,"FAD_binding_6,Fer2,Globin,NAD_binding_1"
+Homoserine O-succinyltransferase,1744,"Transfers a succinyl group from succinyl-CoA to L- homoserine, forming succinyl-L-homoserine",metXS,1163,1799592,-,-,2.3.1.31,ko:K00641,"ko00270,ko01100,ko01130,map00270,map01100,map01130",-,R01776,"RC00004,RC00041","ko00000,ko00001,ko01000",-,-,-,Abhydrolase_1
+hypothetical protein_276,1746,-,-,1046,1801396,+,-,-,-,-,-,-,-,-,-,-,-,DUF2157
+Cytochrome c551 peroxidase,1748,cytochrome c peroxidase,-,998,1803330,-,-,1.11.1.5,ko:K00428,-,-,-,-,"ko00000,ko01000",-,-,-,"CCP_MauG,Cytochrom_C"
+FK506-binding protein,1749,FKBP-type peptidyl-prolyl cis-trans,-,356,1804665,+,-,-,-,-,-,-,-,-,-,-,-,FKBP_C
+Anhydro-N-acetylmuramic acid kinase,1762,"Catalyzes the specific phosphorylation of 1,6-anhydro-N- acetylmuramic acid (anhMurNAc) with the simultaneous cleavage of the 1,6-anhydro ring, generating MurNAc-6-P. Is required for the utilization of anhMurNAc either imported from the medium or derived from its own cell wall murein, and thus plays a role in cell wall recycling",anmK,1115,1818623,-,-,2.7.1.170,ko:K09001,-,-,-,-,"ko00000,ko01000",-,-,-,AnmK
+hypothetical protein_323,1763,PFAM peptidase,-,1556,1819735,-,-,-,-,-,-,-,-,-,-,-,-,"OapA,Peptidase_M23"
+hypothetical protein_515,1765,Belongs to the universal stress protein A family,-,146,1822335,-,-,-,-,-,-,-,-,-,-,-,-,Usp
+hypothetical protein_344,1777,-,-,383,1838596,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_345,1779,-,-,956,1839745,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_66,1780,chlorophyll binding,-,1178,1840774,-,-,-,-,-,-,-,-,-,-,-,-,Phenol_MetA_deg
+hypothetical protein_346,1781,-,-,398,1842260,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_67,1785,PFAM VacJ family lipoprotein,-,821,1845965,+,-,-,ko:K04754,-,-,-,-,ko00000,-,-,-,MlaA
+hypothetical protein_347,1788,-,-,539,1848270,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_68,1793,lipid kinase activity,-,980,1852444,-,-,-,-,-,-,-,-,-,-,-,-,Mmp37
+hypothetical protein_69,1794,Diacylglycerol kinase catalytic domain,-,1004,1853448,-,-,-,-,-,-,-,-,-,-,-,-,DAGK_cat
+Lipopolysaccharide export system permease protein LptG,1795,Permease YjgP YjgQ,-,1103,1854515,-,-,-,ko:K11720,"ko02010,map02010",M00320,-,-,"ko00000,ko00001,ko00002,ko02000",1.B.42.1,-,-,YjgP_YjgQ
+hypothetical protein_70,1796,Permease YjgP YjgQ family,-,1133,1855594,-,-,-,ko:K07091,"ko02010,map02010",M00320,-,-,"ko00000,ko00001,ko00002,ko02000",1.B.42.1,-,-,YjgP_YjgQ
+hypothetical protein_71,1797,MobA-like NTP transferase domain,-,863,1856794,-,-,-,-,-,-,-,-,-,-,-,-,NTP_transf_3
+Protein YghO,1798,acetyltransferase,yghO,1178,1857684,-,"GO:0003674,GO:0003676,GO:0003677,GO:0005488,GO:0006139,GO:0006351,GO:0006355,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009889,GO:0009987,GO:0010467,GO:0010468,GO:0010556,GO:0016070,GO:0018130,GO:0019219,GO:0019222,GO:0019438,GO:0031323,GO:0031326,GO:0032774,GO:0034641,GO:0034645,GO:0034654,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044271,GO:0046483,GO:0050789,GO:0050794,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0071704,GO:0080090,GO:0090304,GO:0097159,GO:0097659,GO:1901360,GO:1901362,GO:1901363,GO:1901576,GO:1903506,GO:2000112,GO:2001141",-,-,-,-,-,-,-,-,-,-,-
+4-hydroxyphenylalkanoate adenylyltransferase,1799,Acyltransferase,JD73_00810,1775,1859600,+,-,-,ko:K00666,-,-,-,-,"ko00000,ko01000,ko01004",-,-,-,"AMP-binding,AMP-binding_C_2,PP-binding"
+hypothetical protein_72,1800,epimerase,-,920,1861384,+,-,"1.6.5.3,1.6.99.3","ko:K00329,ko:K00356","ko00190,map00190",-,R11945,RC00061,"ko00000,ko00001,ko01000",-,-,-,"Epimerase,NAD_binding_10"
+hypothetical protein_348,1801,acyl carrier protein,AKN40_0794,251,1862358,+,-,-,-,-,-,-,-,-,-,-,-,PP-binding
+hypothetical protein_73,1803,Uncharacterized protein conserved in bacteria (DUF2147),-,593,1863884,-,-,-,-,-,-,-,-,-,-,-,-,DUF2147
+hypothetical protein_349,1805,-,-,353,1866971,+,-,-,-,-,-,-,-,-,-,-,-,-
+Cell division protein FtsN,1806,PFAM Sporulation,-,671,1867327,+,-,-,-,-,-,-,-,-,-,-,-,SPOR
+hypothetical protein_74,1807,Lysylphosphatidylglycerol synthase TM region,-,1037,1867982,-,-,-,-,-,-,-,-,-,-,-,-,LPG_synthase_TM
+Tungstate uptake system ATP-binding protein TupC,1812,pfam abc,-,602,1874150,-,-,-,-,-,-,-,-,-,-,-,-,ABC_tran
+hypothetical protein_416,1820,-,-,260,1882342,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_417,1821,PFAM Integrase,-,176,1882719,+,-,-,-,-,-,-,-,-,-,-,-,"HTH_32,LZ_Tnp_IS481,rve,rve_3"
+Recombination-associated protein RdgC,1826,May be involved in recombination,rdgC,932,1886658,+,-,-,ko:K03554,-,-,-,-,"ko00000,ko03400",-,-,-,RdgC
+hypothetical protein_62,1827,PFAM GTP-binding protein HSR1-related,-,1532,1887643,-,-,-,ko:K06946,-,-,-,-,ko00000,-,-,-,MMR_HSR1
+hypothetical protein_63,1828,50S ribosome-binding GTPase,-,1238,1889172,-,-,-,-,-,-,-,-,-,-,-,-,"DUF697,MMR_HSR1"
+hypothetical protein_65,1829,"Uncharacterized ACR, COG1430",-,500,1890602,+,-,-,ko:K09005,-,-,-,-,ko00000,-,-,-,DUF192
+hypothetical protein_343,1831,Domain of unknown function DUF21,-,1037,1891679,-,-,-,-,-,-,-,-,-,-,-,-,"CBS,DUF21"
+Aldose sugar dehydrogenase YliI,1832,PFAM Glucose Sorbosone dehydrogenase,-,1118,1892754,-,-,-,-,-,-,-,-,-,-,-,-,GSDH
+hypothetical protein_563,1836,COG0845 Membrane-fusion protein,-,1433,1896346,+,-,-,-,-,-,-,-,-,-,-,-,"Biotin_lipoyl_2,HlyD_3"
+hypothetical protein_562,1837,Outer membrane component of multidrug efflux pump,-,1466,1897801,+,-,-,-,-,-,-,-,-,-,-,-,OEP
+hypothetical protein_561,1838,abc transporter atp-binding protein,-,1676,1899303,+,-,-,ko:K02021,-,-,-,-,"ko00000,ko02000","3.A.1.106,3.A.1.110,3.A.1.112,3.A.1.113,3.A.1.117,3.A.1.21",-,-,ABC_membrane
+Antitoxin HigA-2,1845,sequence-specific DNA binding,-,221,1906884,-,-,-,ko:K07726,-,-,-,-,"ko00000,ko03000",-,-,-,"HTH_3,HTH_31"
+Dihydroneopterin aldolase,1874,"Catalyzes the conversion of 7,8-dihydroneopterin to 6- hydroxymethyl-7,8-dihydropterin",folB,362,1928979,+,-,"1.13.11.81,4.1.2.25,5.1.99.8",ko:K01633,"ko00790,ko01100,map00790,map01100","M00126,M00840","R03504,R11037,R11073","RC00721,RC00943,RC01479,RC03333,RC03334","ko00000,ko00001,ko00002,ko01000",-,-,-,FolB
+hypothetical protein_517,1875,"PFAM 7,8-Dihydro-6-hydroxymethylpterin-pyrophosphokinase, HPPK",-,491,1929338,+,-,2.7.6.3,ko:K00950,"ko00790,ko01100,map00790,map01100","M00126,M00841",R03503,"RC00002,RC00017","ko00000,ko00001,ko00002,ko01000",-,-,-,HPPK
+Undecaprenyl-diphosphatase,1878,Catalyzes the dephosphorylation of undecaprenyl diphosphate (UPP). Confers resistance to bacitracin,uppP,791,1932207,+,-,3.6.1.27,ko:K06153,"ko00550,map00550",-,R05627,RC00002,"ko00000,ko00001,ko01000,ko01011",-,-,-,BacA
+hypothetical protein_197,1881,Evidence 4 Homologs of previously reported genes of,-,287,1935694,-,-,-,ko:K09700,-,-,-,-,ko00000,-,-,-,-
+hypothetical protein_246,1882,membrane transporter protein,-,800,1936460,+,-,-,ko:K07090,-,-,-,-,ko00000,-,-,-,TauE
+RNA polymerase-associated protein RapA_236,1885,DNA RNA helicase,-,1718,1939393,+,-,-,-,-,-,-,-,-,-,-,-,"Helicase_C,SNF2_N,SWIM"
+hypothetical protein_219,1886,CsbD-like,yjbJ,287,1941468,+,-,-,-,-,-,-,-,-,-,-,-,CsbD
+hypothetical protein_518,1890,Domain of unknown function (DUF1841),-,461,1946067,+,-,-,-,-,-,-,-,-,-,-,-,DUF1841
+hypothetical protein_237,1898,CsbD-like,yjbJ,254,1952117,-,-,-,-,-,-,-,-,-,-,-,-,CsbD
+hypothetical protein_206,1899,ATP-grasp domain,-,1298,1952539,-,-,-,-,-,-,-,-,-,-,-,-,ATP-grasp_4
+hypothetical protein_199,1906,Heavy metal translocating P-type atpase,-,464,1959750,-,-,-,-,-,-,-,-,-,-,-,-,-
+Mercuric resistance operon regulatory protein,1908,"MerR, DNA binding",-,464,1960385,-,-,-,ko:K19591,-,M00769,-,-,"ko00000,ko00002,ko01504,ko03000",-,-,-,"MerR,MerR-DNA-bind"
+Glucose-6-phosphate 1-dehydrogenase 1,1909,Catalyzes the oxidation of glucose 6-phosphate to 6- phosphogluconolactone,-,1385,1960996,-,-,-,-,-,-,-,-,-,-,-,-,"G6PD_C,G6PD_N"
+hypothetical protein_58,1910,-,-,338,1962383,-,-,-,-,-,-,-,-,-,-,-,-,-
+Transaldolase,1911,Belongs to the GPI family,tal,2627,1962744,-,-,"2.2.1.2,5.3.1.9","ko:K01810,ko:K13810","ko00010,ko00030,ko00500,ko00520,ko01100,ko01110,ko01120,ko01130,ko01200,ko01230,map00010,map00030,map00500,map00520,map01100,map01110,map01120,map01130,map01200,map01230","M00001,M00004,M00007,M00114","R01827,R02739,R02740,R03321","RC00376,RC00439,RC00563,RC00604","ko00000,ko00001,ko00002,ko01000,ko04147",-,-,-,"PGI,TAL_FSA"
+hypothetical protein_230,1912,membrane transporter protein,-,818,1965648,+,-,-,-,-,-,-,-,-,-,-,-,TauE
+Transcriptional regulatory protein PrrA,1937,Response regulator receiver domain protein,-,290,1992105,+,-,-,-,-,-,-,-,-,-,-,-,"Response_reg,Trans_reg_C"
+Trehalase_244,1944,"glucan 1,4-alpha-glucosidase activity",-,239,1995493,+,-,-,-,-,-,-,-,-,-,-,-,Glyco_hydro_15
+Adaptive-response sensory-kinase SasA,1947,His Kinase A (phosphoacceptor) domain,-,1238,1996201,-,-,-,-,-,-,-,-,-,-,-,-,"HATPase_c,HisKA"
+hypothetical protein_7,1948,-,-,371,1998007,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_57,1950,-,-,212,1999031,-,-,-,-,-,-,-,-,-,-,-,-,-
+Transcriptional regulatory protein TdiR,1951,response regulator receiver,-,704,1999562,+,-,-,ko:K13041,"ko02020,map02020",M00514,-,-,"ko00000,ko00001,ko00002,ko02022",-,-,-,"GerE,Response_reg"
+Na(+)/H(+) antiporter NhaA,1952,) H( ) antiporter that extrudes sodium in exchange for external protons,-,1226,2000444,+,-,-,ko:K03313,-,-,-,-,"ko00000,ko02000",2.A.33.1,-,-,Na_H_antiport_1
+hypothetical protein_338,1958,Sulfotransferase family,-,1019,2007456,-,-,-,-,-,-,-,-,-,-,-,-,Sulfotransfer_3
+hypothetical protein_337,1959,WbqC-like protein family,-,674,2008479,-,-,-,-,-,-,-,-,-,-,-,-,WbqC
+"dTDP-4-amino-4,6-dideoxy-D-glucose transaminase",1960,Belongs to the DegT DnrJ EryC1 family,-,1100,2009165,-,-,-,-,-,-,-,-,-,-,-,-,DegT_DnrJ_EryC1
+hypothetical protein_336,1961,Tetratricopeptide repeat,-,398,2010634,-,-,-,-,-,-,-,-,-,-,-,-,-
+Lipopolysaccharide biosynthesis protein WzxC,1963,PFAM Polysaccharide biosynthesis protein,-,1394,2011716,+,-,-,-,-,-,-,-,-,-,-,-,"Polysacc_synt_3,Polysacc_synt_C"
+hypothetical protein_335,1964,Glycosyltransferase like family 2,-,932,2013107,+,-,-,-,-,-,-,-,-,-,-,-,Glycos_transf_2
+hypothetical protein_334,1967,"transferase activity, transferring glycosyl groups",-,1256,2017232,+,-,-,-,-,-,-,-,-,-,-,-,Glyco_trans_1_4
+hypothetical protein_333,1968,-,-,209,2018485,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_332,1969,Sulfotransferase domain,-,1049,2018691,+,-,-,-,-,-,-,-,-,-,-,-,Sulfotransfer_3
+Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase,1970,PFAM Glycosyl transferase family 4,wecA,1142,2019813,+,-,"2.7.8.33,2.7.8.35",ko:K02851,-,-,R08856,RC00002,"ko00000,ko01000,ko01003,ko01005",-,-,-,Glycos_transf_4
+hypothetical protein_331,1971,Capsular exopolysaccharide family,-,2228,2020967,+,-,-,"ko:K16554,ko:K16692","ko05111,map05111",-,-,-,"ko00000,ko00001,ko01000,ko01001,ko02000",8.A.3.1,-,-,"AAA_31,CbiA,GNVR,ParA,Wzz"
+hypothetical protein_145,1973,Domain of unknown function (DUF4838),-,2252,2024260,+,-,-,-,-,-,-,-,-,-,-,-,DUF4838
+hypothetical protein_146,1974,-,-,1298,2026509,+,-,-,-,-,-,-,-,-,-,-,-,-
+Rhamnosyltransferase WbbL,1975,"Glycosyl transferase, family 2",wbbL,836,2027863,+,-,-,ko:K07011,-,-,-,-,ko00000,-,-,-,"Glyco_tranf_2_3,Glyco_transf_7C,Glycos_transf_2"
+hypothetical protein_495,1976,"transferase activity, transferring glycosyl groups",-,1253,2028684,+,-,-,-,-,-,-,-,-,-,-,-,"Glyco_trans_1_4,Glycos_transf_1"
+hypothetical protein_496,1978,methyltransferase,-,782,2030427,+,-,-,-,-,-,-,-,-,-,-,-,"Methyltransf_11,Methyltransf_23,Methyltransf_25,Methyltransf_31"
+hypothetical protein_497,1979,Sulfotransferase family,-,860,2031448,+,-,-,-,-,-,-,-,-,-,-,-,Sulfotransfer_3
+hypothetical protein_147,1980,Putative beta-barrel porin 2,-,1238,2032462,+,-,-,-,-,-,-,-,-,-,-,-,BBP2_2
+hypothetical protein_148,1981,polysaccharide export protein,-,869,2033687,+,-,-,ko:K01991,"ko02026,map02026",-,-,-,"ko00000,ko00001,ko02000",1.B.18,-,-,"Poly_export,SLBB"
+Putative sporulation hydrolase CotR,1982,Patatin-like phospholipase,-,926,2034710,-,-,-,-,-,-,-,-,-,-,-,-,Patatin
+hypothetical protein_498,1986,TRL-like protein family,-,311,2039415,+,-,-,-,-,-,-,-,-,-,-,-,TRL
+hypothetical protein_499,1987,-,-,521,2040374,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_149,1988,Formate nitrite,-,935,2040981,+,-,-,ko:K06212,-,-,-,-,"ko00000,ko02000","1.A.16.1.1,1.A.16.1.3",-,-,Form_Nir_trans
+Outer membrane protein assembly factor BamD,1992,"Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane",bamD,755,2047048,+,-,-,ko:K05807,-,-,-,-,"ko00000,ko02000",1.B.33.1,-,-,YfiO
+hypothetical protein_198,2001,Transposase IS200 like,-,239,2058714,+,-,-,ko:K07491,-,-,-,-,ko00000,-,-,-,Y1_Tnp
+hypothetical protein_93,2006,Diguanylate cyclase,-,1964,2061898,+,-,-,-,-,-,-,-,-,-,-,-,"EAL,GGDEF,PAS,PAS_3,PAS_9,SBP_bac_3"
+putative Ni/Fe-hydrogenase B-type cytochrome subunit,2007,cytochrome,-,626,2063972,+,-,-,-,-,-,-,-,-,-,-,-,Ni_hydr_CYTB
+hypothetical protein_633,2008,peptidase,-,347,2064540,+,-,-,-,-,-,-,-,-,-,-,-,PepSY
+hypothetical protein_634,2010,Histidine kinase,-,1343,2065581,+,-,-,-,-,-,-,-,-,-,-,-,HATPase_c
+hypothetical protein_94,2015,-,-,347,2070870,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_400,2019,Mut7-C RNAse domain,-,563,2074890,+,-,-,ko:K09122,-,-,-,-,ko00000,-,-,-,"Mut7-C,Ub-Mut7C"
+Thiamine-monophosphate kinase,2027,"Catalyzes the ATP-dependent phosphorylation of thiamine- monophosphate (TMP) to form thiamine-pyrophosphate (TPP), the active form of vitamin B1",thiL,974,2081877,+,-,2.7.4.16,ko:K00946,"ko00730,ko01100,map00730,map01100",M00127,R00617,RC00002,"ko00000,ko00001,ko00002,ko01000",-,-,-,"AIRS,AIRS_C"
+hypothetical protein_401,2028,-,-,281,2082967,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_402,2031,-,-,167,2088116,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_403,2032,-,-,437,2088476,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_229,2033,Alginate export,-,1406,2088932,-,-,-,-,-,-,-,-,-,-,-,-,Alginate_exp
+hypothetical protein_404,2034,Protein of Unknown function (DUF2784),-,356,2090547,-,-,-,-,-,-,-,-,-,-,-,-,DUF2784
+hypothetical protein_405,2035,"membrane protein, terc",yegH,1553,2091014,+,"GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",-,-,-,-,-,-,-,-,-,-,"CBS,CorC_HlyC,TerC"
+Anaerobic nitric oxide reductase transcription regulator NorR,2037,Sigma-54 interaction domain,-,1283,2093704,-,-,-,-,-,-,-,-,-,-,-,-,Sigma54_activat
+Vitamin B12 import ATP-binding protein BtuD_406,2038,ABC transporter transmembrane region,-,3050,2094984,-,-,-,ko:K06147,-,-,-,-,"ko00000,ko02000","3.A.1.106,3.A.1.109,3.A.1.21",-,-,"ABC_membrane,ABC_tran,Peptidase_C39,cNMP_binding"
+Foldase protein PrsA_407,2039,PPIC-type PPIASE domain,-,752,2098142,-,-,-,-,-,-,-,-,-,-,-,-,Rotamase
+"Hemolysin secretion protein D, chromosomal",2040,HlyD family secretion protein,-,1385,2098936,-,-,-,-,-,-,-,-,-,-,-,-,"Biotin_lipoyl_2,HlyD_3"
+hypothetical protein_408,2041,Forkhead associated domain,-,2411,2100311,-,-,-,-,-,-,-,-,-,-,-,-,FHA
+putative efflux pump outer membrane protein TtgC,2042,Outer membrane efflux protein,-,1478,2102759,-,-,-,-,-,-,-,-,-,-,-,-,OEP
+hypothetical protein_409,2043,-,-,302,2104381,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_410,2044,-,-,251,2104764,-,-,-,-,-,-,-,-,-,-,-,-,-
+Iron-sulfur cluster carrier protein,2045,Cellulose biosynthesis protein BcsQ,-,773,2105432,+,-,-,-,-,-,-,-,-,-,-,-,CbiA
+hypothetical protein_411,2046,Esterase of the alpha-beta hydrolase superfamily,plpD,1046,2106199,+,-,-,ko:K07001,-,-,-,-,ko00000,-,-,-,"Bac_surface_Ag,POTRA,Patatin"
+hypothetical protein_412,2047,histone H2A K63-linked ubiquitination,-,524,2107242,-,-,-,-,-,-,-,-,-,-,-,-,"FHA,GAF,Yop-YscD_cpl"
+hypothetical protein_413,2048,Domain in cystathionine beta-synthase and other proteins.,-,593,2107945,-,-,-,-,-,-,-,-,-,-,-,-,CBS
+hypothetical protein_414,2049,-,-,263,2108963,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_415,2050,-,-,263,2109502,+,-,-,-,-,-,-,-,-,-,-,-,-
+Demethylmenaquinone methyltransferase,2051,Putative methyltransferase,-,704,2109956,+,-,"2.1.1.163,2.1.1.201",ko:K03183,"ko00130,ko01100,ko01110,map00130,map01100,map01110","M00116,M00117","R04990,R04993,R06859,R08774,R09736","RC00003,RC01253,RC01662","ko00000,ko00001,ko00002,ko01000",-,-,-,Ubie_methyltran
+hypothetical protein_95,2052,Belongs to the FPP GGPP synthase family,-,986,2110681,-,-,-,-,-,-,-,-,-,-,-,-,polyprenyl_synt
+hypothetical protein_96,2053,-,-,737,2111687,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphate regulon transcriptional regulatory protein PhoB,2054,phosphate regulon transcriptional regulatory protein PhoB,-,686,2112741,+,-,-,ko:K07657,"ko02020,map02020",M00434,-,-,"ko00000,ko00001,ko00002,ko02022",-,-,-,"Response_reg,Trans_reg_C"
+hypothetical protein_232,2055,Putative ATP-dependant zinc protease,-,560,2113489,-,-,-,-,-,-,-,-,-,-,-,-,Zn_protease
+Esterase YbfF,2060,Alpha beta hydrolase,-,797,2122387,+,-,-,ko:K01175,-,-,-,-,"ko00000,ko01000",-,-,-,Abhydrolase_1
+hypothetical protein_398,2064,-,-,905,2127083,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_399,2065,protein conserved in bacteria,-,713,2128359,-,-,-,ko:K09990,-,-,-,-,ko00000,-,-,-,Oxygenase-NA
+DNA-3-methyladenine glycosylase 2,2066,3-methyladenine DNA glycosylase 8-oxoguanine DNA glycosylase,alkA,791,2129069,-,"GO:0003674,GO:0003676,GO:0003677,GO:0003684,GO:0003824,GO:0003905,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006281,GO:0006284,GO:0006285,GO:0006304,GO:0006307,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0008725,GO:0009987,GO:0016787,GO:0016798,GO:0016799,GO:0019104,GO:0032131,GO:0032991,GO:0032993,GO:0033554,GO:0034641,GO:0035510,GO:0043170,GO:0043412,GO:0043733,GO:0043916,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0046483,GO:0050896,GO:0051716,GO:0071704,GO:0090304,GO:0097159,GO:0140097,GO:1901360,GO:1901363",3.2.2.21,"ko:K01247,ko:K13529","ko03410,map03410",-,-,-,"ko00000,ko00001,ko01000,ko03000,ko03400",-,-,-,"AlkA_N,HhH-GPD"
+Vitamin B12 transporter BtuB,2075,TonB-dependent Receptor Plug,-,1808,2137254,-,-,-,ko:K16092,-,-,-,-,"ko00000,ko02000",1.B.14.3,-,-,"Plug,TonB_dep_Rec"
+hypothetical protein_37,2083,-,-,275,2147042,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_310,2087,PFAM AsmA family protein,-,2126,2150095,+,-,-,ko:K07289,-,-,-,-,ko00000,-,-,-,AsmA
+Hydroxyacylglutathione hydrolase_311,2090,"COG0491 Zn-dependent hydrolases, including glyoxylases",-,1025,2153596,+,-,-,-,-,-,-,-,-,-,-,-,Lactamase_B
+hypothetical protein_245,2109,COG0724 RNA-binding proteins (RRM domain),-,284,2171595,-,-,-,-,-,-,-,-,-,-,-,-,RRM_1
+"Fructose-1,6-bisphosphate aldolase/phosphatase",2110,"Catalyzes two subsequent steps in gluconeogenesis the aldol condensation of dihydroxyacetone phosphate (DHAP) and glyceraldehyde-3-phosphate (GA3P) to fructose-1,6-bisphosphate (FBP), and the dephosphorylation of FBP to fructose-6-phosphate (F6P)",-,1103,2172344,+,-,"3.1.3.11,4.1.2.13",ko:K01622,"ko00010,ko00030,ko00051,ko00680,ko01100,ko01110,ko01120,ko01130,ko01200,ko01230,map00010,map00030,map00051,map00680,map01100,map01110,map01120,map01130,map01200,map01230",M00003,"R00762,R01068,R01070,R02568,R04780","RC00017,RC00438,RC00439","ko00000,ko00001,ko00002,ko01000",-,-,-,FBPase_3
+"1,2-phenylacetyl-CoA epoxidase, subunit E",2137,COG1018 Flavodoxin reductases (ferredoxin-NADPH reductases) family 1,paaE,1076,2203615,+,"GO:0000166,GO:0003674,GO:0005488,GO:0006082,GO:0006725,GO:0006805,GO:0008150,GO:0008152,GO:0009056,GO:0009404,GO:0009407,GO:0009410,GO:0009636,GO:0009850,GO:0009852,GO:0009987,GO:0010124,GO:0010817,GO:0016054,GO:0019439,GO:0019748,GO:0019752,GO:0032787,GO:0036094,GO:0042178,GO:0042221,GO:0042445,GO:0042447,GO:0042537,GO:0043167,GO:0043168,GO:0043436,GO:0044237,GO:0044248,GO:0044281,GO:0044282,GO:0046395,GO:0048037,GO:0050660,GO:0050662,GO:0050896,GO:0051536,GO:0051537,GO:0051540,GO:0051716,GO:0065007,GO:0065008,GO:0070887,GO:0071466,GO:0071704,GO:0072329,GO:0097159,GO:0098754,GO:1901265,GO:1901360,GO:1901361,GO:1901363,GO:1901575",-,ko:K02613,"ko00360,ko01120,map00360,map01120",-,R09838,RC02690,"ko00000,ko00001",-,-,iEcHS_1320.EcHS_A1479,"FAD_binding_6,Fer2,NAD_binding_1"
+hypothetical protein_51,2138,-,-,767,2204892,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_50,2140,-,-,224,2206329,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_319,2141,-,-,725,2206805,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_318,2142,self proteolysis,-,713,2207527,+,-,-,-,-,-,-,-,-,-,-,-,SprB
+hypothetical protein_49,2144,EamA-like transporter family,-,878,2209499,+,-,-,-,-,-,-,-,-,-,-,-,EamA
+Molybdenum-pterin-binding protein 2,2145,"Protein involved in ATP binding, hydrolase activity acting on acid anhydrides catalyzing transmembrane movement of substances, molybdate transmembrane-transporting ATPase activity, molybdenum ion binding, transporter activity and transport",-,215,2210427,-,-,-,-,-,-,-,-,-,-,-,-,TOBE
+Molybdate-binding protein ModA,2146,"molybdenum ABC transporter, periplasmic",-,821,2210680,-,-,-,ko:K02020,"ko02010,map02010",M00189,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.8,-,-,SBP_bac_11
+hypothetical protein_601,2153,-,-,1994,2218853,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_600,2155,GGDEF domain,-,1424,2222349,+,-,-,-,-,-,-,-,-,-,-,-,"GGDEF,NMT1,Reg_prop,SBP_bac_3,Y_Y_Y"
+Thiol:disulfide interchange protein DsbA,2157,Thiol disulfide interchange protein,-,632,2224753,-,-,-,ko:K03673,"ko01503,map01503",M00728,-,-,"ko00000,ko00001,ko00002,ko03110",-,-,-,DSBA
+Cytochrome c4,2158,"PFAM Cytochrome c, class I",-,635,2225584,-,-,-,-,-,-,-,-,-,-,-,-,Cytochrom_C
+hypothetical protein_599,2162,Protein of unknown function (DUF2782),-,383,2231006,+,-,-,-,-,-,-,-,-,-,-,-,DUF2782
+Lipid A biosynthesis lauroyltransferase,2165,Bacterial lipid A biosynthesis acyltransferase,-,977,2235346,+,-,-,-,-,-,-,-,-,-,-,-,Lip_A_acyltrans
+ATP synthase subunit delta,2173,"F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation",atpH,530,2245462,-,-,-,ko:K02113,"ko00190,ko00195,ko01100,map00190,map00195,map01100",M00157,-,-,"ko00000,ko00001,ko00002,ko00194",3.A.2.1,-,-,OSCP
+ATP synthase subunit b,2174,"Component of the F(0) channel, it forms part of the peripheral stalk, linking F(1) to F(0)",atpF,464,2246003,-,-,-,ko:K02109,"ko00190,ko00195,ko01100,map00190,map00195,map01100",M00157,-,-,"ko00000,ko00001,ko00002,ko00194",3.A.2.1,-,-,ATP-synt_B
+"ATP synthase subunit c, sodium ion specific",2175,"F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation",atpE,299,2246544,-,-,-,ko:K02110,"ko00190,ko00195,ko01100,map00190,map00195,map01100",M00157,-,-,"ko00000,ko00001,ko00002,ko00194",3.A.2.1,-,-,ATP-synt_C
+ATP synthase subunit a,2176,it plays a direct role in the translocation of protons across the membrane,atpB,785,2246908,-,-,-,ko:K02108,"ko00190,ko00195,ko01100,map00190,map00195,map01100",M00157,-,-,"ko00000,ko00001,ko00002,ko00194,ko03110",3.A.2.1,-,-,ATP-synt_A
+hypothetical protein_48,2177,ATP synthase I chain,-,401,2247690,-,-,-,ko:K02116,-,-,-,-,"ko00000,ko00194",3.A.2.1,-,-,ATP-synt_I
+Ribosomal RNA small subunit methyltransferase G,2180,Specifically methylates the N7 position of guanine in position 527 of 16S rRNA,rsmG,677,2250000,-,-,2.1.1.170,ko:K03501,-,-,-,-,"ko00000,ko01000,ko03009,ko03036",-,-,-,GidB
+DNA replication and repair protein RecF,2185,"it is required for DNA replication and normal SOS inducibility. RecF binds preferentially to single-stranded, linear DNA. It also seems to bind ATP",recF,1073,2256041,+,-,-,ko:K03629,"ko03440,map03440",-,-,-,"ko00000,ko00001,ko03400",-,-,-,"AAA_23,SMC_N"
+hypothetical protein_77,2193,Domain of unknown function (DUF4124),-,545,2266638,+,-,-,-,-,-,-,-,-,-,-,-,"BiPBP_C,DUF4124"
+putative protein YibN,2205,PFAM Rhodanese-like,-,425,2277435,-,-,-,-,-,-,-,-,-,-,-,-,Rhodanese
+Murein hydrolase activator EnvC,2206,PFAM peptidase,-,1157,2278083,+,-,-,-,-,-,-,-,-,-,-,-,Peptidase_M23
+Ubiquinone biosynthesis accessory factor UbiJ,2210,Sterol-binding domain protein,-,638,2283055,-,-,-,ko:K03690,-,-,-,-,ko00000,-,-,-,SCP2
+hypothetical protein_98,2216,"Protein of unknown function, DUF484",-,689,2287955,-,-,-,ko:K09921,-,-,-,-,ko00000,-,-,-,DUF484
+hypothetical protein_635,2219,-,-,146,2290952,-,-,-,-,-,-,-,-,-,-,-,-,-
+Virginiamycin B lyase,2224,"Inactivates the type B streptogramin antibiotics by linearizing the lactone ring at the ester linkage, generating a free phenylglycine carboxylate and converting the threonyl moiety into 2-amino-butenoic acid",-,548,2295399,-,-,-,ko:K18235,-,-,-,-,"ko00000,ko01000,ko01504",-,-,-,-
+hypothetical protein_97,2226,"HemX, putative uroporphyrinogen-III C-methyltransferase",-,1052,2297814,+,-,2.1.1.107,ko:K02496,"ko00860,ko01100,ko01110,ko01120,map00860,map01100,map01110,map01120",M00121,R03194,"RC00003,RC00871","ko00000,ko00001,ko00002,ko01000",-,-,-,HemX
+Protein HemY,2227,HemY domain protein,-,1262,2298863,+,-,-,ko:K02498,-,-,-,-,ko00000,-,-,-,HemY_N
+hypothetical protein_594,2240,Domain of unknown function (DUF4124),-,656,2311740,+,-,-,-,-,-,-,-,-,-,-,-,DUF4124
+hypothetical protein_189,2247,-,-,239,2320471,+,-,-,-,-,-,-,-,-,-,-,-,-
+putative zinc protease,2253,Belongs to the peptidase M16 family,-,1403,2325667,+,-,-,ko:K07263,-,-,-,-,"ko00000,ko01000,ko01002",-,-,-,"Peptidase_M16,Peptidase_M16_C"
+hypothetical protein_188,2254,PFAM Peptidase M16,-,1331,2327067,+,-,-,ko:K07263,-,-,-,-,"ko00000,ko01000,ko01002",-,-,-,"Peptidase_M16,Peptidase_M16_C"
+Ribosomal RNA small subunit methyltransferase D,2255,Specifically methylates the guanine in position 966 of 16S rRNA in the assembled 30S particle,-,584,2328407,+,-,2.1.1.171,ko:K08316,-,-,R07234,RC00003,"ko00000,ko01000,ko03009",-,-,-,Cons_hypoth95
+Thiol-disulfide oxidoreductase ResA_589,2262,alkyl hydroperoxide reductase Thiol specific antioxidant Mal allergen,-,521,2335837,+,-,-,-,-,-,-,-,-,-,-,-,"AhpC-TSA,Redoxin"
+Aminotransferase PigE,2268,PFAM Aminotransferase class-III,-,1439,2341294,+,"GO:0003674,GO:0003824,GO:0005488,GO:0008144,GO:0008150,GO:0008152,GO:0008483,GO:0009058,GO:0009987,GO:0016740,GO:0016769,GO:0016999,GO:0017000,GO:0017144,GO:0019842,GO:0036094,GO:0043167,GO:0043169,GO:0044237,GO:0044249,GO:0048037,GO:0070279,GO:0070280,GO:0097159,GO:1901363",-,-,-,-,-,-,-,-,-,-,Aminotran_3
+Catalase,2285,Catalase,-,1457,2358044,-,-,1.11.1.6,ko:K03781,"ko00380,ko00630,ko01110,ko01130,ko01200,ko04011,ko04016,ko04068,ko04146,ko04211,ko04212,ko04213,ko05014,map00380,map00630,map01110,map01130,map01200,map04011,map04016,map04068,map04146,map04211,map04212,map04213,map05014",M00532,"R00009,R00602,R02670","RC00034,RC00767,RC02141,RC02755","ko00000,ko00001,ko00002,ko01000",-,-,-,"Catalase,Catalase-rel"
+hypothetical protein_224,2297,Type III,-,1613,2375024,-,-,3.1.21.5,ko:K01156,-,-,-,-,"ko00000,ko01000,ko02048",-,-,-,ResIII
+hypothetical protein_215,2313,CsbD-like,yjbJ,287,2390331,+,"GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0044424,GO:0044444,GO:0044464",-,-,-,-,-,-,-,-,-,-,CsbD
+Ribosomal RNA small subunit methyltransferase B,2319,Specifically methylates the cytosine at position 967 (m5C967) of 16S rRNA,-,1340,2397807,-,-,2.1.1.176,ko:K03500,-,-,-,-,"ko00000,ko01000,ko03009",-,-,-,"Methyltr_RsmB-F,Methyltr_RsmF_N,NusB"
+hypothetical protein_274,2328,PilZ domain,-,635,2407576,-,-,-,-,-,-,-,-,-,-,-,-,PilZ
+hypothetical protein_22,2330,Domain of unknown function (DUF4139),-,1415,2409231,-,-,-,-,-,-,-,-,-,-,-,-,DUF4139
+hypothetical protein_195,2331,PFAM heat shock protein DnaJ,-,719,2410732,-,-,-,-,-,-,-,-,-,-,-,-,DnaJ
+hypothetical protein_21,2333,Squalene phytoene synthase,-,1046,2412181,+,-,2.5.1.21,ko:K00801,"ko00100,ko00909,ko01100,ko01110,ko01130,map00100,map00909,map01100,map01110,map01130",-,"R00702,R02872,R06223","RC00362,RC00796,RC02839","ko00000,ko00001,ko01000,ko01006",-,-,-,SQS_PSY
+Squalene--hopene cyclase,2334,Squalene-hopene cyclase N-terminal domain,-,1967,2413288,+,-,"4.2.1.129,5.4.99.17",ko:K06045,"ko00909,ko01110,map00909,map01110",-,"R07322,R07323","RC01850,RC01851","ko00000,ko00001,ko01000",-,-,-,"SQHop_cyclase_C,SQHop_cyclase_N"
+hypothetical protein_20,2335,other phosphorylase family 1,-,746,2415252,+,-,3.2.2.9,ko:K01243,"ko00270,ko01100,ko01230,map00270,map01100,map01230","M00034,M00609","R00194,R01401","RC00063,RC00318","ko00000,ko00001,ko00002,ko01000",-,-,-,PNP_UDP_1
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase,2337,Catalyzes the conversion of 1-hydroxy-2-methyl-2-(E)- butenyl 4-diphosphate (HMBPP) into a mixture of isopentenyl diphosphate (IPP) and dimethylallyl diphosphate (DMAPP). Acts in the terminal step of the DOXP MEP pathway for isoprenoid precursor biosynthesis,ispH,920,2418503,+,-,1.17.7.4,ko:K03527,"ko00900,ko01100,ko01110,ko01130,map00900,map01100,map01110,map01130",M00096,"R05884,R08210","RC01137,RC01487","ko00000,ko00001,ko00002,ko01000",-,-,-,LYTB
+"GTP 3',8-cyclase",2338,Radical SAM domain,-,1157,2419486,+,-,-,-,-,-,-,-,-,-,-,-,"DUF3463,Radical_SAM"
+hypothetical protein_273,2339,Glycosyl transferase family 21,-,1121,2420666,+,-,-,-,-,-,-,-,-,-,-,-,Glyco_tranf_2_3
+hypothetical protein_272,2340,-,-,512,2421961,-,-,-,-,-,-,-,-,-,-,-,-,-
+Chromosome partition protein Smc,2344,OmpA MotB,-,1319,2427595,+,-,-,ko:K02557,"ko02030,ko02040,map02030,map02040",-,-,-,"ko00000,ko00001,ko02000,ko02035",1.A.30.1,-,-,OmpA
+1-deoxy-D-xylulose-5-phosphate synthase,2348,"Transketolase, pyrimidine binding domain",-,2294,2430452,-,-,-,-,-,-,-,-,-,-,-,-,"E1_dh,Transket_pyr,Transketolase_C"
+hypothetical protein_271,2364,-,-,893,2440811,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sensor histidine kinase RegB,2365,signal transduction histidine kinase,-,1247,2441890,+,-,2.7.13.3,ko:K15011,"ko02020,map02020",M00523,-,-,"ko00000,ko00001,ko00002,ko01000,ko01001,ko02022",-,-,-,"HATPase_c,HisKA"
+Photosynthetic apparatus regulatory protein RegA,2366,PFAM response regulator receiver,-,539,2443156,+,-,-,ko:K15012,"ko02020,map02020",M00523,-,-,"ko00000,ko00001,ko00002,ko02022",-,-,-,"HTH_8,Response_reg"
+hypothetical protein_270,2367,Pyridine nucleotide-disulphide oxidoreductase,-,1244,2443855,-,-,1.8.5.4,ko:K17218,"ko00920,map00920",-,R10152,RC03155,"ko00000,ko00001,ko01000",-,-,-,Pyr_redox_2
+Hydroxyacylglutathione hydrolase,2368,Metallo-beta-lactamase superfamily,-,599,2445307,+,-,-,-,-,-,-,-,-,-,-,-,"Lactamase_B,Rhodanese"
+putative sulfate transporter,2369,sulphate transporter,-,1769,2445914,+,-,-,ko:K03321,-,-,-,-,"ko00000,ko02000",2.A.53.3,-,-,"STAS,Sulfate_transp"
+hypothetical protein_269,2371,-,-,551,2449788,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sensor histidine kinase GlrK,2372,Histidine kinase,-,1457,2450402,-,-,2.7.13.3,ko:K07711,"ko02020,ko02024,map02020,map02024",M00502,-,-,"ko00000,ko00001,ko00002,ko01000,ko01001,ko02022",-,-,-,"HATPase_c,HisKA"
+hypothetical protein_5,2380,signal transduction protein,-,1244,2458582,+,-,-,-,-,-,-,-,-,-,-,-,HDOD
+hypothetical protein_268,2383,-,-,1307,2462139,-,-,-,-,-,-,-,-,-,-,-,-,-
+Acyl carrier protein phosphodiesterase,2384,Acyl carrier protein phosphodiesterase,-,665,2463430,-,-,-,-,-,-,-,-,-,-,-,-,ACP_PD
+hypothetical protein_267,2385,Thioesterase,fcbC,422,2464123,-,-,-,ko:K07107,-,-,-,-,"ko00000,ko01000",-,-,-,"4HBT,4HBT_2"
+hypothetical protein_636,2388,-,-,614,2466577,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_324,2393,oxidoreductase activity,-,464,2470866,-,-,1.4.3.4,ko:K00274,"ko00260,ko00330,ko00340,ko00350,ko00360,ko00380,ko00950,ko00982,ko01100,ko01110,ko04726,ko04728,ko05030,ko05031,ko05034,map00260,map00330,map00340,map00350,map00360,map00380,map00950,map00982,map01100,map01110,map04726,map04728,map05030,map05031,map05034",M00135,"R02173,R02382,R02529,R02532,R02613,R02908,R02919,R04025,R04300,R04674,R04890,R04893,R04894,R04907,R04908,R08346,R08347,R08348,R11354","RC00062,RC00160,RC00225,RC00676,RC00807,RC00808,RC01808,RC02226,RC02713","ko00000,ko00001,ko00002,ko01000",-,-,-,Amino_oxidase
+hypothetical protein_223,2411,-,-,494,2488011,+,-,-,-,-,-,-,-,-,-,-,-,-
+Polyphosphate kinase,2412,Catalyzes the reversible transfer of the terminal phosphate of ATP to form a long-chain polyphosphate (polyP),ppk,2363,2488586,-,-,2.7.4.1,ko:K00937,"ko00190,ko03018,map00190,map03018",-,-,-,"ko00000,ko00001,ko01000,ko03019",-,-,-,"PP_kinase,PP_kinase_C,PP_kinase_N"
+hypothetical protein_358,2413,pfam chad,-,1520,2491159,-,-,-,-,-,-,-,-,-,-,-,-,CHAD
+hypothetical protein_439,2416,iron ion binding,-,284,2494638,+,-,-,-,-,-,-,-,-,-,-,-,FA_hydroxylase
+putative protein_440,2418,PFAM Phosphoglycerate mutase,-,536,2495674,+,-,-,ko:K08296,-,-,-,-,"ko00000,ko01000",-,-,-,His_Phos_1
+"4,5-DOPA dioxygenase extradiol",2419,dioxygenase,ygiD,785,2496578,-,"GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0016491,GO:0046566,GO:0051213,GO:0055114",-,ko:K15777,"ko00965,map00965",-,R08836,RC00387,"ko00000,ko00001,ko01000",-,-,-,LigB
+Trehalase,2420,Glycoside hydrolase 15-related,-,1832,2497461,-,-,-,-,-,-,-,-,-,-,-,-,Glyco_hydro_15
+hypothetical protein_441,2421,TIGRFAM outer membrane autotransporter barrel,-,1994,2499427,-,-,-,-,-,-,-,-,-,-,-,-,Autotransporter
+Actin cross-linking toxin VgrG1,2423,Rhs Element Vgr Protein,vgrG1,2189,2502346,+,-,-,ko:K11904,"ko03070,map03070",M00334,-,-,"ko00000,ko00001,ko00002,ko02044",3.A.23.1,-,-,"Gp5_C,Phage_GPD"
+hypothetical protein_442,2424,-,-,476,2504563,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_443,2425,protein conserved in bacteria,-,1115,2505050,+,-,-,-,-,-,-,-,-,-,-,-,DUF2169
+hypothetical protein_444,2426,synthase,-,1046,2506162,+,-,2.3.1.41,ko:K00647,"ko00061,ko00780,ko01100,ko01212,map00061,map00780,map01100,map01212","M00083,M00572","R04355,R04726,R04952,R04957,R04960,R04963,R04968,R07762,R10115,R10119","RC00039,RC02728,RC02729,RC02888","ko00000,ko00001,ko00002,ko01000,ko01004",-,-,-,-
+hypothetical protein_445,2429,lyase activity,-,1250,2509180,+,-,-,-,-,-,-,-,-,-,-,-,HEAT_2
+hypothetical protein_446,2430,"ImpA, N-terminal, type VI secretion system",-,1037,2510565,+,-,-,ko:K11902,"ko02025,map02025",M00334,-,-,"ko00000,ko00001,ko00002,ko02044",-,-,-,ImpA_N
+hypothetical protein_447,2434,"TIGRFAM Type VI secretion system, lysozyme-related",-,791,2514304,+,-,-,ko:K11897,-,M00334,-,-,"ko00000,ko00002,ko02044",-,-,-,GPW_gp25
+hypothetical protein_380,2440,"TIGRFAM Type VI secretion system, FHA",-,1430,2521596,+,-,-,ko:K11913,"ko02025,ko03070,map02025,map03070",-,-,-,"ko00000,ko00001,ko02044",-,-,-,FHA
+hypothetical protein_381,2445,"type VI secretion-associated protein, BMA_A0400 family",-,1508,2529765,+,-,-,ko:K11890,"ko02025,map02025",-,-,-,"ko00000,ko00001,ko02044",-,-,-,DUF2094
+hypothetical protein_382,2447,Alpha/beta hydrolase family,-,893,2533049,-,-,-,-,-,-,-,-,-,-,-,-,-
+putative MFS-type transporter YcaD,2449,Major facilitator Superfamily,-,614,2535925,+,-,-,-,-,-,-,-,-,-,-,-,"MFS_1,MFS_4,Sugar_tr"
+hypothetical protein_383,2450,PFAM VanZ,-,389,2536687,+,-,-,-,-,-,-,-,-,-,-,-,VanZ
+Efflux pump periplasmic linker BepF,2453,Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family,-,1103,2543983,-,-,-,ko:K03585,"ko01501,ko01503,map01501,map01503","M00646,M00647,M00699,M00718",-,-,"ko00000,ko00001,ko00002,ko01504,ko02000,ko03036","2.A.6.2,8.A.1.6",-,-,HlyD_D23
+Putative serine protease HtrA,2454,Trypsin,-,1259,2545414,-,-,-,-,-,-,-,-,-,-,-,-,"PDZ_2,Trypsin_2"
+hypothetical protein_91,2464,-,-,224,2561052,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_90,2465,BON domain,-,695,2561359,-,-,-,-,-,-,-,-,-,-,-,-,BON
+Poly(3-hydroxyalkanoate) polymerase subunit PhaC,2466,"Poly(R)-hydroxyalkanoic acid synthase, class III, PhaC subunit",-,1052,2562761,-,"GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0008150,GO:0008152,GO:0009058,GO:0016234,GO:0042618,GO:0042619,GO:0043226,GO:0043227,GO:0043229,GO:0043231,GO:0044424,GO:0044444,GO:0044464,GO:0070088,GO:0071704,GO:1901440,GO:1901441,GO:1901576",-,ko:K03821,"ko00650,map00650",-,R04254,RC00004,"ko00000,ko00001,ko01000",-,-,-,Abhydrolase_1
+hypothetical protein_384,2467,Poly(R)-hydroxyalkanoic acid synthase subunit (PHA_synth_III_E),-,854,2563810,-,-,-,-,-,-,-,-,-,-,-,-,PHA_synth_III_E
+Beta-barrel assembly-enhancing protease,2468,"Functions as both a chaperone and a metalloprotease. Maintains the integrity of the outer membrane by promoting either the assembly or the elimination of outer membrane proteins, depending on their folding state",-,1643,2564749,-,-,-,-,-,-,-,-,-,-,-,-,"Peptidase_M48,TPR_19"
+Outer membrane protein assembly factor BamC,2474,NlpB/DapX lipoprotein,-,1058,2571527,+,-,-,ko:K07287,-,-,-,-,"ko00000,ko02000",1.B.33.1,-,-,Lipoprotein_18
+"RNA 2',3'-cyclic phosphodiesterase",2504,"Hydrolyzes RNA 2',3'-cyclic phosphodiester to an RNA 2'- phosphomonoester",-,593,2604644,+,-,3.1.4.58,ko:K01975,-,-,-,-,"ko00000,ko01000,ko03016",-,-,-,LigT_PEase
+Regulatory protein RecX,2506,Regulatory protein recX,recX,488,2606349,+,"GO:0003674,GO:0005488,GO:0005515,GO:0006282,GO:0006950,GO:0006974,GO:0007154,GO:0008150,GO:0009432,GO:0009605,GO:0009987,GO:0009991,GO:0019219,GO:0019222,GO:0019899,GO:0030234,GO:0031323,GO:0031668,GO:0033554,GO:0043086,GO:0044092,GO:0048583,GO:0050789,GO:0050790,GO:0050794,GO:0050896,GO:0051052,GO:0051171,GO:0051716,GO:0060255,GO:0065007,GO:0065009,GO:0071496,GO:0080090,GO:0080134,GO:0080135,GO:0098772,GO:2001020",-,ko:K03565,-,-,-,-,"ko00000,ko03400",-,-,-,RecX
+6-phosphogluconolactonase,2512,PFAM glucosamine galactosamine-6-phosphate isomerase,-,731,2612055,-,-,3.1.1.31,ko:K01057,"ko00030,ko01100,ko01110,ko01120,ko01130,ko01200,map00030,map01100,map01110,map01120,map01130,map01200","M00004,M00006,M00008",R02035,RC00537,"ko00000,ko00001,ko00002,ko01000",-,-,-,Glucosamine_iso
+Glucokinase,2513,Belongs to the bacterial glucokinase family,glk,995,2612911,-,-,2.7.1.2,ko:K00845,"ko00010,ko00052,ko00500,ko00520,ko00521,ko00524,ko01100,ko01110,ko01120,ko01130,ko01200,map00010,map00052,map00500,map00520,map00521,map00524,map01100,map01110,map01120,map01130,map01200","M00001,M00549","R00299,R01600,R01786","RC00002,RC00017","ko00000,ko00001,ko00002,ko01000",-,-,-,Glucokinase
+"6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating",2514,6-phosphogluconate dehydrogenase,-,1016,2613975,-,-,"1.1.1.343,1.1.1.44",ko:K00033,"ko00030,ko00480,ko01100,ko01110,ko01120,ko01130,ko01200,map00030,map00480,map01100,map01110,map01120,map01130,map01200","M00004,M00006","R01528,R10221","RC00001,RC00539","ko00000,ko00001,ko00002,ko01000",-,-,-,"6PGD,NAD_binding_2"
+hypothetical protein_122,2515,-,-,353,2615301,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_123,2516,-,-,584,2616065,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_124,2517,PFAM Phosphatidylethanolamine-binding protein,-,536,2616863,-,-,-,ko:K06910,-,-,-,-,ko00000,-,-,-,PBP
+hypothetical protein_125,2518,-,-,479,2617447,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_463,2531,membrane,-,329,2627711,-,-,-,-,-,-,-,-,-,-,-,-,UPF0016
+hypothetical protein_462,2532,Uncharacterized protein conserved in bacteria (DUF2236),-,839,2628362,+,-,-,-,-,-,-,-,-,-,-,-,DUF2236
+hypothetical protein_180,2542,Membrane protein required for beta-lactamase induction,-,875,2637946,+,-,-,ko:K03807,-,-,-,-,ko00000,-,-,-,"AmpE,CobD_Cbib"
+hypothetical protein_220,2543,Putative restriction endonuclease,-,563,2638931,+,-,-,-,-,-,-,-,-,-,-,-,Uma2
+hypothetical protein_583,2544,addiction module antidote protein HigA,-,317,2639557,-,-,-,ko:K21498,-,-,-,-,"ko00000,ko02048",-,-,-,"HTH_3,HTH_31"
+D-inositol-3-phosphate glycosyltransferase_179,2546,PFAM Glycosyl transferases group 1,-,1286,2640596,+,-,-,-,-,-,-,-,-,-,-,-,"Glyco_transf_4,Glycos_transf_1"
+Trans-aconitate 2-methyltransferase_178,2547,Methyltransferase domain,-,737,2641894,+,-,-,-,-,-,-,-,-,-,-,-,Methyltransf_23
+D-inositol-3-phosphate glycosyltransferase,2548,PFAM Glycosyl,-,1124,2642628,-,-,-,-,-,-,-,-,-,-,-,-,"Glyco_trans_1_4,Glyco_trans_4_4,Glyco_transf_4"
+hypothetical protein_582,2551,Putative restriction endonuclease,-,581,2644769,+,-,-,-,-,-,-,-,-,-,-,-,Uma2
+hypothetical protein_580,2552,ROK family,-,713,2645441,-,-,2.7.1.63,ko:K00886,"ko00010,ko00520,ko01100,ko01110,ko01120,ko01130,ko01200,map00010,map00520,map01100,map01110,map01120,map01130,map01200","M00001,M00549","R02187,R02189",RC00017,"ko00000,ko00001,ko00002,ko01000",-,-,-,ROK
+hypothetical protein_581,2556,-,-,170,2648890,-,-,-,-,-,-,-,-,-,-,-,-,-
+lipid II flippase MurJ,2569,Polysaccharide biosynthesis protein,-,1301,2656914,-,-,-,-,-,-,-,-,-,-,-,-,"Polysacc_synt,Polysacc_synt_C"
+hypothetical protein_588,2573,PIN domain,-,350,2659533,-,-,-,-,-,-,-,-,-,-,-,-,PIN
+hypothetical protein_194,2574,-,-,251,2659921,-,-,-,-,-,-,-,-,-,-,-,-,MazE_antitoxin
+Ribonuclease VapC15,2576,Toxic component of a toxin-antitoxin (TA) module. An RNase,-,401,2661359,-,-,-,-,-,-,-,-,-,-,-,-,PIN
+hypothetical protein_587,2580,Protein of unknown function (DUF2490),-,566,2662735,-,-,-,-,-,-,-,-,-,-,-,-,DUF2490
+putative ABC transporter ATP-binding protein,2581,ABC transporter transmembrane region,-,1799,2663861,-,-,-,ko:K06147,-,-,-,-,"ko00000,ko02000","3.A.1.106,3.A.1.109,3.A.1.21",-,-,"ABC_membrane,ABC_tran"
+hypothetical protein_364,2583,-,-,131,2667452,-,-,-,-,-,-,-,-,-,-,-,-,-
+Protein YffB,2584,Belongs to the ArsC family,-,338,2668038,+,-,-,-,-,-,-,-,-,-,-,-,ArsC
+hypothetical protein_365,2585,-,-,191,2668560,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_342,2606,-,-,218,2688828,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_341,2611,-,-,320,2694736,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_340,2614,PFAM ATP dependent DNA ligase,-,1136,2696081,-,-,6.5.1.1,ko:K07468,-,-,R00381,RC00005,"ko00000,ko01000",-,-,-,RNA_ligase
+hypothetical protein_61,2615,Extracellular solute-binding protein,-,1478,2697419,-,-,-,ko:K02027,-,M00207,-,-,"ko00000,ko00002,ko02000",3.A.1.1,-,-,"SBP_bac_1,SBP_bac_8"
+hypothetical protein_60,2616,CDP-archaeol synthase,-,446,2699169,+,-,2.7.7.67,ko:K19664,"ko00564,map00564",-,R08966,RC00002,"ko00000,ko00001,ko01000",-,-,-,CarS-like
+Ribosomal RNA small subunit methyltransferase J,2618,Specifically methylates the guanosine in position 1516 of 16S rRNA,rsmJ,848,2700824,-,-,2.1.1.242,ko:K15984,-,-,-,-,"ko00000,ko01000,ko03009",-,-,-,SAM_MT
+hypothetical protein_59,2624,FtsX-like permease family,-,2483,2706710,+,-,-,ko:K02004,-,M00258,-,-,"ko00000,ko00002,ko02000",3.A.1,-,-,FtsX
+Putative outer membrane protein,2629,PFAM membrane protein involved in aromatic hydrocarbon degradation,-,1349,2713464,-,-,-,ko:K06076,-,-,-,-,"ko00000,ko02000",1.B.9,-,-,Toluene_X
+hypothetical protein_449,2631,-,-,578,2715787,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_448,2633,"Cytochrome C oxidase, cbb3-type, subunit III",-,548,2716959,+,-,-,-,-,-,-,-,-,-,-,-,Cytochrome_CBB3
+hypothetical protein_296,2638,Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase,-,950,2722855,-,-,-,ko:K03796,-,-,-,-,ko00000,-,GH73,-,Glucosaminidase
+5-formyltetrahydrofolate cyclo-ligase,2640,Belongs to the 5-formyltetrahydrofolate cyclo-ligase family,-,632,2724296,-,-,6.3.3.2,ko:K01934,"ko00670,ko01100,map00670,map01100",-,R02301,RC00183,"ko00000,ko00001,ko01000",-,-,-,5-FTHF_cyc-lig
+hypothetical protein_295,2641,-,-,290,2725284,-,-,-,-,-,-,-,-,-,-,-,-,-
+Uroporphyrinogen-III synthase,2642,Uroporphyrinogen III synthase,-,803,2725636,-,-,4.2.1.75,ko:K01719,"ko00860,ko01100,ko01110,ko01120,map00860,map01100,map01110,map01120",M00121,R03165,RC01861,"ko00000,ko00001,ko00002,ko01000",-,-,-,HEM4
+2-octaprenyl-6-methoxyphenol hydroxylase,2647,"Ubiquinone biosynthesis hydroxylase, UbiH UbiF VisC COQ6",-,1253,2729089,+,-,-,ko:K03185,"ko00130,ko01100,ko01110,map00130,map01100,map01110",M00117,"R04989,R08773",RC02670,"ko00000,ko00001,ko00002,ko01000",-,-,-,FAD_binding_3
+2-octaprenylphenol hydroxylase,2648,"TIGRFAM Ubiquinone biosynthesis hydroxylase, UbiH UbiF VisC COQ6",-,1190,2730339,+,-,-,ko:K18800,"ko00130,ko01100,ko01110,map00130,map01100,map01110",M00117,"R04987,R08768",RC00046,"ko00000,ko00001,ko00002,ko01000",-,-,-,FAD_binding_3
+Putative pre-16S rRNA nuclease,2667,Could be a nuclease involved in processing of the 5'-end of pre-16S rRNA,-,431,2748169,-,-,-,ko:K07447,-,-,-,-,"ko00000,ko01000",-,-,-,RuvX
+hypothetical protein_171,2669,TIGRFAM TonB family protein,-,857,2749240,-,-,-,ko:K03832,-,-,-,-,"ko00000,ko02000",2.C.1.1,-,-,TonB_C
+hypothetical protein_569,2671,Glutamate-cysteine ligase,-,989,2751151,-,-,6.3.2.2,ko:K01919,"ko00270,ko00480,ko01100,map00270,map00480,map01100",M00118,"R00894,R10993","RC00064,RC00090","ko00000,ko00001,ko00002,ko01000",-,-,-,GshA
+hypothetical protein_568,2674,Two component signalling adaptor domain,-,554,2753263,+,-,-,ko:K02659,"ko02020,ko02025,map02020,map02025",-,-,-,"ko00000,ko00001,ko02035,ko02044",-,-,-,CheW
+hypothetical protein_137,2677,CheW-like domain,-,473,2761620,+,-,-,ko:K06598,"ko02020,ko02025,map02020,map02025",-,-,-,"ko00000,ko00001,ko02035",-,-,-,CheW
+Acyl-homoserine-lactone synthase,2687,Autoinducer synthase,-,620,2775105,+,-,2.3.1.184,ko:K13061,"ko00270,ko01100,ko02020,ko02024,ko02025,map00270,map01100,map02020,map02024,map02025",-,"R08939,R08940","RC00021,RC00039","ko00000,ko00001,ko01000",-,-,-,Autoind_synth
+hypothetical protein_138,2688,Diguanylate cyclase,-,2132,2775999,+,-,-,-,-,-,-,-,-,-,-,-,"EAL,GGDEF,PAS,PAS_3,PAS_4,PAS_9"
+Phosphoglycolate phosphatase,2690,"HAD-superfamily hydrolase, subfamily IA, variant 3",gph,689,2778999,+,-,3.1.3.18,ko:K01091,"ko00630,ko01100,ko01110,ko01130,map00630,map01100,map01110,map01130",-,R01334,RC00017,"ko00000,ko00001,ko01000",-,-,-,HAD_2
+hypothetical protein_139,2696,-,-,506,2785286,+,-,-,-,-,-,-,-,-,-,-,-,-
+Thiopurine S-methyltransferase,2698,Belongs to the class I-like SAM-binding methyltransferase superfamily. TPMT family,tpm,659,2787449,+,-,2.1.1.67,ko:K00569,"ko00983,map00983",-,"R08236,R08239,R08246","RC00003,RC00980,RC02277","ko00000,ko00001,ko01000",-,-,-,TPMT
+hypothetical protein_493,2700,YfaZ precursor,-,566,2789049,+,-,-,-,-,-,-,-,-,-,-,-,YfaZ
+hypothetical protein_140,2703,-,-,1052,2791435,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_141,2708,-,-,506,2796555,-,-,-,-,-,-,-,-,-,-,-,-,-
+Ribosomal protein L11 methyltransferase,2715,Ribosomal protein L11 methyltransferase,prmA,923,2804402,+,-,-,ko:K02687,-,-,-,-,"ko00000,ko01000,ko03009",-,-,-,PrmA
+hypothetical protein_89,2721,Diacylglycerol kinase catalytic domain,-,452,2810838,+,-,-,-,-,-,-,-,-,-,-,-,DAGK_cat
+Peptide methionine sulfoxide reductase MsrA,2730,Has an important function as a repair enzyme for proteins that have been inactivated by oxidation. Catalyzes the reversible oxidation-reduction of methionine sulfoxide in proteins to methionine,msrA,515,2818558,+,-,1.8.4.11,ko:K07304,-,-,-,-,"ko00000,ko01000",-,-,-,PMSR
+hypothetical protein_464,2731,COG0526 Thiol-disulfide isomerase and thioredoxins,-,773,2819362,+,-,-,-,-,-,-,-,-,-,-,-,AhpC-TSA
+hypothetical protein_465,2732,HCO3- transporter family,-,1595,2820219,-,-,-,-,-,-,-,-,-,-,-,-,HCO3_cotransp
+Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA,2734,pfam abc,-,743,2822387,+,-,-,ko:K05847,"ko02010,map02010",M00209,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.12,-,-,ABC_tran
+hypothetical protein_578,2735,ABC-type glycine betaine transport system,-,1532,2823127,+,-,-,"ko:K05845,ko:K05846","ko02010,map02010",M00209,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.12,-,-,"BPD_transp_1,OpuAC"
+hypothetical protein_579,2736,IclR helix-turn-helix domain,-,647,2824678,-,-,-,-,-,-,-,-,-,-,-,-,HTH_24
+Fatty acid resistance protein FarB,2737,Major facilitator superfamily,-,1616,2825984,+,-,-,ko:K03446,-,M00701,-,-,"ko00000,ko00002,ko02000",2.A.1.3,-,-,MFS_1
+Outer membrane protein OprM,2738,PFAM Outer membrane efflux protein,-,1547,2827597,+,-,-,-,-,-,-,-,-,-,-,-,OEP
+Multidrug export protein EmrA,2739,"Secretion protein, HlyD",-,1115,2829206,+,-,-,ko:K03543,-,M00701,-,-,"ko00000,ko00002,ko02000",8.A.1.1,-,-,HlyD_D23
+hypothetical protein_302,2748,exo-alpha-(2->6)-sialidase activity,-,1418,2841380,+,-,-,-,-,-,-,-,-,-,-,-,-
+Thiol-disulfide oxidoreductase ResA,2749,Thioredoxin-like,-,542,2842795,+,-,-,-,-,-,-,-,-,-,-,-,AhpC-TSA
+hypothetical protein_196,2762,PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides,-,629,2854879,+,-,5.2.1.8,ko:K03768,-,-,-,-,"ko00000,ko01000,ko03110",-,-,-,Pro_isomerase
+hypothetical protein_280,2763,Putative MetA-pathway of phenol degradation,-,860,2855533,+,-,-,-,-,-,-,-,-,-,-,-,Phenol_MetA_deg
+hypothetical protein_279,2766,CsbD-like,yjbJ,308,2858074,+,-,-,-,-,-,-,-,-,-,-,-,CsbD
+Vitamin B12 import ATP-binding protein BtuD,2768,Part of the ABC transporter complex ModABC involved in molybdenum import. Responsible for energy coupling to the transport system,modC,1061,2859403,+,-,3.6.3.29,ko:K02017,"ko02010,map02010",M00189,-,-,"ko00000,ko00001,ko00002,ko01000,ko02000",3.A.1.8,-,-,"ABC_tran,TOBE"
+hypothetical protein_201,2769,-,-,167,2860740,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_278,2770,-,-,248,2861016,-,-,-,-,-,-,-,-,-,-,-,-,-
+Molybdenum-pterin-binding protein MopA,2771,"Transcriptional regulator, ModE family",-,809,2862045,-,-,-,ko:K02019,-,-,-,-,"ko00000,ko03000",-,-,-,"HTH_1,TOBE"
+Cyclic di-GMP phosphodiesterase CdgJ,2773,EAL domain,-,995,2863905,-,-,-,-,-,-,-,-,-,-,-,-,"EAL,HDOD"
+hypothetical protein_24,2779,ribosome binding,-,263,2868915,+,-,-,-,-,-,-,-,-,-,-,-,DUF883
+hypothetical protein_23,2780,-,-,440,2869184,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_277,2781,-,-,323,2869590,+,-,-,-,-,-,-,-,-,-,-,-,-
+Outer membrane protein TolC,2784,"type I secretion outer membrane protein, TolC",-,1397,2872891,+,-,-,ko:K12340,"ko01501,ko01503,ko02020,ko03070,ko04626,ko05133,map01501,map01503,map02020,map03070,map04626,map05133","M00325,M00326,M00339,M00571,M00575,M00646,M00647,M00696,M00697,M00709,M00720,M00821",-,-,"ko00000,ko00001,ko00002,ko01504,ko02000,ko02044","1.B.17,2.A.6.2",-,-,OEP
+3-deoxy-D-manno-octulosonic acid transferase,2785,PFAM Three-deoxy-D-manno-octulosonic-acid transferase,-,1310,2874263,-,-,"2.4.99.12,2.4.99.13,2.4.99.14,2.4.99.15",ko:K02527,"ko00540,ko01100,map00540,map01100","M00060,M00080","R04658,R05074,R09763","RC00009,RC00077,RC00247","ko00000,ko00001,ko00002,ko01000,ko01003,ko01005",-,GT30,-,"Glycos_transf_1,Glycos_transf_N,Kdo"
+hypothetical protein_312,2796,Antitoxin component of a toxin-antitoxin (TA) module,-,257,2883151,+,-,-,-,-,-,-,-,-,-,-,-,PhdYeFM_antitox
+Vitamin B12 transporter BtuB_514,2797,receptor,-,2081,2884191,+,-,-,ko:K02014,-,-,-,-,"ko00000,ko02000",1.B.14,-,-,"Plug,TonB_dep_Rec"
+hypothetical protein_513,2800,leucine binding,-,3149,2888801,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_208,2807,cytochrome c5,cyc,491,2894133,+,-,1.9.3.1,ko:K02277,"ko00190,ko01100,map00190,map01100",M00155,-,-,"ko00000,ko00001,ko00002,ko01000",3.D.4.4,-,-,Cytochrome_CBB3
+hypothetical protein_102,2809,-,-,239,2895727,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_420,2812,Hemin uptake protein hemP,-,194,2898127,-,-,-,-,-,-,-,-,-,-,-,-,hemP
+hypothetical protein_421,2813,-,-,419,2898494,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_101,2814,-,-,635,2899025,+,-,-,-,-,-,-,-,-,-,-,-,-
+Kynureninase,2815,Aminotransferase class-V,-,1241,2899694,-,-,-,-,-,-,-,-,-,-,-,-,Aminotran_5
+Isoaspartyl peptidase,2816,Asparaginase,-,911,2901038,+,-,3.4.19.5,ko:K13051,-,-,-,-,"ko00000,ko01000,ko01002",-,-,-,Asparaginase_2
+"Tryptophan 2,3-dioxygenase",2817,Heme-dependent dioxygenase that catalyzes the oxidative cleavage of the L-tryptophan (L-Trp) pyrrole ring and converts L- tryptophan to N-formyl-L-kynurenine. Catalyzes the oxidative cleavage of the indole moiety,kynA,902,2901971,-,-,1.13.11.11,ko:K00453,"ko00380,ko01100,map00380,map01100",M00038,R00678,RC00356,"ko00000,ko00001,ko00002,ko01000",-,-,-,Trp_dioxygenase
+hypothetical protein_422,2821,"Interacts with outer membrane receptor proteins that carry out high-affinity binding and energy dependent uptake into the periplasmic space of specific substrates. It could act to transduce energy from the cytoplasmic membrane to specific energy- requiring processes in the outer membrane, resulting in the release into the periplasm of ligands bound by these outer membrane proteins",-,785,2906687,+,-,-,ko:K03832,-,-,-,-,"ko00000,ko02000",2.C.1.1,-,-,TonB_C
+Tol-Pal system protein TolQ,2822,MotA TolQ ExbB proton channel,-,761,2907482,+,-,-,ko:K03561,-,-,-,-,"ko00000,ko02000",1.A.30.2.1,-,-,MotA_ExbB
+Tol-Pal system protein TolR,2823,biopolymer transport protein,exbD1,503,2908247,+,-,-,"ko:K03559,ko:K03560",-,-,-,-,"ko00000,ko02000","1.A.30.2.1,1.A.30.2.2",-,-,ExbD
+hypothetical protein_233,2824,nuclease,-,539,2909255,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_193,2827,Polyketide cyclase / dehydrase and lipid transport,-,419,2911304,-,-,-,-,-,-,-,-,-,-,-,-,Polyketide_cyc2
+Peptidoglycan-associated lipoprotein,2829,Belongs to the ompA family,-,791,2917772,-,-,-,-,-,-,-,-,-,-,-,-,"DUF4398,OmpA"
+hypothetical protein_258,2830,Domain of unknown function (DUF4398),-,386,2918560,-,-,-,-,-,-,-,-,-,-,-,-,DUF4398
+Glutamate racemase,2831,Provides the (R)-glutamate required for cell wall biosynthesis,murI,854,2919125,-,-,5.1.1.3,ko:K01776,"ko00471,ko01100,map00471,map01100",-,R00260,RC00302,"ko00000,ko00001,ko01000,ko01011",-,-,-,Asp_Glu_race
+hypothetical protein_10,2832,Class II Aldolase and Adducin N-terminal domain,-,653,2920023,-,-,-,-,-,-,-,-,-,-,-,-,Aldolase_II
+hypothetical protein_259,2833,-,-,575,2920743,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_11,2835,transport system,-,2897,2922416,+,-,-,ko:K01992,-,M00254,-,-,"ko00000,ko00002,ko02000",3.A.1,-,-,"ABC2_membrane_2,ABC_transp_aux"
+hypothetical protein_12,2836,Domain of unknown function (DUF4340),-,986,2925316,+,-,-,-,-,-,-,-,-,-,-,-,DUF4340
+Putative phospholipase A1,2837,PFAM phospholipase A1,-,1184,2926302,+,-,"3.1.1.32,3.1.1.4",ko:K01058,"ko00564,ko00565,ko00590,ko00591,ko00592,ko01100,ko01110,map00564,map00565,map00590,map00591,map00592,map01100,map01110",-,"R01315,R01316,R01317,R02053,R02054,R04034,R07064,R07379,R07387,R07859,R07860","RC00020,RC00037,RC00041,RC00094","ko00000,ko00001,ko01000",-,-,-,PLA1
+Ferredoxin 1,2838,Ferredoxins are iron-sulfur proteins that transfer electrons in a wide variety of metabolic reactions,-,323,2927556,-,-,-,ko:K05524,-,-,-,-,ko00000,-,-,-,"DUF3470,Fer4"
+hypothetical protein_13,2839,protein SCO1 SenC PrrC involved in biogenesis of respiratory and photosynthetic systems,-,569,2927983,-,-,-,ko:K07152,-,-,-,-,"ko00000,ko03029",-,-,-,"SCO1-SenC,ZnuA"
+hypothetical protein_14,2840,Metallo-beta-lactamase superfamily,-,608,2928965,+,-,-,-,-,-,-,-,-,-,-,-,Lactamase_B_5
+hypothetical protein_567,2843,-,-,224,2931106,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_566,2845,-,-,191,2931782,+,-,-,-,-,-,-,-,-,-,-,-,-
+putative lipoprotein YiaD,2848,Belongs to the ompA family,-,659,2934376,+,-,-,-,-,-,-,-,-,-,-,-,"Gly-zipper_Omp,OmpA"
+hypothetical protein_301,2852,AIG2-like family,-,554,2938566,+,-,-,-,-,-,-,-,-,-,-,-,AIG2_2
+hypothetical protein_456,2856,PFAM Outer membrane lipoprotein Slp,-,539,2943511,+,-,-,ko:K07285,-,-,-,-,ko00000,-,-,-,Slp
+Virginiamycin B lyase_457,2861,COG4257 Streptogramin lyase,-,1880,2947498,-,-,-,-,-,-,-,-,-,-,-,-,CarboxypepD_reg
+RNA polymerase-associated protein RapA,2865,"Transcription regulator that activates transcription by stimulating RNA polymerase (RNAP) recycling in case of stress conditions such as supercoiled DNA or high salt concentrations. Probably acts by releasing the RNAP, when it is trapped or immobilized on tightly supercoiled DNA. Does not activate transcription on linear DNA. Probably not involved in DNA repair",-,788,2954442,+,-,-,-,-,-,-,-,-,-,-,-,"Helicase_C,ResIII,SNF2_N"
+hypothetical protein_537,2869,-,-,404,2957011,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_637,2874,Rossmann fold nucleotide-binding protein involved in DNA uptake,-,1373,2966772,+,-,-,-,-,-,-,-,-,-,-,-,DNA_processg_A
+Antitoxin HigA,2875,"TIGRFAM Addiction module antidote protein, HigA",higA,266,2968343,+,-,-,ko:K21498,-,-,-,-,"ko00000,ko02048",-,-,-,HTH_3
+hypothetical protein_227,2883,PFAM Glutathione S-transferase domain,yibF,170,2972343,+,-,-,-,-,-,-,-,-,-,-,-,"GST_C_2,GST_N_3"
+hypothetical protein_260,2886,ribonuclease BN,-,1400,2973937,-,-,-,ko:K07058,-,-,-,-,ko00000,-,-,-,"Rrf2,Virul_fac_BrkB"
+hypothetical protein_166,2890,ABC-type transport auxiliary lipoprotein component,-,629,2979521,-,-,-,ko:K18480,-,M00669,-,-,"ko00000,ko00002,ko02000",3.A.1.27.1,-,-,ABC_trans_aux
+hypothetical protein_167,2891,PFAM Mammalian cell entry related domain protein,-,914,2980175,-,-,-,ko:K02067,"ko02010,map02010","M00210,M00669,M00670",-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.27,-,-,MlaD
+Bacterioferritin,2895,"Iron-storage protein, whose ferroxidase center binds Fe(2 ) ions, oxidizes them by dioxygen to Fe(3 ), and participates in the subsequent Fe(3 ) oxide mineral core formation within the central cavity of the protein complex",-,464,2985129,+,-,1.16.3.1,ko:K03594,"ko00860,map00860",-,R00078,RC02758,"ko00000,ko00001,ko01000",-,-,-,Ferritin
+putative M18 family aminopeptidase 2,2896,M18 family aminopeptidase,apeB,1307,2985748,+,"GO:0003674,GO:0003824,GO:0004177,GO:0005488,GO:0006508,GO:0006807,GO:0008150,GO:0008152,GO:0008233,GO:0008238,GO:0008270,GO:0016787,GO:0019538,GO:0043167,GO:0043169,GO:0043170,GO:0044238,GO:0046872,GO:0046914,GO:0070011,GO:0071704,GO:0140096,GO:1901564",3.4.11.21,ko:K01267,-,-,-,-,"ko00000,ko01000,ko01002,ko04131",-,-,-,Peptidase_M18
+Bifunctional ligase/repressor BirA,2897,"Acts both as a biotin-- acetyl-CoA-carboxylase ligase and a biotin-operon repressor. In the presence of ATP, BirA activates biotin to form the BirA-biotinyl-5'-adenylate (BirA-bio- 5'-AMP or holoBirA) complex. HoloBirA can either transfer the biotinyl moiety to the biotin carboxyl carrier protein (BCCP) subunit of acetyl-CoA carboxylase, or bind to the biotin operator site and inhibit transcription of the operon",birA,998,2987066,+,-,6.3.4.15,ko:K03524,"ko00780,ko01100,map00780,map01100",-,"R01074,R05145","RC00043,RC00070,RC00096,RC02896","ko00000,ko00001,ko01000,ko03000",-,-,-,"BPL_C,BPL_LplA_LipB,HTH_11"
+Type III pantothenate kinase,2898,"Catalyzes the phosphorylation of pantothenate (Pan), the first step in CoA biosynthesis",coaX,752,2988061,+,-,2.7.1.33,ko:K03525,"ko00770,ko01100,map00770,map01100",M00120,"R02971,R03018,R04391","RC00002,RC00017","ko00000,ko00001,ko00002,ko01000",-,-,-,Pan_kinase
+hypothetical protein_356,2903,Parallel beta-helix repeats,-,1343,2991552,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_261,2904,Diguanylate cyclase,-,2837,2993485,+,-,-,-,-,-,-,-,-,-,-,-,"CHASE,EAL,GGDEF,MASE1"
+hypothetical protein_218,2917,"TIGRFAM CRISPR-associated protein, NE0113",-,1160,3008323,-,-,-,-,-,-,-,-,-,-,-,-,Cas_NE0113
+hypothetical protein_170,2918,-,-,314,3009664,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_565,2919,COG1012 NAD-dependent aldehyde dehydrogenases,-,1736,3010106,-,-,-,-,-,-,-,-,-,-,-,-,Aldedh
+hypothetical protein_527,2920,PFAM blue (type 1) copper domain protein,-,419,3012053,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_526,2921,Domain of unknown function (DUF3943),VP1938,899,3012552,-,-,-,-,-,-,-,-,-,-,-,-,"DUF3943,OMP_b-brl"
+Putative acyl-CoA dehydrogenase YdbM,2923,acyl-CoA dehydrogenase activity,-,1217,3014367,-,-,1.14.14.30,ko:K21281,-,-,-,-,"ko00000,ko01000",-,-,-,"Acyl-CoA_dh_1,Acyl-CoA_dh_2,Acyl-CoA_dh_M,Acyl-CoA_dh_N"
+hypothetical protein_525,2924,fatty acid desaturase,-,1055,3015700,-,-,-,-,-,-,-,-,-,-,-,-,NAD_binding_4
+hypothetical protein_238,2925,Polyketide cyclase / dehydrase and lipid transport,-,440,3016752,-,-,-,-,-,-,-,-,-,-,-,-,Polyketide_cyc
+Putrescine aminotransferase,2926,PFAM Aminotransferase class-III,argD,1244,3017207,-,-,-,-,-,-,-,-,-,-,-,-,Aminotran_3
+Protein adenylyltransferase SelO,2927,Belongs to the UPF0061 (SELO) family,-,1634,3018852,-,-,-,-,-,-,-,-,-,-,-,-,UPF0061
+hypothetical protein_176,2930,-,-,578,3023535,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_177,2931,Uncharacterized conserved protein (DUF2183),-,1199,3024268,-,-,-,-,-,-,-,-,-,-,-,-,DUF2183
+Cobalt/magnesium transport protein CorA,2932,Mediates influx of magnesium ions,corA,965,3025706,-,-,-,ko:K03284,-,-,-,-,"ko00000,ko02000","1.A.35.1,1.A.35.3",-,-,CorA
+Fatty acid oxidation complex subunit alpha,2935,Enoyl-CoA hydratase isomerase family,-,2915,3029236,-,-,"1.1.1.35,4.2.1.17,5.1.2.3","ko:K01782,ko:K07516","ko00071,ko00280,ko00281,ko00310,ko00362,ko00380,ko00410,ko00640,ko00650,ko00903,ko00930,ko01040,ko01100,ko01110,ko01120,ko01130,ko01200,ko01212,map00071,map00280,map00281,map00310,map00362,map00380,map00410,map00640,map00650,map00903,map00930,map01040,map01100,map01110,map01120,map01130,map01200,map01212","M00032,M00087","R01975,R03026,R03045,R03276,R04137,R04170,R04203,R04204,R04224,R04737,R04738,R04739,R04740,R04741,R04743,R04744,R04745,R04746,R04748,R04749,R05066,R05305,R06411,R06412,R06941,R06942,R07935,R07951,R08093,R08094","RC00029,RC00099,RC00117,RC00241,RC00525,RC00831,RC00834,RC00896,RC01086,RC01095,RC01098,RC01103,RC01217,RC02115","ko00000,ko00001,ko00002,ko01000",-,-,-,ECH_1
+D-inositol-3-phosphate glycosyltransferase_200,2940,glycosyl transferase group 1,-,1112,3036682,+,-,-,-,-,-,-,-,-,-,-,-,"Glyco_trans_4_4,Glyco_transf_4,Glycos_transf_1"
+hypothetical protein_521,2945,endonuclease containing a URI domain,-,296,3040961,-,-,-,ko:K07461,-,-,-,-,ko00000,-,-,-,GIY-YIG
+hypothetical protein_419,2950,-,-,395,3044451,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_100,2952,Belongs to the short-chain dehydrogenases reductases (SDR) family,-,848,3045542,+,-,-,-,-,-,-,-,-,-,-,-,adh_short
+hypothetical protein_99,2953,Aspartyl Asparaginyl beta-hydroxylase,-,806,3046433,+,-,-,ko:K12979,-,-,-,-,"ko00000,ko01000,ko01005",-,-,-,Asp_Arg_Hydrox
+hypothetical protein_210,2961,Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),-,212,3057818,+,-,1.1.1.100,ko:K00059,"ko00061,ko00333,ko00780,ko01040,ko01100,ko01130,ko01212,map00061,map00333,map00780,map01040,map01100,map01130,map01212","M00083,M00572","R04533,R04534,R04536,R04543,R04566,R04953,R04964,R07759,R07763,R10116,R10120,R11671","RC00029,RC00117","ko00000,ko00001,ko00002,ko01000,ko01004",-,-,-,"adh_short,adh_short_C2"
+hypothetical protein_638,2962,-,-,620,3058008,-,-,-,-,-,-,-,-,-,-,-,-,-
+L-lactate dehydrogenase,2970,COG1304 L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy acid dehydrogenases,-,1154,3063845,-,-,1.1.2.3,ko:K00101,"ko00620,ko01100,map00620,map01100",-,R00196,RC00044,"ko00000,ko00001,ko01000",-,-,-,FMN_dh
+"Toluene 1,2-dioxygenase system ferredoxin subunit",2973,PFAM Rieske 2Fe-2S,-,320,3067979,+,-,-,ko:K05710,"ko00360,ko01120,ko01220,map00360,map01120,map01220",M00545,"R06782,R06783",RC00098,"br01602,ko00000,ko00001,ko00002",-,-,-,Rieske
+hypothetical protein_418,2974,-,-,245,3068317,+,-,-,-,-,-,-,-,-,-,-,-,-
+Na(+)/H(+) antiporter subunit E1,2979,"'subunit E of antiporter complex involved in resistance to high concentrations of Na , K , Li and or alkali",phaE,488,3070812,-,-,-,ko:K05562,-,-,-,-,"ko00000,ko02000",2.A.63.1,-,-,MNHE
+hypothetical protein_485,2988,Esterase-like activity of phytase,-,596,3084929,-,-,-,-,-,-,-,-,-,-,-,-,"CHRD,Phytase-like"
+putative type I restriction enzymeP M protein,2991,Putative RNA methylase family UPF0020,-,1445,3086702,-,-,2.1.1.72,ko:K03427,-,-,-,-,"ko00000,ko01000,ko02048",-,-,-,"HsdM_N,N6_Mtase"
+hypothetical protein_209,2992,Virulence protein RhuM family,-,155,3088160,-,-,-,-,-,-,-,-,-,-,-,-,"Fic,Virulence_RhuM"
+REP-associated tyrosine transposase,2993,Transposase IS200 like,-,518,3088306,-,-,-,ko:K07491,-,-,-,-,ko00000,-,-,-,Y1_Tnp
+hypothetical protein_484,2996,EcoEI R protein C-terminal,-,2765,3090675,-,-,3.1.21.3,ko:K01153,-,-,-,-,"ko00000,ko01000,ko02048",-,-,-,"EcoEI_R_C,Helicase_C,ResIII"
+Acryloyl-CoA reductase (NADH),3007,acyl-CoA dehydrogenase,acdA,266,3101688,-,-,1.3.8.1,ko:K00248,"ko00071,ko00280,ko00650,ko01100,ko01110,ko01120,ko01200,ko01212,map00071,map00280,map00650,map01100,map01110,map01120,map01200,map01212",-,"R01175,R01178,R02661,R03172,R04751","RC00052,RC00068,RC00076,RC00120,RC00148","ko00000,ko00001,ko01000",-,-,-,"Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N"
+hypothetical protein_161,3012,-,-,461,3106549,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_552,3017,-,-,1163,3112014,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_204,3036,carboxysome shell protein,-,317,3128118,+,-,-,-,-,-,-,-,-,-,-,-,BMC
+hypothetical protein_639,3039,"Iron-storage protein, whose ferroxidase center binds Fe(2 ) ions, oxidizes them by dioxygen to Fe(3 ), and participates in the subsequent Fe(3 ) oxide mineral core formation within the central cavity of the protein complex",-,566,3129064,+,-,1.16.3.1,ko:K03594,"ko00860,map00860",-,R00078,RC02758,"ko00000,ko00001,ko01000",-,-,-,Ferritin
+hypothetical protein_640,3040,pterin-4-alpha-carbinolamine dehydratase,-,263,3129575,+,-,4.2.1.96,ko:K01724,"ko00790,map00790",-,R04734,RC01208,"ko00000,ko00001,ko01000,ko04147",-,-,-,"Pterin_4a,TIR_2"
+hypothetical protein_641,3041,-,-,266,3129853,+,-,-,-,-,-,-,-,-,-,-,-,-
+"NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic",3043,"NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminus",-,1676,3130645,+,-,1.6.5.3,ko:K00341,"ko00190,ko01100,map00190,map01100",M00144,R11945,RC00061,"ko00000,ko00001,ko00002,ko01000",3.D.1,-,-,"Proton_antipo_M,Proton_antipo_N"
+hypothetical protein_642,3044,-,-,749,3132324,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_643,3045,Belongs to the UPF0753 family,-,3116,3133070,+,-,-,ko:K09822,-,-,-,-,ko00000,-,-,-,DUF2309
+hypothetical protein_644,3046,Belongs to the P(II) protein family,-,326,3136183,+,-,-,-,-,-,-,-,-,-,-,-,P-II
+hypothetical protein_32,3060,PFAM Isochorismatase,-,548,3143723,+,-,-,-,-,-,-,-,-,-,-,-,Isochorismatase
+hypothetical protein_300,3066,Domain of unknown function (DUF4124),-,470,3148901,-,-,-,-,-,-,-,-,-,-,-,-,DUF4124
+Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase,3075,COG1807 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family,-,1616,3157361,-,-,-,-,-,-,-,-,-,-,-,-,PMT_2
+DNA polymerase III subunit chi,3079,DNA polymerase III chi subunit,holC,434,3163025,-,"GO:0005575,GO:0005622,GO:0005623,GO:0006275,GO:0008150,GO:0009314,GO:0009360,GO:0009628,GO:0009889,GO:0009891,GO:0009893,GO:0010556,GO:0010557,GO:0010604,GO:0019219,GO:0019222,GO:0030174,GO:0031323,GO:0031325,GO:0031326,GO:0031328,GO:0032298,GO:0032991,GO:0042575,GO:0043846,GO:0043847,GO:0044424,GO:0044464,GO:0045740,GO:0045935,GO:0048518,GO:0048522,GO:0050789,GO:0050794,GO:0050896,GO:0051052,GO:0051054,GO:0051171,GO:0051173,GO:0060255,GO:0061695,GO:0065007,GO:0080090,GO:0090329,GO:1902494,GO:1990234,GO:2000105,GO:2000112",2.7.7.7,ko:K02339,"ko00230,ko00240,ko01100,ko03030,ko03430,ko03440,map00230,map00240,map01100,map03030,map03430,map03440",M00260,"R00375,R00376,R00377,R00378",RC02795,"ko00000,ko00001,ko00002,ko01000,ko03032,ko03400",-,-,-,DNA_pol3_chi
+Lipopolysaccharide export system permease protein LptG_294,3082,Permease YjgP YjgQ,-,1076,3166218,+,-,-,ko:K11720,"ko02010,map02010",M00320,-,-,"ko00000,ko00001,ko00002,ko02000",1.B.42.1,-,-,YjgP_YjgQ
+hypothetical protein_293,3083,RDD family,-,476,3167301,-,-,-,-,-,-,-,-,-,-,-,-,RDD
+hypothetical protein_560,3104,Beta-lactamase domain protein,-,1073,3188380,+,-,2.5.1.105,ko:K06897,"ko00790,map00790",-,R10339,RC00121,"ko00000,ko00001,ko01000",-,-,-,Lactamase_B
+hypothetical protein_241,3105,PFAM sodium calcium exchanger,-,1025,3189719,+,-,-,ko:K07301,-,-,-,-,"ko00000,ko02000",2.A.19.5,-,-,Na_Ca_ex
+hypothetical protein_559,3106,Domain of unknown function (DUF4168),-,335,3190854,-,-,-,-,-,-,-,-,-,-,-,-,DUF4168
+hypothetical protein_645,3107,"Monooxygenase, FAD-binding",-,686,3191454,+,-,-,-,-,-,-,-,-,-,-,-,FAD_binding_3
+Cell division coordinator CpoB,3154,Mediates coordination of peptidoglycan synthesis and outer membrane constriction during cell division,cpoB,878,3251553,-,-,-,-,-,-,-,-,-,-,-,-,"TPR_16,TPR_6,TolA_bind_tri,YfiO"
+Acyl-CoA thioester hydrolase YbgC,3160,Tol-Pal system-associated acyl-CoA thioesterase,-,449,3256430,-,-,-,ko:K07107,-,-,-,-,"ko00000,ko01000",-,-,-,"4HBT,4HBT_2"
+LPS-assembly protein LptD,3161,"Together with LptE, is involved in the assembly of lipopolysaccharide (LPS) at the surface of the outer membrane",lptD,2306,3257225,+,-,-,ko:K04744,-,-,-,-,"ko00000,ko02000",1.B.42.1,-,-,"OstA,OstA_C"
+Chaperone SurA,3162,"Chaperone involved in the correct folding and assembly of outer membrane proteins. Recognizes specific patterns of aromatic residues and the orientation of their side chains, which are found more frequently in integral outer membrane proteins. May act in both early periplasmic and late outer membrane-associated steps of protein maturation",surA,1292,3259709,+,-,5.2.1.8,ko:K03771,-,-,-,-,"ko00000,ko01000,ko03110",-,-,-,"Rotamase,SurA_N"
+Ribosomal RNA small subunit methyltransferase A,3164,Specifically dimethylates two adjacent adenosines (A1518 and A1519) in the loop of a conserved hairpin near the 3'-end of 16S rRNA in the 30S particle. May play a critical role in biogenesis of 30S subunits,ksgA,815,3262036,+,-,2.1.1.182,ko:K02528,-,-,R10716,"RC00003,RC03257","ko00000,ko01000,ko03009",-,-,-,RrnaAD
+N-acetylmuramate/N-acetylglucosamine kinase,3167,PFAM Aminoglycoside phosphotransferase,-,1022,3264455,+,-,2.7.1.221,ko:K07102,"ko00520,ko01100,map00520,map01100",-,"R08968,R11024","RC00002,RC00078","ko00000,ko00001,ko01000",-,-,-,APH
+hypothetical protein_275,3169,Sulfotransferase family,-,956,3266213,-,-,-,-,-,-,-,-,-,-,-,-,Sulfotransfer_3
+Tol-Pal system protein TolR_607,3185,PFAM Biopolymer transport protein ExbD TolR,-,401,3282910,+,-,-,ko:K03559,-,-,-,-,"ko00000,ko02000",1.A.30.2.1,-,-,ExbD
+"2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial",3197,COG0500 SAM-dependent methyltransferases,-,614,3305133,-,-,-,-,-,-,-,-,-,-,-,-,"Methyltransf_11,Methyltransf_23"
+Primosomal replication protein N,3205,Binds single-stranded DNA at the primosome assembly site (PAS),priB,353,3310973,+,-,-,ko:K02686,"ko03440,map03440",-,-,-,"ko00000,ko00001,ko03400",-,-,-,SSB
+hypothetical protein_191,3207,membrane,-,881,3311600,+,-,-,-,-,-,-,-,-,-,-,-,DUF2232
+Trigger factor,3217,Involved in protein export. Acts as a chaperone by maintaining the newly synthesized protein in an open conformation. Functions as a peptidyl-prolyl cis-trans isomerase,tig,1361,3317804,+,"GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",-,ko:K03545,-,-,-,-,ko00000,-,-,-,"FKBP_C,Trigger_C,Trigger_N"
+Peptidyl-prolyl cis-trans isomerase D,3224,peptidylprolyl isomerase,-,1937,3324929,+,-,5.2.1.8,ko:K03770,-,-,-,-,"ko00000,ko01000,ko03110",-,-,-,"Rotamase,Rotamase_2,SurA_N_3"
+hypothetical protein_606,3227,"Cytochrome C oxidase, cbb3-type, subunit III",-,878,3329911,+,-,-,ko:K02305,"ko00910,ko01120,map00910,map01120",M00529,R00294,RC02794,"ko00000,ko00001,ko00002",3.D.4.10,-,-,Cytochrom_C
+Respiratory nitrate reductase 1 alpha chain,3228,Belongs to the prokaryotic molybdopterin-containing oxidoreductase family,-,3656,3330859,+,-,1.7.5.1,ko:K00370,"ko00910,ko01120,ko02020,map00910,map01120,map02020","M00529,M00530,M00804","R00798,R01106,R09497",RC02812,"ko00000,ko00001,ko00002,ko01000",5.A.3.1,-,-,"Molybdopterin,Molydop_binding,Nitr_red_alph_N"
+Respiratory nitrate reductase 1 beta chain,3229,4Fe-4S dicluster domain,-,1538,3334596,+,-,-,-,-,-,-,-,-,-,-,-,Fer4_11
+hypothetical protein_163,3230,nitrate reductase molybdenum cofactor assembly chaperone,-,794,3336136,+,-,-,ko:K00373,"ko02020,map02020",-,-,-,"ko00000,ko00001",-,-,-,Nitrate_red_del
+Nitrate reductase-like protein NarX,3231,"nitrate reductase, gamma subunit",narI,689,3336943,+,"GO:0003674,GO:0003824,GO:0005488,GO:0005575,GO:0005623,GO:0005886,GO:0005887,GO:0006091,GO:0008150,GO:0008152,GO:0008940,GO:0009055,GO:0009061,GO:0009325,GO:0009987,GO:0015980,GO:0016020,GO:0016021,GO:0016491,GO:0016661,GO:0019645,GO:0020037,GO:0022900,GO:0022904,GO:0031224,GO:0031226,GO:0032991,GO:0044237,GO:0044425,GO:0044459,GO:0044464,GO:0044799,GO:0045333,GO:0046906,GO:0048037,GO:0055114,GO:0070469,GO:0070470,GO:0071944,GO:0097159,GO:0098796,GO:0098797,GO:0098803,GO:1901363,GO:1902494,GO:1990204",1.7.5.1,ko:K00374,"ko00910,ko01120,ko02020,map00910,map01120,map02020","M00529,M00530","R00798,R01106,R09497",RC02812,"ko00000,ko00001,ko00002,ko01000",5.A.3.1,-,"iEC042_1314.EC042_1594,iECABU_c1320.ECABU_c17020,iECUMN_1333.ECUMN_1718,iSF_1195.SF1230,ic_1306.c1897",Nitrate_red_gam
+DNA polymerase III subunit epsilon,3232,"DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. The epsilon subunit contain the editing function and is a proofreading 3'-5' exonuclease",-,584,3337962,+,-,-,-,-,-,-,-,-,-,-,-,RNase_T
+hypothetical protein_162,3233,PFAM Alpha beta hydrolase,-,1019,3338779,-,-,-,ko:K07019,-,-,-,-,ko00000,-,-,-,"Abhydrolase_1,Hydrolase_4"
+15-cis-phytoene synthase,3251,Squalene phytoene synthase,-,854,3359023,-,-,"2.5.1.32,2.5.1.99",ko:K02291,"ko00906,ko01062,ko01100,ko01110,map00906,map01062,map01100,map01110",M00097,"R02065,R04218,R07270,R10177","RC00362,RC01101,RC02869","ko00000,ko00001,ko00002,ko01000,ko01006",-,-,-,SQS_PSY
+N-acetylmuramic acid 6-phosphate phosphatase,3252,"HAD-superfamily hydrolase, subfamily IA, variant 1",-,740,3360020,-,-,3.1.3.105,ko:K22292,"ko00520,map00520",-,R11785,RC00017,"ko00000,ko00001,ko01000",-,-,-,HAD_2
+Lipopolysaccharide assembly protein A,3268,Lipopolysaccharide assembly protein A domain,lapA,296,3378305,+,-,-,ko:K08992,-,-,-,-,ko00000,-,-,-,LapA_dom
+hypothetical protein_593,3270,photosystem II stabilization,ybaV,260,3379631,+,"GO:0005575,GO:0005623,GO:0030288,GO:0030313,GO:0031975,GO:0042597,GO:0044464",3.1.26.11,"ko:K00784,ko:K02237","ko03013,map03013",M00429,-,-,"ko00000,ko00001,ko00002,ko01000,ko02044,ko03016","3.A.11.1,3.A.11.2",-,-,HHH_3
+hypothetical protein_243,3272,EF-hand domain pair,-,323,3381442,+,-,-,-,-,-,-,-,-,-,-,-,EF-hand_5
+hypothetical protein_592,3273,gag-polyprotein putative aspartyl protease,-,497,3381825,-,-,-,-,-,-,-,-,-,-,-,-,gag-asp_proteas
+hypothetical protein_591,3274,-,-,230,3383109,+,-,-,-,-,-,-,-,-,-,-,-,-
+Superoxide dismutase [Cu-Zn] 1,3275,Copper/zinc superoxide dismutase (SODC),-,524,3383563,-,-,1.15.1.1,ko:K04565,"ko04146,ko04213,ko05014,ko05016,ko05020,map04146,map04213,map05014,map05016,map05020",-,-,-,"ko00000,ko00001,ko01000",-,-,-,Sod_Cu
+GTPase Der,3295,GTP-binding protein,-,1529,3400945,-,-,-,-,-,-,-,-,-,-,-,-,"DUF3482,MMR_HSR1"
+hypothetical protein_92,3296,Protein of unknown function (DUF2868),-,1550,3402474,-,-,-,-,-,-,-,-,-,-,-,-,DUF2868
+hypothetical protein_387,3299,Transposase and inactivated derivatives,-,344,3405406,-,-,-,-,-,-,-,-,-,-,-,-,-
+Antitoxin VapB33,3303,-,-,278,3408154,+,"GO:0008150,GO:0040008,GO:0045927,GO:0048518,GO:0050789,GO:0065007",-,-,-,-,-,-,-,-,-,-,-
+Ribonuclease VapC33,3304,PIN domain,-,434,3408429,+,-,-,-,-,-,-,-,-,-,-,-,PIN
+hypothetical protein_646,3305,-,-,131,3408934,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_385,3306,"PFAM glycoside hydrolase, family 77",-,5135,3409150,-,-,2.4.1.25,ko:K00705,"ko00500,ko01100,map00500,map01100",-,R05196,RC00049,"ko00000,ko00001,ko01000",-,GH77,-,Glyco_hydro_77
+Trans-aconitate 2-methyltransferase_386,3312,methyltransferase,-,632,3426039,+,-,-,-,-,-,-,-,-,-,-,-,"Methyltransf_11,Methyltransf_23,Methyltransf_25,Methyltransf_31"
+ATP-dependent dethiobiotin synthetase BioD,3313,"Catalyzes a mechanistically unusual reaction, the ATP- dependent insertion of CO2 between the N7 and N8 nitrogen atoms of 7,8-diaminopelargonic acid (DAPA) to form an ureido ring",bioD,650,3426960,+,"GO:0003674,GO:0003824,GO:0004141,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006082,GO:0006732,GO:0006766,GO:0006767,GO:0006768,GO:0006790,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009102,GO:0009108,GO:0009110,GO:0009987,GO:0016053,GO:0016874,GO:0016879,GO:0016882,GO:0017144,GO:0018130,GO:0019752,GO:0032787,GO:0034641,GO:0042364,GO:0043436,GO:0043603,GO:0043604,GO:0044237,GO:0044249,GO:0044271,GO:0044272,GO:0044281,GO:0044283,GO:0044424,GO:0044444,GO:0044464,GO:0046394,GO:0046483,GO:0051186,GO:0051188,GO:0071704,GO:0072330,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",6.3.3.3,ko:K01935,"ko00780,ko01100,map00780,map01100","M00123,M00573,M00577",R03182,RC00868,"ko00000,ko00001,ko00002,ko01000",-,-,-,AAA_26
+Adenosylmethionine-8-amino-7-oxononanoate aminotransferase,3314,"Catalyzes the transfer of the alpha-amino group from S- adenosyl-L-methionine (SAM) to 7-keto-8-aminopelargonic acid (KAPA) to form 7,8-diaminopelargonic acid (DAPA). It is the only animotransferase known to utilize SAM as an amino donor",bioA,1298,3427631,+,-,2.6.1.62,ko:K00833,"ko00780,ko01100,map00780,map01100","M00123,M00573,M00577",R03231,"RC00006,RC00887","ko00000,ko00001,ko00002,ko01000,ko01007",-,-,-,Aminotran_3
+Cardiolipin synthase,3321,Catalyzes the reversible phosphatidyl group transfer from one phosphatidylglycerol molecule to another to form cardiolipin (CL) (diphosphatidylglycerol) and glycerol,-,1385,3433387,-,-,-,-,-,-,-,-,-,-,-,-,PLDc_2
+hypothetical protein_202,3322,Putative restriction endonuclease,-,752,3434736,-,-,-,-,-,-,-,-,-,-,-,-,Uma2
+Phenylacetaldehyde dehydrogenase,3323,belongs to the aldehyde dehydrogenase family,-,1520,3435645,-,-,"1.2.1.28,1.2.1.3","ko:K00128,ko:K00141","ko00010,ko00053,ko00071,ko00280,ko00310,ko00330,ko00340,ko00380,ko00410,ko00561,ko00620,ko00622,ko00623,ko00625,ko00627,ko00903,ko00981,ko01100,ko01110,ko01120,ko01130,ko01220,map00010,map00053,map00071,map00280,map00310,map00330,map00340,map00380,map00410,map00561,map00620,map00622,map00623,map00625,map00627,map00903,map00981,map01100,map01110,map01120,map01130,map01220","M00135,M00537,M00538","R00264,R00631,R00710,R00904,R01293,R01419,R01752,R01986,R02549,R02678,R02940,R02957,R03283,R03869,R04065,R04506,R04903,R05050,R05237,R05238,R05286,R05289,R05663,R05664,R06366,R07667,R08146","RC00047,RC00071,RC00075,RC00080,RC00186,RC00218,RC00242,RC00816,RC01500","ko00000,ko00001,ko00002,ko01000",-,-,-,Aldedh
+Cation efflux system protein CusA,3327,Belongs to the resistance-nodulation-cell division (RND) (TC 2.A.6) family,-,3236,3440776,+,-,-,ko:K07787,"ko02020,map02020",-,-,-,"ko00000,ko00001,ko02000",2.A.6.1.4,-,-,ACR_tran
+hypothetical protein_602,3329,Nucleotidyltransferase domain,-,398,3444771,+,-,-,-,-,-,-,-,-,-,-,-,NTP_transf_2
+hypothetical protein_500,3345,Protein of unknown function (DUF3179),-,1052,3457973,-,-,-,-,-,-,-,-,-,-,-,-,DUF3179
+hypothetical protein_235,3346,Cytochrome P460,-,542,3459450,+,-,-,-,-,-,-,-,-,-,-,-,Cytochrome_P460
+Arsenite methyltransferase,3347,Pfam:Methyltransf_26,-,1055,3460086,-,-,2.1.1.137,ko:K07755,-,-,-,-,"ko00000,ko01000",-,-,-,Methyltransf_31
+Response regulator protein TodT,3348,response regulator receiver,-,653,3461280,-,-,-,ko:K13041,"ko02020,map02020",M00514,-,-,"ko00000,ko00001,ko00002,ko02022",-,-,-,"GerE,Response_reg"
+Adaptive-response sensory-kinase SasA_501,3349,Histidine kinase,-,2024,3461940,-,-,2.7.13.3,"ko:K02482,ko:K14986","ko02020,map02020",M00524,-,-,"ko00000,ko00001,ko00002,ko01000,ko01001,ko02022",-,-,-,"HATPase_c,HisKA,MASE1,PAS_4,PAS_9,Response_reg"
+hypothetical protein_150,3350,"Extracellular solute-binding protein, family 5",-,2177,3464158,+,-,-,-,-,-,-,-,-,-,-,-,SBP_bac_5
+Dipeptide transport system permease protein DppB,3351,PFAM binding-protein-dependent transport systems inner membrane component,-,977,3466332,+,-,-,ko:K02033,"ko02024,map02024",M00239,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.5,-,-,BPD_transp_1
+hypothetical protein_502,3352,PFAM binding-protein-dependent transport systems inner membrane component,-,1388,3467420,+,-,-,ko:K02034,"ko02024,map02024",M00239,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.5,-,-,BPD_transp_1
+putative ABC transporter ATP-binding protein_503,3353,Belongs to the ABC transporter superfamily,-,2090,3468805,+,-,-,"ko:K02031,ko:K02032","ko02024,map02024",M00239,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.5,-,-,"ABC_tran,oligo_HPY"
+hypothetical protein_613,3355,Antitoxin component of a toxin-antitoxin (TA) module,-,287,3472723,+,-,-,-,-,-,-,-,-,-,-,-,PhdYeFM_antitox
+hypothetical protein_614,3356,PIN domain,-,416,3473050,+,-,-,-,-,-,-,-,-,-,-,-,PIN
+hypothetical protein_379,3369,-,-,293,3481030,+,-,-,-,-,-,-,-,-,-,-,-,-
+"N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol 4-epimerase",3391,epimerase dehydratase,-,956,3503298,+,-,-,-,-,-,-,-,-,-,-,-,Epimerase
+Insertion sequence IS5376 putative ATP-binding protein,3399,IstB-like ATP binding protein,-,164,3508770,+,-,-,-,-,-,-,-,-,-,-,-,IstB_IS21
+hypothetical protein_392,3400,Las17-binding protein actin regulator,CT2216,584,3508916,-,-,-,-,-,-,-,-,-,-,-,-,Ysc84
+hypothetical protein_391,3402,Glyoxalase bleomycin resistance protein dioxygenase,-,407,3511218,-,-,-,-,-,-,-,-,-,-,-,-,Glyoxalase
+hypothetical protein_389,3406,Bacterial protein of unknown function (DUF853),-,1457,3514086,+,-,-,ko:K06915,-,-,-,-,ko00000,-,-,-,DUF853
+hypothetical protein_388,3410,Domain of Unknown Function (DUF1259),-,116,3519764,-,-,-,-,-,-,-,-,-,-,-,-,DUF1529
+Acetylpolyamine amidohydrolase 2,3412,Including yeast histone deacetylase and acetoin utilization protein,-,1001,3520150,+,-,-,-,-,-,-,-,-,-,-,-,"Acetyltransf_1,Hist_deacetyl"
+ComE operon protein 3,3417,DNA internalization-related competence protein ComEC Rec2,-,2270,3524325,+,-,-,ko:K02238,-,M00429,-,-,"ko00000,ko00002,ko02044","3.A.11.1,3.A.11.2",-,-,"Competence,DUF4131,Lactamase_B"
+Tetraacyldisaccharide 4'-kinase,3421,"Transfers the gamma-phosphate of ATP to the 4'-position of a tetraacyldisaccharide 1-phosphate intermediate (termed DS-1- P) to form tetraacyldisaccharide 1,4'-bis-phosphate (lipid IVA)",lpxK,995,3529537,+,-,2.7.1.130,ko:K00912,"ko00540,ko01100,map00540,map01100",M00060,R04657,"RC00002,RC00078","ko00000,ko00001,ko00002,ko01000,ko01005",-,-,-,LpxK
+Ribosomal large subunit pseudouridine synthase C,3425,Responsible for synthesis of pseudouridine from uracil,-,959,3535226,+,-,5.4.99.24,ko:K06179,-,-,-,-,"ko00000,ko01000,ko03009",-,-,-,"PseudoU_synth_2,S4"
+7-methyl-GTP pyrophosphatase,3426,Maf-like protein,-,575,3536267,-,-,-,ko:K06287,-,-,-,-,ko00000,-,-,-,Maf
+Large ribosomal RNA subunit accumulation protein YceD,3428,"metal-binding, possibly nucleic acid-binding protein",yceD,530,3537091,+,"GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0008150,GO:0040007,GO:0044424,GO:0044444,GO:0044464",-,ko:K07040,-,-,-,-,ko00000,-,-,-,DUF177
+DNA polymerase III subunit delta',3438,"DNA polymerase III, delta'",-,1073,3545570,+,-,2.7.7.7,ko:K02341,"ko00230,ko00240,ko01100,ko03030,ko03430,ko03440,map00230,map00240,map01100,map03030,map03430,map03440",M00260,"R00375,R00376,R00377,R00378",RC02795,"ko00000,ko00001,ko00002,ko01000,ko03032,ko03400",-,-,-,"DNA_pol3_delta2,DNApol3-delta_C"
+Cytochrome c oxidase subunit 3,3442,Cytochrome c oxidase subunit III,-,596,3550084,+,-,-,-,-,-,-,-,-,-,-,-,COX3
+hypothetical protein_519,3443,Prokaryotic Cytochrome C oxidase subunit IV,-,257,3550683,+,-,-,-,-,-,-,-,-,-,-,-,COX4_pro
+hypothetical protein_520,3444,FtsX-like permease family,-,1325,3550959,-,-,-,ko:K02004,-,M00258,-,-,"ko00000,ko00002,ko02000",3.A.1,-,-,"FtsX,MacB_PCD"
+hypothetical protein_155,3445,MacB-like periplasmic core domain,-,1157,3552291,-,-,-,ko:K02004,-,M00258,-,-,"ko00000,ko00002,ko02000",3.A.1,-,-,"FtsX,MacB_PCD"
+putative ABC transporter ATP-binding protein YknY,3446,pfam abc,-,740,3553468,-,-,-,ko:K02003,-,M00258,-,-,"ko00000,ko00002,ko02000",3.A.1,-,-,ABC_tran
+Multidrug resistance protein MdtA,3447,Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family,-,1235,3554171,-,-,-,-,-,-,-,-,-,-,-,-,HlyD_D23
+hypothetical protein_156,3448,glutamine amidotransferase,-,704,3555572,-,-,6.3.5.2,ko:K01951,"ko00230,ko00983,ko01100,map00230,map00983,map01100",M00050,"R01230,R01231,R08244","RC00010,RC00204","ko00000,ko00001,ko00002,ko01000,ko01002",-,-,-,GATase
+Release factor glutamine methyltransferase,3458,Methylates the class 1 translation termination release factors RF1 PrfA and RF2 PrfB on the glutamine residue of the universally conserved GGQ motif,prmC,851,3567002,-,-,2.1.1.297,ko:K02493,-,-,R10806,"RC00003,RC03279","ko00000,ko01000,ko03012",-,-,-,"MTS,Methyltransf_31"
+ATP-dependent Clp protease ATP-binding subunit ClpX,3460,ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP,-,1259,3568280,+,-,-,ko:K03544,"ko04112,map04112",-,-,-,"ko00000,ko00001,ko03110",-,-,-,"AAA_2,ClpB_D2-small,zf-C4_ClpX"
+Beta-barrel assembly-enhancing protease_169,3465,Tetratricopeptide TPR_2 repeat protein,-,1694,3574400,+,-,-,-,-,-,-,-,-,-,-,-,"TPR_14,TPR_16,TPR_19,TPR_2,TPR_6,TPR_7,TPR_8"
+Outer-membrane lipoprotein LolB,3466,Plays a critical role in the incorporation of lipoproteins in the outer membrane after they are released by the LolA protein,lolB,605,3576094,+,"GO:0003674,GO:0005488,GO:0005575,GO:0005623,GO:0006807,GO:0008104,GO:0008150,GO:0008152,GO:0008289,GO:0009279,GO:0010876,GO:0016020,GO:0019538,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0033036,GO:0033218,GO:0034613,GO:0042157,GO:0042277,GO:0043170,GO:0044238,GO:0044462,GO:0044464,GO:0044872,GO:0044873,GO:0044874,GO:0051179,GO:0051641,GO:0051668,GO:0070727,GO:0071704,GO:0071723,GO:0071944,GO:0072657,GO:1901564",-,ko:K02494,-,-,-,-,ko00000,-,-,-,LolB
+hypothetical protein_468,3486,Protein of unknown function (DUF917),-,1238,3588560,+,-,-,ko:K09703,-,-,-,-,ko00000,-,-,-,DUF917
+hypothetical protein_467,3487,Diguanylate cyclase,-,2645,3589771,+,-,-,-,-,-,-,-,-,-,-,-,GGDEF
+Sensor histidine kinase RcsC_466,3488,Response regulator receiver,-,368,3593073,+,-,-,ko:K03413,"ko02020,ko02030,map02020,map02030",M00506,-,-,"ko00000,ko00001,ko00002,ko02022,ko02035",-,-,-,Response_reg
+RNA polymerase-binding transcription factor DksA,3497,Prokaryotic dksA/traR C4-type zinc finger,-,398,3603922,+,-,-,-,-,-,-,-,-,-,-,-,zf-dskA_traR

@@ -1,0 +1,93 @@
+,Gene Start,Gene Size,Strand,Gene Product,Accession
+0,69176,347,-,hypothetical protein_21,58
+1,73016,1004,-,hypothetical protein_73,63
+2,185244,710,+,hypothetical protein_8,166
+3,190817,920,+,2-dehydropantoate 2-reductase,170
+4,194958,572,+,hypothetical protein_35,175
+5,625911,416,+,hypothetical protein_6,575
+6,626435,1208,+,hypothetical protein_5,576
+7,721125,1679,-,hypothetical protein_47,665
+8,722973,1157,-,"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase",666
+9,724127,1001,-,"UDP-N-acetylglucosamine 4,6-dehydratase (inverting)",667
+10,726120,725,-,hypothetical protein_43,668
+11,727128,620,-,hypothetical protein_64,669
+12,729064,785,-,hypothetical protein_46,671
+13,729843,662,-,Phosphorylated carbohydrates phosphatase,672
+14,730505,818,-,"Ubiquinone biosynthesis O-methyltransferase, mitochondrial",673
+15,790808,197,-,hypothetical protein_69,733
+16,791600,746,-,hypothetical protein_42,734
+17,793855,554,-,hypothetical protein_14,736
+18,843752,224,-,hypothetical protein_63,786
+19,845451,452,-,tRNA (adenine(37)-N6)-methyltransferase,788
+20,846483,857,+,Cytochrome c oxidase subunit 2,789
+21,847441,1619,+,Cytochrome c oxidase subunit 1,790
+22,849000,1061,+,Protoheme IX farnesyltransferase,791
+23,850078,170,+,hypothetical protein_118,792
+24,850255,641,+,Cytochrome c oxidase assembly protein CtaG,793
+25,850951,896,+,Cytochrome c oxidase subunit 3,794
+26,859059,980,+,hypothetical protein_41,801
+27,860039,3644,+,Respiratory nitrate reductase 1 alpha chain,802
+28,863677,701,+,hypothetical protein_96,803
+29,864442,1541,+,Respiratory nitrate reductase 2 beta chain,804
+30,866119,1028,+,hypothetical protein_56,805
+31,867182,677,+,Nitrate reductase-like protein NarX,806
+32,868091,1256,+,putative nitrate transporter NarT,807
+33,869750,776,+,hypothetical protein_57,808
+34,944812,4469,-,hypothetical protein_92,909
+35,949281,2033,-,Outer membrane protein assembly factor BamA,910
+36,967844,1664,-,hypothetical protein_77,924
+37,969550,887,-,putative metallo-hydrolase,925
+38,1022129,563,-,hypothetical protein_13,969
+39,1022952,404,-,hypothetical protein_72,970
+40,1033918,533,+,hypothetical protein_83,978
+41,1034609,851,+,Cytochrome c551 peroxidase,979
+42,1036226,1517,+,Protein adenylyltransferase SelO,981
+43,1050572,530,-,hypothetical protein_89,994
+44,1051814,539,-,hypothetical protein_90,995
+45,1052531,593,+,hypothetical protein_91,996
+46,1058387,1343,+,Type I secretion system membrane fusion protein PrsE,1000
+47,1064910,1544,-,hypothetical protein_120,1005
+48,1067621,230,-,hypothetical protein_33,1006
+49,1117189,332,+,hypothetical protein_109,1058
+50,1118931,176,+,hypothetical protein_112,1061
+51,1403252,941,-,hypothetical protein_116,1326
+52,1404190,1367,-,hypothetical protein_117,1327
+53,1407517,254,+,hypothetical protein_23,1329
+54,1408483,452,+,hypothetical protein_97,1331
+55,1515255,269,+,hypothetical protein_79,1458
+56,1518676,839,+,hypothetical protein_31,1461
+57,1683509,536,-,hypothetical protein_110,1622
+58,1684049,233,-,hypothetical protein_114,1623
+59,1951675,242,+,hypothetical protein_99,1886
+60,1952402,206,+,hypothetical protein_49,1888
+61,2076388,311,+,hypothetical protein_24,2005
+62,2077920,218,+,hypothetical protein_20,2007
+63,2160930,827,-,hypothetical protein_66,2085
+64,2161763,632,-,hypothetical protein_71,2086
+65,2162409,2360,-,hypothetical protein_67,2087
+66,2164862,923,-,Denitrification regulatory protein NirQ,2088
+67,2166030,635,-,Sporulation initiation inhibitor protein Soj,2090
+68,2166669,266,-,hypothetical protein_59,2091
+69,2167601,296,-,Major carboxysome shell protein 1A,2094
+70,2167991,251,-,hypothetical protein_68,2095
+71,2168242,257,-,Ethanolamine utilization protein EutN,2096
+72,2168513,1526,-,hypothetical protein_30,2097
+73,2170051,2702,-,hypothetical protein_82,2098
+74,2172859,326,-,Ribulose bisphosphate carboxylase small chain,2099
+75,2174913,935,+,HTH-type transcriptional activator CmpR,2101
+76,2175838,326,-,hypothetical protein_75,2102
+77,2176161,3113,-,hypothetical protein_87,2103
+78,2179259,758,-,hypothetical protein_113,2104
+79,2180023,1700,-,"NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic",2105
+80,2181935,293,+,hypothetical protein_45,2106
+81,2267916,1082,+,Alkanesulfonate monooxygenase,2193
+82,2271751,1031,+,hypothetical protein_94,2195
+83,2534980,374,+,hypothetical protein_104,2448
+84,2535457,2339,+,Vitamin B12 transporter BtuB_108,2449
+85,2891179,401,-,hypothetical protein_122,2797
+86,2891617,2111,-,hypothetical protein_123,2798
+87,3136488,2375,+,Vitamin B12 transporter BtuB_101,3046
+88,3138881,1208,+,hypothetical protein_102,3047
+89,3140086,527,+,hypothetical protein_103,3048
+90,3250656,3248,+,hypothetical protein_50,3152
+91,3254250,818,+,hypothetical protein_88,3153

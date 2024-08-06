@@ -1,0 +1,168 @@
+,Accession,Egg Description,Egg Name,Gene Size,Gene Start,Strand,Egg GOs,Egg EC,KEGG KO,KEGG Pathway,KEGG Module,KEGG Reaction,KEGG Reaction Class,Egg BRITE,KEGG TC,CAZy,BiGG Reaction,PFAMs
+hypothetical protein_21,58,Lipopolysaccharide assembly protein A domain,-,347,69176,-,-,-,-,-,-,-,-,-,-,-,-,LapA_dom
+hypothetical protein_73,63,"Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family",MA20_24470,1004,73016,-,-,-,-,-,-,-,-,-,-,-,-,Peptidase_C92
+hypothetical protein_9,65,Diphthamide synthase,-,668,75699,+,-,-,-,-,-,-,-,-,-,-,-,Diphthami_syn_2
+hypothetical protein_84,73,PAS fold,-,1703,85217,-,-,-,ko:K03406,"ko02020,ko02030,map02020,map02030",-,-,-,"ko00000,ko00001,ko02035",-,-,-,"PAS_3,PAS_4"
+hypothetical protein_74,156,Glycosyl transferase family group 2,-,1352,173398,-,-,-,-,-,-,-,-,-,-,-,-,"Glyco_tranf_2_3,Glyco_trans_2_3"
+hypothetical protein_8,166,Cytochrome c,-,710,185244,+,-,-,-,-,-,-,-,-,-,-,-,"Cytochrom_C,Cytochrome_CBB3"
+2-dehydropantoate 2-reductase,170,Catalyzes the NADPH-dependent reduction of ketopantoate into pantoic acid,MA20_25035,920,190817,+,-,1.1.1.169,ko:K00077,"ko00770,ko01100,ko01110,map00770,map01100,map01110",M00119,R02472,RC00726,"ko00000,ko00001,ko00002,ko01000",-,-,-,"ApbA,ApbA_C"
+hypothetical protein_35,175,CHAT domain,-,572,194958,+,-,-,-,-,-,-,-,-,-,-,-,"CHAT,TPR_10,TPR_12,TPR_16,TPR_7"
+hypothetical protein_105,177,OST-HTH/LOTUS domain,MA20_15040,815,196227,-,-,-,-,-,-,-,-,-,-,-,-,"NYN,OST-HTH"
+hypothetical protein_60,196,Outer membrane protein beta-barrel domain,-,1361,216696,+,-,-,ko:K16079,-,-,-,-,"ko00000,ko02000",1.B.4.2.1,-,-,OMP_b-brl
+hypothetical protein_61,212,Integral membrane protein (DUF2244),-,524,234373,-,-,-,-,-,-,-,-,-,-,-,-,DUF2244
+hypothetical protein,289,-,MA20_20990,1184,311925,+,-,-,-,-,-,-,-,-,-,-,-,-
+Sensor protein FixL,293,Motif C-terminal to PAS motifs (likely to contribute to PAS structural domain),-,425,316829,-,-,-,-,-,-,-,-,-,-,-,-,"PAS,PAS_4"
+hypothetical protein_119,315,-,-,143,345216,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_95,340,-,-,143,369036,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_15,435,-,-,500,477809,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_16,489,HemY protein N-terminus,lapB,1667,531419,+,-,-,ko:K02498,-,-,-,-,ko00000,-,-,-,"HemY_N,TPR_19"
+hypothetical protein_6,575,cheY-homologous receiver domain,exsF,416,625911,+,-,-,-,-,-,-,-,-,-,-,-,Response_reg
+hypothetical protein_5,576,NnrS protein,-,1208,626435,+,-,-,ko:K07234,-,-,-,-,ko00000,-,-,-,NnrS
+Isovaleryl-homoserine lactone synthase,649,Autoinducer,-,632,705105,-,-,"2.3.1.228,2.3.1.229",ko:K18096,"ko02024,map02024",-,-,-,"ko00000,ko00001,ko01000",-,-,-,Autoind_synth
+Glucosyl-3-phosphoglycerate phosphatase,651,Phosphoglycerate mutase family,gpmB,593,707141,+,-,5.4.2.12,ko:K15634,"ko00010,ko00260,ko00680,ko01100,ko01110,ko01120,ko01130,ko01200,ko01230,map00010,map00260,map00680,map01100,map01110,map01120,map01130,map01200,map01230","M00001,M00002,M00003",R01518,RC00536,"ko00000,ko00001,ko00002,ko01000",-,-,-,His_Phos_1
+hypothetical protein_47,665,"transferase activity, transferring glycosyl groups",-,1679,721125,-,-,-,-,-,-,-,-,-,-,-,-,-
+"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase",666,Belongs to the DegT DnrJ EryC1 family,-,1157,722973,-,-,-,-,-,-,-,-,-,-,-,-,DegT_DnrJ_EryC1
+"UDP-N-acetylglucosamine 4,6-dehydratase (inverting)",667,Polysaccharide biosynthesis protein,-,1001,724127,-,-,"4.2.1.115,5.1.3.2","ko:K15894,ko:K17716","ko00052,ko00520,ko01100,map00052,map00520,map01100",M00362,"R00291,R09697","RC00289,RC02609","ko00000,ko00001,ko00002,ko01000",-,-,-,Polysacc_synt_2
+hypothetical protein_43,668,Cytidylyltransferase,-,725,726120,-,-,-,ko:K07257,-,-,-,-,ko00000,-,-,-,CTP_transf_3
+hypothetical protein_64,669,Specifically methylates the adenine in position 37 of tRNA(1)(Val) (anticodon cmo5UAC),-,620,727128,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_46,671,nUDIX hydrolase,-,785,729064,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphorylated carbohydrates phosphatase,672,haloacid dehalogenase-like hydrolase,-,662,729843,-,-,3.1.3.18,ko:K01091,"ko00630,ko01100,ko01110,ko01130,map00630,map01100,map01110,map01130",-,R01334,RC00017,"ko00000,ko00001,ko01000",-,-,-,HAD_2
+"Ubiquinone biosynthesis O-methyltransferase, mitochondrial",673,Methyltransferase domain,-,818,730505,-,-,-,-,-,-,-,-,-,-,-,-,Methyltransf_31
+hypothetical protein_69,733,-,-,197,790808,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_42,734,-,-,746,791600,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_14,736,Cytochrome c,cyc,554,793855,-,-,-,ko:K08738,"ko00920,ko01100,ko01120,ko01524,ko02020,ko04115,ko04210,ko04214,ko04215,ko04932,ko05010,ko05012,ko05014,ko05016,ko05134,ko05145,ko05152,ko05161,ko05164,ko05167,ko05168,ko05200,ko05210,ko05222,ko05416,map00920,map01100,map01120,map01524,map02020,map04115,map04210,map04214,map04215,map04932,map05010,map05012,map05014,map05016,map05134,map05145,map05152,map05161,map05164,map05167,map05168,map05200,map05210,map05222,map05416",M00595,R10151,"RC03151,RC03152","ko00000,ko00001,ko00002",3.D.4.6,-,-,Cytochrom_C
+hypothetical protein_106,741,G8 domain,-,4373,799266,+,-,-,-,-,-,-,-,-,-,-,-,G8
+hypothetical protein_10,769,-,-,182,829137,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_63,786,-,-,224,843752,-,-,-,-,-,-,-,-,-,-,-,-,-
+tRNA (adenine(37)-N6)-methyltransferase,788,Uncharacterised protein family UPF0066,-,452,845451,-,-,-,-,-,-,-,-,-,-,-,-,UPF0066
+Cytochrome c oxidase subunit 2,789,Subunits I and II form the functional core of the enzyme complex. Electrons originating in cytochrome c are transferred via heme a and Cu(A) to the binuclear center formed by heme a3 and Cu(B),coxB,857,846483,+,-,1.9.3.1,ko:K02275,"ko00190,ko01100,map00190,map01100",M00155,R00081,RC00016,"ko00000,ko00001,ko00002,ko01000","3.D.4.2,3.D.4.4,3.D.4.6",-,-,"COX2,COX2_TM"
+Cytochrome c oxidase subunit 1,790,Cytochrome c oxidase is the component of the respiratory chain that catalyzes the reduction of oxygen to water. Subunits 1- 3 form the functional core of the enzyme complex. CO I is the catalytic subunit of the enzyme. Electrons originating in cytochrome c are transferred via the copper A center of subunit 2 and heme A of subunit 1 to the bimetallic center formed by heme A3 and copper B,ctaD,1619,847441,+,"GO:0005575,GO:0005623,GO:0005886,GO:0006091,GO:0006810,GO:0006811,GO:0006812,GO:0008150,GO:0008152,GO:0009060,GO:0009987,GO:0015672,GO:0015980,GO:0015988,GO:0015990,GO:0016020,GO:0022900,GO:0022904,GO:0034220,GO:0044237,GO:0044464,GO:0045333,GO:0051179,GO:0051234,GO:0055085,GO:0055114,GO:0071944,GO:0098655,GO:0098660,GO:0098662,GO:1902600",1.9.3.1,ko:K02274,"ko00190,ko01100,map00190,map01100",M00155,R00081,RC00016,"ko00000,ko00001,ko00002,ko01000","3.D.4.2,3.D.4.3,3.D.4.4,3.D.4.6",-,-,COX1
+Protoheme IX farnesyltransferase,791,Converts heme B (protoheme IX) to heme O by substitution of the vinyl group on carbon 2 of heme B porphyrin ring with a hydroxyethyl farnesyl side group,ctaB,1061,849000,+,"GO:0003674,GO:0003824,GO:0004311,GO:0004659,GO:0005575,GO:0005623,GO:0005886,GO:0006091,GO:0006725,GO:0006778,GO:0006779,GO:0006783,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009987,GO:0015980,GO:0016020,GO:0016740,GO:0016765,GO:0018130,GO:0019438,GO:0033013,GO:0033014,GO:0034641,GO:0042168,GO:0042440,GO:0044237,GO:0044249,GO:0044271,GO:0044464,GO:0045333,GO:0046148,GO:0046483,GO:0051186,GO:0051188,GO:0055114,GO:0071704,GO:0071944,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",2.5.1.141,ko:K02257,"ko00190,ko00860,ko01100,ko01110,ko04714,map00190,map00860,map01100,map01110,map04714",M00154,R07411,RC01786,"ko00000,ko00001,ko00002,ko01000,ko01006,ko03029",-,-,-,UbiA
+hypothetical protein_118,792,-,coxF,170,850078,+,-,-,-,-,-,-,-,-,-,-,-,-
+Cytochrome c oxidase assembly protein CtaG,793,"Exerts its effect at some terminal stage of cytochrome c oxidase synthesis, probably by being involved in the insertion of the copper B into subunit I",ctaG,641,850255,+,-,-,ko:K02258,"ko00190,ko01100,ko04714,map00190,map01100,map04714",M00154,-,-,"ko00000,ko00001,ko00002,ko03029",3.D.4.8,-,-,CtaG_Cox11
+Cytochrome c oxidase subunit 3,794,cytochrome c oxidase subunit III,ctaE,896,850951,+,"GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",1.9.3.1,ko:K02276,"ko00190,ko01100,map00190,map01100",M00155,R00081,RC00016,"ko00000,ko00001,ko00002,ko01000","3.D.4.4,3.D.4.6",-,-,COX3
+hypothetical protein_62,800,-,-,746,857625,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_41,801,Cytochrome c,-,980,859059,+,-,-,-,-,-,-,-,-,-,-,-,Cytochrom_C
+Respiratory nitrate reductase 1 alpha chain,802,Molybdopterin oxidoreductase Fe4S4 domain,narZ,3644,860039,+,-,1.7.5.1,ko:K00370,"ko00910,ko01120,ko02020,map00910,map01120,map02020","M00529,M00530,M00804","R00798,R01106,R09497",RC02812,"ko00000,ko00001,ko00002,ko01000",5.A.3.1,-,-,"Molybdopterin,Molydop_binding,Nitr_red_alph_N"
+hypothetical protein_96,803,modulation by symbiont of host adenylate cyclase-mediated signal transduction,slyD,701,863677,+,"GO:0000413,GO:0003674,GO:0003755,GO:0003824,GO:0006457,GO:0006464,GO:0006807,GO:0008150,GO:0008152,GO:0009987,GO:0016853,GO:0016859,GO:0018193,GO:0018208,GO:0019538,GO:0036211,GO:0042026,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0071704,GO:0140096,GO:1901564",5.2.1.8,ko:K03775,-,-,-,-,"ko00000,ko01000,ko03110",-,-,-,FKBP_C
+Respiratory nitrate reductase 2 beta chain,804,Respiratory nitrate reductase beta C-terminal,narH,1541,864442,+,-,1.7.5.1,ko:K00371,"ko00910,ko01120,ko02020,map00910,map01120,map02020","M00529,M00530,M00804","R00798,R01106,R09497",RC02812,"ko00000,ko00001,ko00002,ko01000",5.A.3.1,-,-,"Fer4_11,Nitr_red_bet_C"
+hypothetical protein_56,805,nitrate reductase molybdenum cofactor assembly chaperone,-,1028,866119,+,-,-,ko:K00373,"ko02020,map02020",-,-,-,"ko00000,ko00001",-,-,-,Nitrate_red_del
+Nitrate reductase-like protein NarX,806,Nitrate reductase gamma subunit,narI,677,867182,+,-,1.7.5.1,ko:K00374,"ko00910,ko01120,ko02020,map00910,map01120,map02020","M00529,M00530","R00798,R01106,R09497",RC02812,"ko00000,ko00001,ko00002,ko01000",5.A.3.1,-,-,Nitrate_red_gam
+putative nitrate transporter NarT,807,Major Facilitator Superfamily,-,1256,868091,+,-,-,ko:K02575,"ko00910,map00910",M00615,-,-,"ko00000,ko00001,ko00002,ko02000",2.A.1.8,-,-,MFS_1
+hypothetical protein_57,808,Voltage-dependent anion channel,-,776,869750,+,-,-,-,-,-,-,-,-,-,-,-,SLAC1
+hypothetical protein_92,909,"TamB, inner membrane protein subunit of TAM complex",tamB,4469,944812,-,-,-,ko:K09800,-,-,-,-,"ko00000,ko02000",-,-,-,TamB
+Outer membrane protein assembly factor BamA,910,Surface antigen,tamA,2033,949281,-,-,-,ko:K07278,-,-,-,-,"ko00000,ko02000",1.B.33.2.4,-,-,"Bac_surface_Ag,POTRA"
+Ferric-anguibactin receptor FatA,915,TonB dependent receptor,-,1136,954772,+,-,-,ko:K02014,-,-,-,-,"ko00000,ko02000",1.B.14,-,-,"Plug,TonB_dep_Rec"
+hypothetical protein_77,924,Pyridine nucleotide-disulphide oxidoreductase,-,1664,967844,-,-,1.8.5.4,ko:K17218,"ko00920,map00920",-,R10152,RC03155,"ko00000,ko00001,ko01000",-,-,-,"DUF442,Pyr_redox_2"
+putative metallo-hydrolase,925,Metallo-beta-lactamase superfamily,-,887,969550,-,-,-,-,-,-,-,-,-,-,-,-,Lactamase_B
+hypothetical protein_13,969,Protein of unknown function (DUF2478),-,563,1022129,-,-,-,-,-,-,-,-,-,-,-,-,DUF2478
+hypothetical protein_72,970,"Bacterial regulatory helix-turn-helix protein, lysR family",modE,404,1022952,-,-,-,ko:K02019,-,-,-,-,"ko00000,ko03000",-,-,-,HTH_1
+hypothetical protein_83,978,Evidence 4 Homologs of previously reported genes of,-,533,1033918,+,-,-,-,-,-,-,-,-,-,-,-,-
+Cytochrome c551 peroxidase,979,Di-haem cytochrome c peroxidase,mauG,851,1034609,+,-,1.11.1.5,ko:K00428,-,-,-,-,"ko00000,ko01000",-,-,-,"CCP_MauG,Cytochrom_C"
+Protein adenylyltransferase SelO,981,Belongs to the UPF0061 (SELO) family,MA20_28420,1517,1036226,+,-,-,ko:K08997,-,-,-,-,ko00000,-,-,-,UPF0061
+Isochorismate synthase MenF,986,Anthranilate synthase component I,pabB,2117,1043589,-,-,"2.6.1.85,4.1.3.27","ko:K01657,ko:K01665,ko:K13950","ko00400,ko00405,ko00790,ko01100,ko01110,ko01130,ko01230,ko02024,ko02025,map00400,map00405,map00790,map01100,map01110,map01130,map01230,map02024,map02025",M00023,"R00985,R00986,R01716","RC00010,RC01418,RC02148,RC02414","ko00000,ko00001,ko00002,ko01000",-,-,-,"Anth_synt_I_N,Chorismate_bind,GATase"
+hypothetical protein_89,994,"helix_turn_helix, Lux Regulon",-,530,1050572,-,-,-,-,-,-,-,-,-,-,-,-,GerE
+hypothetical protein_90,995,-,-,539,1051814,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_91,996,-,-,593,1052531,+,-,-,-,-,-,-,-,-,-,-,-,-
+Type I secretion system membrane fusion protein PrsE,1000,HlyD membrane-fusion protein of T1SS,-,1343,1058387,+,-,-,ko:K02022,-,-,-,-,ko00000,-,-,-,"Biotin_lipoyl_2,HlyD,HlyD_3"
+hypothetical protein_120,1005,Common central domain of tyrosinase,-,1544,1064910,-,-,1.14.18.1,ko:K00505,"ko00350,ko00950,ko00965,ko01100,ko01110,ko04916,map00350,map00950,map00965,map01100,map01110,map04916",M00042,"R00731,R02078,R02363,R02383,R04693,R04884","RC00046,RC00150,RC00180","ko00000,ko00001,ko00002,ko01000",-,-,-,"PPO1_DWL,Tyrosinase"
+hypothetical protein_33,1006,-,-,230,1067621,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_2,1031,cytochrome c oxidase subunit IV,MA20_03820,152,1091528,+,-,-,-,-,-,-,-,-,-,-,-,COX4_pro_2
+hypothetical protein_109,1058,PRC-barrel domain,-,332,1117189,+,-,-,-,-,-,-,-,-,-,-,-,PRC
+hypothetical protein_112,1061,-,-,176,1118931,+,-,-,-,-,-,-,-,-,-,-,-,-
+Response regulator protein TodT,1066,Response regulator receiver,-,407,1123248,-,-,-,-,-,-,-,-,-,-,-,-,Response_reg
+hypothetical protein_76,1080,CsbD-like,yjbJ,242,1133281,-,"GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0044424,GO:0044444,GO:0044464",-,-,-,-,-,-,-,-,-,-,CsbD
+hypothetical protein_3,1081,lytic transglycosylase activity,-,716,1133697,+,-,-,-,-,-,-,-,-,-,-,-,"B_lectin,SLT"
+hypothetical protein_17,1133,-,-,587,1203192,+,-,-,-,-,-,-,-,-,-,-,-,-
+putative protein,1134,Histidine phosphatase superfamily (branch 1),sixA,533,1203802,-,-,-,ko:K08296,-,-,-,-,"ko00000,ko01000",-,-,-,His_Phos_1
+hypothetical protein_58,1193,-,-,203,1258256,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_116,1326,A domain family that is part of the cupin metalloenzyme superfamily.,-,941,1403252,-,-,-,-,-,-,-,-,-,-,-,-,Cupin_8
+hypothetical protein_117,1327,Acetyltransferase (GNAT) domain,-,1367,1404190,-,-,-,-,-,-,-,-,-,-,-,-,Acetyltransf_6
+hypothetical protein_23,1329,-,-,254,1407517,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_97,1331,-,-,452,1408483,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_65,1424,-,-,239,1492643,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_79,1458,-,-,269,1515255,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_31,1461,chaperone-mediated protein folding,-,839,1518676,+,-,-,-,-,-,-,-,-,-,-,-,TPR_16
+hypothetical protein_18,1486,Acetyltransferase (GNAT) domain,-,1193,1542621,-,-,-,-,-,-,-,-,-,-,-,-,Acetyltransf_6
+hypothetical protein_53,1578,-,-,143,1627643,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_54,1585,-,-,152,1632573,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_38,1600,-,-,194,1652483,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_110,1622,-,-,536,1683509,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_114,1623,-,-,233,1684049,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_93,1696,Integral membrane protein TerC family,MA20_28265,878,1748580,-,-,-,-,-,-,-,-,-,-,-,-,TerC
+hypothetical protein_98,1702,-,-,350,1755207,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_44,1739,Acid phosphatase homologues,-,680,1780899,-,-,3.6.1.27,ko:K19302,"ko00550,map00550",-,R05627,RC00002,"ko00000,ko00001,ko01000,ko01011",-,-,-,PAP2
+hypothetical protein_70,1770,Protein of unknown function,MA20_30770,3632,1816589,-,-,-,-,-,-,-,-,-,-,-,-,"AsmA_2,DUF3971"
+hypothetical protein_107,1812,-,-,233,1864235,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_4,1815,Protein of unknown function (DUF983),MA20_36345,440,1869803,+,-,-,-,-,-,-,-,-,-,-,-,DUF983
+hypothetical protein_52,1832,Domain of unknown function (DUF4062),-,1001,1889254,+,-,-,-,-,-,-,-,-,-,-,-,DUF4062
+hypothetical protein_26,1865,GCN5-related N-acetyl-transferase,-,281,1931924,+,-,-,ko:K06975,-,-,-,-,ko00000,-,-,-,Acetyltransf_CG
+hypothetical protein_55,1870,Squalene/phytoene synthase,crtB,860,1936744,-,-,"2.5.1.32,2.5.1.99","ko:K02291,ko:K18163","ko00906,ko01062,ko01100,ko01110,ko04714,map00906,map01062,map01100,map01110,map04714",M00097,"R02065,R04218,R07270,R10177","RC00362,RC01101,RC02869","ko00000,ko00001,ko00002,ko01000,ko01006,ko03029",-,-,-,SQS_PSY
+hypothetical protein_99,1886,-,-,242,1951675,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_49,1888,-,-,206,1952402,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_34,1898,-,-,1145,1963129,-,-,-,-,-,-,-,-,-,-,-,-,PcfJ
+Orotidine 5'-phosphate decarboxylase,1970,Catalyzes the decarboxylation of orotidine 5'- monophosphate (OMP) to uridine 5'-monophosphate (UMP),pyrF,722,2043612,-,"GO:0003674,GO:0003824,GO:0004590,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006139,GO:0006206,GO:0006207,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009112,GO:0009987,GO:0016829,GO:0016830,GO:0016831,GO:0018130,GO:0019856,GO:0034641,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0046112,GO:0046483,GO:0055086,GO:0071704,GO:0072527,GO:0072528,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",4.1.1.23,ko:K01591,"ko00240,ko01100,map00240,map01100",M00051,R00965,RC00409,"ko00000,ko00001,ko00002,ko01000",-,-,-,OMPdecase
+hypothetical protein_100,1978,Protein of unknown function (DUF2946),-,365,2052040,-,-,-,-,-,-,-,-,-,-,-,-,DUF2946
+hypothetical protein_37,1998,-,-,194,2071870,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_24,2005,-,-,311,2076388,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_20,2007,-,-,218,2077920,+,-,-,-,-,-,-,-,-,-,-,-,-
+Trigger factor,2012,Involved in protein export. Acts as a chaperone by maintaining the newly synthesized protein in an open conformation. Functions as a peptidyl-prolyl cis-trans isomerase,tig,1361,2084024,-,"GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",-,ko:K03545,-,-,-,-,ko00000,-,-,-,"FKBP_C,Trigger_C,Trigger_N"
+hypothetical protein_32,2014,Multicopper oxidase,-,1337,2085886,+,-,-,-,-,-,-,-,-,-,-,-,"Cu-oxidase,Cu-oxidase_2,Cu-oxidase_3"
+hypothetical protein_40,2029,-,MA20_36600,371,2102247,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_66,2085,Trypsin-like peptidase domain,-,827,2160930,-,-,-,-,-,-,-,-,-,-,-,-,Trypsin_2
+hypothetical protein_71,2086,BMC,-,632,2161763,-,-,-,-,-,-,-,-,-,-,-,-,BMC
+hypothetical protein_67,2087,"von Willebrand factor, type A",cbbO,2360,2162409,-,-,-,-,-,-,-,-,-,-,-,-,"VWA,VWA_2"
+Denitrification regulatory protein NirQ,2088,CbbQ/NirQ/NorQ C-terminal,cbbQ,923,2164862,-,-,-,ko:K04748,-,-,R00294,RC02794,ko00000,3.D.4.10,-,-,"AAA_5,CbbQ_C"
+Sporulation initiation inhibitor protein Soj,2090,"Cobyrinic acid a,c-diamide synthase",parA1,635,2166030,-,-,-,ko:K03496,-,-,-,-,"ko00000,ko03036,ko04812",-,-,-,AAA_31
+hypothetical protein_59,2091,pterin-4-alpha-carbinolamine dehydratase,-,266,2166669,-,-,-,-,-,-,-,-,-,-,-,-,-
+Major carboxysome shell protein 1A,2094,PFAM microcompartments protein,-,296,2167601,-,-,-,-,-,-,-,-,-,-,-,-,BMC
+hypothetical protein_68,2095,Ethanolamine utilisation protein EutN/carboxysome,-,251,2167991,-,-,-,-,-,-,-,-,-,-,-,-,EutN_CcmL
+Ethanolamine utilization protein EutN,2096,Ethanolamine utilisation protein EutN/carboxysome,-,257,2168242,-,-,-,-,-,-,-,-,-,-,-,-,EutN_CcmL
+hypothetical protein_30,2097,Carboxysome Shell Carbonic Anhydrase,-,1526,2168513,-,-,-,-,-,-,-,-,-,-,-,-,CsoSCA
+hypothetical protein_82,2098,"Function proposed based on presence of conserved amino acid motif, structural feature or limited homology",-,2702,2170051,-,-,-,-,-,-,-,-,-,-,-,-,CsoS2_M
+Ribulose bisphosphate carboxylase small chain,2099,Function of homologous gene experimentally demonstrated in an other organism,ccbS2,326,2172859,-,-,4.1.1.39,ko:K01602,"ko00630,ko00710,ko01100,ko01120,ko01200,map00630,map00710,map01100,map01120,map01200","M00165,M00166,M00532","R00024,R03140","RC00172,RC00859","ko00000,ko00001,ko00002,ko01000",-,-,-,RuBisCO_small
+HTH-type transcriptional activator CmpR,2101,Function of homologous gene experimentally demonstrated in an other organism,cbbR1,935,2174913,+,-,-,ko:K21703,-,-,-,-,"ko00000,ko03000",-,-,-,"HTH_1,LysR_substrate"
+hypothetical protein_75,2102,Belongs to the P(II) protein family,-,326,2175838,-,-,-,-,-,-,-,-,-,-,-,-,"DUF190,P-II"
+hypothetical protein_87,2103,Belongs to the UPF0753 family,-,3113,2176161,-,-,-,ko:K09822,-,-,-,-,ko00000,-,-,-,DUF2309
+hypothetical protein_113,2104,-,-,758,2179259,-,-,-,-,-,-,-,-,-,-,-,-,-
+"NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic",2105,"Function proposed based on presence of conserved amino acid motif, structural feature or limited homology",-,1700,2180023,-,-,1.6.5.3,"ko:K00341,ko:K05577","ko00190,ko01100,map00190,map01100","M00144,M00145",R11945,RC00061,"ko00000,ko00001,ko00002,ko01000",3.D.1,-,-,"Proton_antipo_M,Proton_antipo_N"
+hypothetical protein_45,2106,-,-,293,2181935,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_36,2114,-,-,305,2189084,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_85,2141,-,-,305,2217688,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_80,2149,-,-,446,2223490,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_25,2171,"Phage tail tube protein, GTA-gp10",-,413,2243522,-,-,-,-,-,-,-,-,-,-,-,-,Phage_TAC_11
+Alkanesulfonate monooxygenase,2193,Luciferase-like monooxygenase,-,1082,2267916,+,-,-,-,-,-,-,-,-,-,-,-,Bac_luciferase
+hypothetical protein_94,2195,Periplasmic binding protein,-,1031,2271751,+,-,-,ko:K02016,"ko02010,map02010",M00240,-,-,"ko00000,ko00001,ko00002,ko02000",3.A.1.14,-,-,Peripla_BP_2
+3-hydroxybenzoate 6-hydroxylase,2304,FAD binding domain,nah,1238,2377745,+,-,1.14.13.1,ko:K00480,"ko00621,ko00624,ko00626,ko01100,ko01120,ko01220,map00621,map00624,map00626,map01100,map01120,map01220",-,"R00818,R05632,R06915,R06936,R06939",RC00389,"ko00000,ko00001,ko01000",-,-,-,FAD_binding_3
+Vitamin B12 transporter BtuB,2343,TonB dependent receptor,-,2078,2412121,+,-,-,ko:K16092,-,-,-,-,"ko00000,ko02000",1.B.14.3,-,-,"Plug,TonB_dep_Rec"
+hypothetical protein_104,2448,Protein of unknown function (DUF2946),-,374,2534980,+,-,-,-,-,-,-,-,-,-,-,-,DUF2946
+Vitamin B12 transporter BtuB_108,2449,TonB-dependent Receptor Plug Domain,-,2339,2535457,+,-,-,ko:K02014,-,-,-,-,"ko00000,ko02000",1.B.14,-,-,"Plug,TonB_dep_Rec"
+hypothetical protein_121,2464,COG2801 Transposase and inactivated derivatives,-,149,2551918,-,-,-,-,-,-,-,-,-,-,-,-,"HTH_28,HTH_29,HTH_32,rve,rve_3"
+CRP-like cAMP-activated global transcriptional regulator,2550,Crp Fnr family,nnrR,752,2638700,-,-,-,ko:K21564,-,-,-,-,"ko00000,ko03000",-,-,-,"HTH_Crp_2,cNMP_binding"
+hypothetical protein_7,2551,-,-,479,2639680,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_78,2560,-,-,260,2648423,-,-,-,-,-,-,-,-,-,-,-,-,-
+DNA primase,2576,RNA polymerase that catalyzes the synthesis of short RNA molecules used as primers for DNA polymerase during DNA replication,dnaG,1904,2664131,-,-,-,ko:K02316,"ko03030,map03030",-,-,-,"ko00000,ko00001,ko01000,ko03032",-,-,-,"DnaB_bind,Toprim_4,Toprim_N,zf-CHC2"
+hypothetical protein_51,2617,AI-2E family transporter,-,2024,2703669,-,-,-,-,-,-,-,-,-,-,-,-,AI-2E_transport
+hypothetical protein_19,2745,Mitochondrial small ribosomal subunit Rsm22,-,1046,2837017,+,-,-,-,-,-,-,-,-,-,-,-,Rsm22
+hypothetical protein_11,2759,-,-,263,2851202,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_28,2771,Putative member of DMT superfamily (DUF486),-,458,2865474,-,-,-,ko:K09922,-,-,-,-,ko00000,-,-,-,DMT_6
+hypothetical protein_122,2797,-,-,401,2891179,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_123,2798,Multicopper oxidase,-,2111,2891617,-,-,-,-,-,-,-,-,-,-,-,-,"Cu-oxidase,Cu-oxidase_2,Cu-oxidase_3"
+hypothetical protein_48,2810,Pyridoxamine 5'-phosphate oxidase like,-,542,2904115,-,-,-,-,-,-,-,-,-,-,-,-,Pyrid_ox_like
+hypothetical protein_27,2817,-,-,188,2909616,-,-,-,-,-,-,-,-,-,-,-,-,-
+"Fructose-1,6-bisphosphatase class 1",2834,"D-fructose-1,6-bisphosphate 1-phosphohydrolase class 1",fbp,1037,2926360,-,"GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005975,GO:0005984,GO:0005985,GO:0005986,GO:0005996,GO:0006000,GO:0006002,GO:0006006,GO:0006094,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0009058,GO:0009311,GO:0009312,GO:0009987,GO:0016051,GO:0016311,GO:0016787,GO:0016788,GO:0016791,GO:0019203,GO:0019318,GO:0019319,GO:0019637,GO:0030388,GO:0034637,GO:0042132,GO:0042578,GO:0044237,GO:0044238,GO:0044249,GO:0044262,GO:0044281,GO:0044283,GO:0044424,GO:0044444,GO:0044464,GO:0046351,GO:0046364,GO:0050308,GO:0071704,GO:1901135,GO:1901576",3.1.3.11,ko:K03841,"ko00010,ko00030,ko00051,ko00680,ko00710,ko01100,ko01110,ko01120,ko01130,ko01200,ko04152,ko04910,map00010,map00030,map00051,map00680,map00710,map01100,map01110,map01120,map01130,map01200,map04152,map04910","M00003,M00165,M00167,M00344","R00762,R04780",RC00017,"ko00000,ko00001,ko00002,ko01000,ko04147",-,-,-,FBPase
+hypothetical protein_86,2907,-,MA20_18250,155,3009136,-,-,-,-,-,-,-,-,-,-,-,-,-
+Chaperone protein HtpG,2951,Molecular chaperone. Has ATPase activity,htpG,1913,3049285,-,-,-,ko:K04079,"ko04141,ko04151,ko04217,ko04612,ko04621,ko04626,ko04657,ko04659,ko04914,ko04915,ko05200,ko05215,ko05418,map04141,map04151,map04217,map04612,map04621,map04626,map04657,map04659,map04914,map04915,map05200,map05215,map05418",-,-,-,"ko00000,ko00001,ko01009,ko03029,ko03051,ko03110,ko04131,ko04147",-,-,-,"HATPase_c,HATPase_c_3,HSP90"
+hypothetical protein_29,3036,Protein of unknown function (DUF938),-,671,3128362,-,-,-,-,-,-,-,-,-,-,-,-,DUF938
+hypothetical protein_22,3038,DsrE/DsrF-like family,-,470,3129380,+,-,-,ko:K09004,-,-,-,-,ko00000,-,-,-,DrsE
+Vitamin B12 transporter BtuB_101,3046,TonB-dependent receptor,-,2375,3136488,+,-,-,ko:K02014,-,-,-,-,"ko00000,ko02000",1.B.14,-,-,"Plug,TonB_dep_Rec"
+hypothetical protein_102,3047,exo-alpha-(2->6)-sialidase activity,-,1208,3138881,+,-,-,-,-,-,-,-,-,-,-,-,BNR_2
+hypothetical protein_103,3048,COG0526 Thiol-disulfide isomerase and thioredoxins,MA20_37405,527,3140086,+,-,-,-,-,-,-,-,-,-,-,-,"Redoxin,Thioredoxin"
+Ribulose bisphosphate carboxylase large chain,3076,"RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site",cbbL,1469,3164384,-,-,4.1.1.39,ko:K01601,"ko00630,ko00710,ko01100,ko01120,ko01200,map00630,map00710,map01100,map01120,map01200","M00165,M00166,M00532","R00024,R03140","RC00172,RC00859","ko00000,ko00001,ko00002,ko01000",-,-,-,"RuBisCO_large,RuBisCO_large_N"
+HTH-type transcriptional activator CmpR_111,3077,Function of homologous gene experimentally demonstrated in an other organism,cbbR1,962,3166356,+,-,-,ko:K21703,-,-,-,-,"ko00000,ko03000",-,-,-,"HTH_1,LysR_substrate"
+hypothetical protein_12,3103,-,-,353,3194169,+,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_50,3152,Tetratricopeptide repeats,-,3248,3250656,+,-,-,-,-,-,-,-,-,-,-,-,"Peptidase_C14,TPR_10,TPR_8"
+hypothetical protein_88,3153,Formate/nitrite transporter,MA20_17080,818,3254250,+,-,-,-,-,-,-,-,-,-,-,-,Form_Nir_trans
+hypothetical protein_81,3157,-,-,194,3258203,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_39,3192,-,-,260,3297611,-,-,-,-,-,-,-,-,-,-,-,-,-
+hypothetical protein_115,3263,"Response regulator, receiver",-,251,3363486,+,-,-,-,-,-,-,-,-,-,-,-,"DUF4388,HATPase_c,PAS,Response_reg"
