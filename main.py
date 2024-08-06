@@ -3,7 +3,9 @@ import gene_density
 import graphs
 import csv
 import pandas as pd
+import os
 
+#prints exclusive genes in the representative genome to csv
 def get_supercontig(df):
     row = df.loc[super_cont]
     gps=row['Gene Product']
@@ -16,25 +18,32 @@ def get_supercontig(df):
     
 
 def main():
+    #make outdir if not exists
+    if not os.path.exists(outdir):
+        os.makedirs(outdir)
+        
     outname1 = f'{outdir}/ex_genes_per_contig.csv'
     outname2 = f'{outdir}/gpa.csv'
     
     with open(csv_file, 'r') as file:
         csv_reader = csv.reader(file, quoting=csv.QUOTE_ALL)
         
+        #read and print all genes, contigs
         df = gene_density.get_df(gff_files, csv_reader, genomes, eggnog, super_cont)
         df.to_csv(outname1, index=True)
+        #filter for contigs with 4 or more esclusive genes
         filtered_df = df[df['Gene Count'] >= 4]
         get_supercontig(df)
     
         
         file.seek(0)
+        #gene presence/absence
         gpa = gene_density.create_gene_presence_df(csv_reader, genomes)
         gpa.to_csv(outname2, index=True)
-        
+        #plot distribution
         graphs.plot_gene_distribution(filtered_df, gpa, outdir)
         graphs.plot_gene_clusters(filtered_df, gpa, outdir)
-        graphs.get_pa_matrix(gpa)
+        #graphs.get_pa_matrix(gpa)
 
 if __name__ == "__main__":
     main()
